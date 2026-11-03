@@ -1,0 +1,15 @@
+# AI 提取用的模型。换别家（只要兼容 OpenAI 的 /chat/completions 接口）只改这里。
+provider: deepseek
+base_url: https://api.deepseek.com
+model: deepseek-flash            # deepseek-chat 目前会自动转到它，以后可能停用
+api_key_env: DEEPSEEK_API_KEY   # Key 放在环境变量或 app/.env 里，变量名写这里
+batch_size: 15                  # 每次调用处理几条新闻（只有标题和摘要的）
+excerpt_batch_size: 6           # 带正文段落的新闻每批几条
+concurrency: 3                  # 同时进行几批（1 = 一批一批来）
+temperature: 0
+max_tokens: 4000                # 按 15 条一批给足；太小会被截断成非法 JSON
+timeout_seconds: 60
+# 额外的请求参数，原样并入请求体。deepseek-flash 默认会先“思考”，思考也占 max_tokens，
+# 实测 15 条一批时 4000 个 token 全用在思考上、正文为空；提取任务关掉思考即可（约 4 秒一批）。
+extra_body:
+  thinking: { type: disabled }

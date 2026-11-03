@@ -1,0 +1,23 @@
+# 人工纠错：每次运行最后应用，AI 不能覆盖。
+# 事件 id 的写法：品牌id-地区-活动类型-年份，例如 nike-US-black_friday-2026；
+# other 类型末尾再加促销身份（活动名规范化），例如 bestbuy-US-other-2026-doorbooster
+# （可以在网页数据 web/data/data.js 或 data/sales.json 里查到）。
+#
+# 可以改的字段：event_name, start, end, discount, status（confirmed / rumored）
+# 删除整条事件：写 delete: true
+#
+# 例子（去掉行首的 # 才生效）：
+# events:
+#   nike-US-black_friday-2026:
+#     start: "2026-11-20"
+#     end: "2026-11-30"
+#     status: confirmed
+#   lululemon-US-other-2026-wemadetoomuch:    # other 类型的 id 末尾带促销身份（活动名规范化后，见 sales.json）
+#     delete: true
+
+events:
+  bestbuy-US-other-2026-doorbooster:   # 用户 2026-11-01 核实 IGN 时间表（DoorBOOsters 10-30 到 11-01）
+    start: "2026-10-30"
+    end: "2026-11-01"
+  bestbuy-US-early_bf-2026:            # 用户 2026-11-01 核实 IGN 时间表（Early Black Friday 11-06 到 11-19）
+    end: "2026-11-19"

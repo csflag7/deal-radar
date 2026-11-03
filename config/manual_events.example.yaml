@@ -1,0 +1,34 @@
+# 官网所见（人工记录）的样例。真正用的是同目录下的 manual_events.yaml（本地文件，不进仓库，因为会暴露浏览记录）。
+# 第一次用：把这个文件复制一份，改名为 manual_events.yaml，再往 events 里加记录。
+#
+# 在品牌官网上亲眼看到的打折信息，每次运行都当作一条“官网来源”并进事件（dealradar.combine 每次从头算）。
+# 1. manual 和官网来源同级（level = official），状态按官网来源算（有开始日期或折扣就是“已官宣”）；
+#    日期投票、折扣和活动名上，manual 排在同级的 AI 来源前面。优先级：overrides.yaml > 这里 > 官网监控 > AI 新闻。
+# 2. 从这个文件删掉一条，下次运行它就没了。要改正 AI 抓到的事件，请用 config/overrides.yaml。
+#
+# 每条字段：
+#   brand_id    品牌 id（必须在 brands.yaml 里）
+#   region      US / CA
+#   event_type  early_bf / black_friday / cyber_monday / cyber_week / boxing_day / other（这里不做类型校正）
+#   event_name  页面上的活动名
+#   start, end  YYYY-MM-DD，可以写 null；写了的日期必须在 quote 里出现（例如 November 2、Nov. 2、11/2）
+#   discount    折扣，可以写 null
+#   quote       页面上看到的原文（照抄，要包含日期）
+#   url         官网页面
+#   seen        查看日期 YYYY-MM-DD
+# 读入时校验不过（品牌不在清单里、日期不在原文里等）的条目会被丢弃，并在运行日志里打 warning。
+#
+# 写法示例（虚构的内容，只演示格式；去掉行首的 # 才生效）：
+# events:
+#   - brand_id: example_brand
+#     region: US
+#     event_type: black_friday
+#     event_name: "Black Friday Sale"
+#     start: 2026-11-20
+#     end: 2026-11-30
+#     discount: "up to 40% off"
+#     quote: "Black Friday Sale: up to 40% off, November 20 to November 30."
+#     url: https://www.example.com/black-friday
+#     seen: 2026-11-01
+
+events: []

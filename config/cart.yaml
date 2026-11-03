@@ -1,0 +1,78 @@
+# 购物车提醒（S13 / S14，ADR-008）的设置。只在 Mac 本地用；购物车、价格、通知记录都放在 Obsidian 的
+# 邮件工作台/黑五购物/_黑五/data/ 下面，不进仓库。改这里不用改代码。
+
+# 数据目录：留空 = 邮件工作台/黑五购物/_黑五/data。试跑或测试时可以用环境变量 DEALRADAR_CART_DATA_DIR 指到别处。
+data_dir: null
+
+# 读价格（ADR-008 原则例外：只读用户在购物车里勾选的商品页，每天每页一次；规矩和官网监控相同）
+fetch:
+  site_delay_seconds: 5        # 同一网站两次请求（含 robots.txt）之间至少间隔
+  page_timeout_seconds: 90     # 单页总超时；超时记为出错，不重试
+  max_redirects: 3             # 自己跟跳转，每一跳都核对 robots.txt
+  max_bytes: 6000000           # 页面最多读这么多字节
+  max_pages_per_run: 40        # 每次最多读几个商品页
+
+# 建议和提醒
+advice:
+  deadline_days: 3             # 离最晚购买日 ≤ 这么多天：「截止临近」
+
+# 型号确认（DeepSeek，设置在 config/llm.yaml；Key 在 app/.env）
+identify:
+  max_candidates: 4
+
+# 主要零售商：id 要和 brands.yaml 里的品牌 id 一样（页面域名 → 零售商 → 品牌，用来找相关活动）。
+# search 里的 {q} 换成型号（URL 编码）。这些搜索链接只显示给用户点，程序不去抓。
+retailers:
+  - id: bestbuy
+    name: Best Buy
+    domains: [bestbuy.com, bestbuy.ca]
+    search:
+      US: "https://www.bestbuy.com/site/searchpage.jsp?st={q}"
+      CA: "https://www.bestbuy.ca/en-ca/search?search={q}"
+  - id: amazon
+    name: Amazon
+    domains: [amazon.com, amazon.ca]
+    search:
+      US: "https://www.amazon.com/s?k={q}"
+      CA: "https://www.amazon.ca/s?k={q}"
+  - id: costco
+    name: Costco
+    domains: [costco.com, costco.ca]
+    search:
+      US: "https://www.costco.com/CatalogSearch?dept=All&keyword={q}"
+      CA: "https://www.costco.ca/CatalogSearch?dept=All&keyword={q}"
+  - id: walmart
+    name: Walmart
+    domains: [walmart.com, walmart.ca]
+    search:
+      US: "https://www.walmart.com/search?q={q}"
+      CA: "https://www.walmart.ca/search?q={q}"
+  - id: target
+    name: Target
+    domains: [target.com]
+    search:
+      US: "https://www.target.com/s?searchTerm={q}"
+  - id: canadiantire
+    name: Canadian Tire
+    domains: [canadiantire.ca]
+    search:
+      CA: "https://www.canadiantire.ca/en/search-results.html?q={q}"
+  - id: homedepot
+    name: The Home Depot
+    domains: [homedepot.com, homedepot.ca]
+    search:
+      US: "https://www.homedepot.com/s/{q}"
+      CA: "https://www.homedepot.ca/search?q={q}"
+
+# 品牌官网的站内搜索（brands.yaml 里该地区有店的品牌）。没写在这里的品牌，就给官网首页链接。
+brand_search:
+  apple:     { US: "https://www.apple.com/us/search/{q}", CA: "https://www.apple.com/ca/search/{q}" }
+  dyson:     { US: "https://www.dyson.com/search-results?query={q}", CA: "https://www.dysoncanada.ca/en/search-results?query={q}" }
+  sephora:   { US: "https://www.sephora.com/search?keyword={q}", CA: "https://www.sephora.com/ca/en/search?keyword={q}" }
+  lululemon: { US: "https://shop.lululemon.com/search?Ntt={q}", CA: "https://shop.lululemon.com/en-ca/search?Ntt={q}" }
+  nike:      { US: "https://www.nike.com/w?q={q}", CA: "https://www.nike.com/ca/w?q={q}" }
+  samsung:   { US: "https://www.samsung.com/us/search/searchMain/?listType=g&searchTerm={q}", CA: "https://www.samsung.com/ca/search/?searchvalue={q}" }
+  ikea:      { US: "https://www.ikea.com/us/en/search/?q={q}", CA: "https://www.ikea.com/ca/en/search/?q={q}" }
+  wayfair:   { US: "https://www.wayfair.com/keyword.php?keyword={q}", CA: "https://www.wayfair.ca/keyword.php?keyword={q}" }
+  ulta:      { US: "https://www.ulta.com/search?search={q}" }
+  microsoft: { US: "https://www.microsoft.com/en-us/search/shop?q={q}", CA: "https://www.microsoft.com/en-ca/search/shop?q={q}" }

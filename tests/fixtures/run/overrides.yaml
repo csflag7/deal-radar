@@ -1,0 +1,6 @@
+events:
+  canadiantire-CA-black_friday-2026:
+    start: 2026-11-21
+    status: confirmed
+  amazon-unknown-other-2026-airpodpro3:   # other 的 id 带促销身份（S3 v4）
+    delete: true

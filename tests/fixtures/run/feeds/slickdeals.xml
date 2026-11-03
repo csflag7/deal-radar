@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Slickdeals Frontpage RSS Feed</title>
+<link>https://slickdeals.net/</link>
+<description>Slickdeals</description>
+<item>
+  <title>Apple AirPods Pro 3 $169 at Amazon</title>
+  <link>https://slickdeals.net/f/19000001-apple-airpods-pro-3-169-at-amazon</link>
+  <guid isPermaLink="false">sd-19000001</guid>
+  <pubDate>Sat, 31 Oct 2026 16:00:00 GMT</pubDate>
+  <description>&lt;div&gt;Amazon has Apple AirPods Pro 3 on sale for $169. Free shipping.&lt;/div&gt;</description>
+</item>
+<item>
+  <title>Kids Toys 50% off at Toy Planet</title>
+  <link>https://slickdeals.net/f/19000002-kids-toys</link>
+  <guid isPermaLink="false">sd-19000002</guid>
+  <pubDate>Sat, 31 Oct 2026 15:00:00 GMT</pubDate>
+  <description>Toy Planet deal: 50% off select toys.</description>
+</item>
+</channel></rss>

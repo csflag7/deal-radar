@@ -1,0 +1,7 @@
+# 和本地 .venv 一致的版本（2026-11-01 锁定）。GitHub Actions 用 Python 3.12 安装同样的版本。
+PyYAML==6.0.3
+httpx==0.28.1
+feedparser==6.0.12
+pytest==8.4.2
+# Mac 日历同步（calendar_sync）用 EventKit 找 iCloud 日历；只在 Mac 上装，云端（Linux）自动跳过
+pyobjc-framework-EventKit==13.0; sys_platform == "darwin"

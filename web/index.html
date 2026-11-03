@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>打折日历</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --panel: #ffffff; --line: #e3e6eb; --line-soft: #eef0f3;
+    --text: #1f2430; --muted: #6b7280; --accent: #1e3a8a; --accent-soft: #e8eefb;
+    --today: #1e3a8a; --on-accent: #fff; --other-month: #f9fafb; --shadow: 0 1px 3px rgba(0,0,0,.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15171c; --panel: #1d2027; --line: #2d313a; --line-soft: #262a32;
+      --text: #e7e9ee; --muted: #9aa1ad; --accent: #8fb0ff; --accent-soft: #24304d;
+      --today: #8fb0ff; --on-accent: #0b1530; --other-month: #191b21; --shadow: none;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body { background: var(--bg); color: var(--text); font: 14px/1.4 -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", sans-serif; }
+  a { color: var(--accent); }
+  button { font: inherit; color: inherit; }
+
+  .app { display: grid; grid-template-columns: 260px 1fr; height: 100vh; height: 100dvh; }
+  .sidebar { background: var(--panel); border-right: 1px solid var(--line); overflow-y: auto; padding: 14px 12px 24px; }
+  .main { display: flex; flex-direction: column; min-width: 0; }
+
+  .sample-banner { background: #fff4d6; color: #7a5200; padding: 6px 14px; font-size: 13px; border-bottom: 1px solid #f0dca0; }
+  @media (prefers-color-scheme: dark) { .sample-banner { background: #3a3018; color: #f3d48a; border-color: #5a4a22; } }
+
+  /* 工具栏 */
+  .toolbar { display: flex; align-items: center; gap: 8px; padding: 10px 14px; background: var(--panel); border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  .btn { border: 1px solid var(--line); background: var(--panel); border-radius: 6px; padding: 5px 12px; cursor: pointer; }
+  .btn:hover { background: var(--accent-soft); }
+  .btn.icon { padding: 5px 10px; }
+  .range-title { font-size: 20px; font-weight: 600; margin: 0 8px; white-space: nowrap; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .seg button { border: 0; background: var(--panel); padding: 5px 12px; cursor: pointer; border-right: 1px solid var(--line); }
+  .seg button:last-child { border-right: 0; }
+  .seg button.on { background: var(--accent); color: var(--on-accent); }
+  .spacer { flex: 1; }
+  .updated { color: var(--muted); font-size: 12px; }
+  .menu-btn { display: none; }
+
+  /* 侧栏 */
+  .side-title { font-weight: 600; margin: 6px 4px 10px; font-size: 15px; }
+  .search { width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--text); margin-bottom: 10px; }
+  .region-row { margin-bottom: 12px; }
+  .cat { margin-bottom: 6px; }
+  .cat-head { display: flex; align-items: center; gap: 6px; padding: 5px 4px; cursor: pointer; font-weight: 600; user-select: none; }
+  .cat-head .caret { width: 14px; color: var(--muted); transition: transform .15s; }
+  .cat.collapsed .caret { transform: rotate(-90deg); }
+  .cat.collapsed .brand-list { display: none; }
+  .brand { display: flex; align-items: center; gap: 8px; padding: 4px 4px 4px 22px; border-radius: 6px; }
+  .brand:hover { background: var(--accent-soft); }
+  .brand input { width: 15px; height: 15px; margin: 0; accent-color: var(--c); cursor: pointer; }
+  .brand label { flex: 1; cursor: pointer; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .brand .shop { font-size: 11px; text-decoration: none; border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; color: var(--muted); }
+  .brand .shop:hover { color: var(--accent); border-color: var(--accent); }
+  .side-actions { display: flex; gap: 6px; margin: 4px 0 12px; }
+  .side-actions .btn { font-size: 12px; padding: 3px 8px; }
+  .legend { margin-top: 18px; font-size: 12px; color: var(--muted); }
+  .legend div { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+  .legend .sw { width: 26px; height: 12px; border-radius: 3px; }
+
+  /* 日历 */
+  .cal-wrap { flex: 1; overflow: auto; padding: 0 14px 14px; }
+  .undated { margin: 12px 0 0; padding: 8px 12px; background: var(--panel); border: 1px dashed var(--line); border-radius: 8px; font-size: 13px; }
+  .undated b { margin-right: 6px; }
+  .undated .toggle { cursor: pointer; user-select: none; }
+  .undated .chip { display: inline-block; margin: 2px 4px; cursor: pointer; text-decoration: underline dotted; }
+
+  .cal { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; margin-top: 12px; box-shadow: var(--shadow); overflow: hidden; }
+  .dow { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border-bottom: 1px solid var(--line); }
+  .dow div { padding: 8px 10px; color: var(--muted); font-size: 12px; }
+  .week { position: relative; border-bottom: 1px solid var(--line); }
+  .week:last-child { border-bottom: 0; }
+  .week .bgcells { position: absolute; inset: 0; display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); }
+  .week .bgcells div { border-right: 1px solid var(--line-soft); }
+  .week .bgcells div:last-child { border-right: 0; }
+  .week .bgcells .other { background: var(--other-month); }
+  .week .bgcells .is-today { background: var(--accent-soft); }
+  .week .fg { position: relative; display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); grid-auto-rows: 24px; row-gap: 3px; padding-bottom: 6px; }
+  .daynum { padding: 4px 8px 0; font-size: 13px; color: var(--muted); grid-row: 1; }
+  .daynum.today span { background: var(--today); color: var(--on-accent); border-radius: 50%; display: inline-block; width: 24px; height: 24px; text-align: center; line-height: 24px; font-weight: 600; }
+  .daynum.big { font-size: 22px; color: var(--text); padding-top: 8px; }
+  .daynum.big small { display: block; font-size: 12px; color: var(--muted); }
+  .more { font-size: 12px; color: var(--muted); padding: 0 8px; cursor: pointer; align-self: center; }
+  .more:hover { color: var(--accent); }
+
+  .ev { margin: 0 3px; padding: 0 8px; border-radius: 4px; font-size: 12.5px; line-height: 24px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer;
+        background: color-mix(in srgb, var(--c) 18%, var(--panel)); border-left: 4px solid var(--c); color: var(--text); }
+  .ev:hover { filter: brightness(.96); }
+  .ev.rumored, .ev.leaked { background: repeating-linear-gradient(135deg, color-mix(in srgb, var(--c) 12%, var(--panel)) 0 6px, var(--panel) 6px 10px); border-left-style: dashed; }
+  .ev.ended { opacity: .45; }
+  .ev .flag { font-size: 11px; color: var(--muted); margin-left: 4px; }
+  .ev.cont-l { border-top-left-radius: 0; border-bottom-left-radius: 0; margin-left: 0; }
+  .ev.cont-r { border-top-right-radius: 0; border-bottom-right-radius: 0; margin-right: 0; }
+  .week-view .fg { grid-template-rows: 62px; grid-auto-rows: 48px; }
+  .week-view .ev { line-height: 1.3; padding-top: 4px; white-space: normal; }
+  .week-view .ev .disc { display: block; font-size: 11.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .week-view .week { min-height: 420px; }
+
+  /* 列表视图 */
+  .list { margin-top: 12px; }
+  .list h3 { font-size: 14px; color: var(--muted); margin: 18px 0 8px; }
+  .row { display: grid; grid-template-columns: 6px 1fr auto; gap: 12px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; margin-bottom: 6px; cursor: pointer; }
+  .row .bar { align-self: stretch; border-radius: 3px; background: var(--c); }
+  .row .t { font-weight: 600; }
+  .row .s { color: var(--muted); font-size: 12.5px; }
+
+  /* 详情面板 */
+  .drawer-mask { position: fixed; inset: 0; background: rgba(0,0,0,.25); display: none; z-index: 20; }
+  .drawer { position: fixed; top: 0; right: 0; height: 100%; width: min(380px, 100%); background: var(--panel); border-left: 1px solid var(--line); z-index: 21; transform: translateX(100%); transition: transform .2s; padding: 18px 20px; overflow-y: auto; }
+  .drawer.open { transform: none; }
+  .drawer-mask.open { display: block; }
+  .drawer h2 { margin: 0 0 4px; font-size: 20px; }
+  .drawer .sub { color: var(--muted); margin-bottom: 14px; }
+  .drawer dl { display: grid; grid-template-columns: 72px 1fr; gap: 8px 10px; margin: 0 0 18px; }
+  .drawer dt { color: var(--muted); }
+  .drawer dd { margin: 0; }
+  .badge { display: inline-block; font-size: 12px; padding: 1px 8px; border-radius: 10px; border: 1px solid; }
+  .badge.confirmed { color: #15803d; border-color: #86efac; }
+  .badge.rumored { color: #b45309; border-color: #fcd34d; }
+  .badge.leaked { color: #7c3aed; border-color: #c4b5fd; }
+  .badge.ended { color: var(--muted); border-color: var(--line); }
+  .shop-btn { display: block; text-align: center; background: var(--accent); color: var(--on-accent); text-decoration: none; padding: 10px; border-radius: 8px; font-weight: 600; margin-bottom: 14px; }
+  .close { position: absolute; top: 12px; right: 12px; border: 0; background: none; font-size: 22px; cursor: pointer; color: var(--muted); }
+  .sources a { display: block; margin: 4px 0; word-break: break-all; }
+  .sources .src { margin: 6px 0; }
+  .sources .src a { display: inline; margin: 0; }
+  .sources .lv { font-size: 11px; color: var(--muted); margin-left: 6px; white-space: nowrap; }
+
+  /* 手机 */
+  @media (max-width: 760px) {
+    .app { grid-template-columns: minmax(0, 1fr); }
+    .sidebar { position: fixed; z-index: 30; top: 0; left: 0; bottom: 0; width: 82%; max-width: 300px; transform: translateX(-100%); transition: transform .2s; box-shadow: 2px 0 12px rgba(0,0,0,.2); }
+    .sidebar.open { transform: none; }
+    .menu-btn { display: inline-block; }
+    .range-title { font-size: 16px; margin: 0 4px; }
+    .toolbar { padding: 8px 10px; gap: 6px; }
+    .updated { width: 100%; }
+    .cal-wrap { padding: 0 6px 10px; }
+    .ev { font-size: 11px; padding: 0 4px; }
+    .daynum { padding: 2px 4px 0; font-size: 12px; }
+    .dow div { padding: 6px 4px; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="side-title">品牌</div>
+    <input class="search" id="search" placeholder="搜索品牌…">
+    <div class="region-row">
+      <div class="seg" id="regionSeg">
+        <button data-r="ALL" class="on">全部</button><button data-r="US">🇺🇸 美国</button><button data-r="CA">🇨🇦 加拿大</button>
+      </div>
+    </div>
+    <div class="side-actions">
+      <button class="btn" id="allOn">全选</button><button class="btn" id="allOff">全不选</button>
+    </div>
+    <div id="brandTree"></div>
+    <div class="legend">
+      <div><span class="sw" style="background:color-mix(in srgb,#3b6fd4 18%,transparent);border-left:4px solid #3b6fd4"></span>已官宣</div>
+      <div><span class="sw" style="background:repeating-linear-gradient(135deg,color-mix(in srgb,#3b6fd4 14%,transparent) 0 6px,transparent 6px 10px);border-left:4px dashed #3b6fd4"></span>传闻 / 提前泄露</div>
+      <div>购物 = 打开品牌官网</div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="sample-banner" id="sampleBanner" hidden>⚠️ 当前显示的是<b>示例数据</b>，打折日期都是虚构的，只用来演示界面。接入每日抓取后会自动换成真实数据。</div>
+    <div class="toolbar">
+      <button class="btn icon menu-btn" id="menuBtn">☰</button>
+      <button class="btn" id="todayBtn">今天</button>
+      <button class="btn icon" id="prevBtn">‹</button>
+      <button class="btn icon" id="nextBtn">›</button>
+      <div class="range-title" id="rangeTitle"></div>
+      <div class="spacer"></div>
+      <div class="seg" id="viewSeg">
+        <button data-v="week">周</button><button data-v="month" class="on">月</button><button data-v="list">列表</button>
+      </div>
+      <span class="updated" id="updated"></span>
+    </div>
+    <div class="cal-wrap" id="calWrap"></div>
+  </main>
+</div>
+
+<div class="drawer-mask" id="mask"></div>
+<aside class="drawer" id="drawer"></aside>
+
+<script src="data/data.js"></script>
+<script>
+(() => {
+  const D = Object.assign({ meta: {}, categories: [], brands: [], sales: [] }, window.DEAL_DATA);
+  D.brands.forEach(b => { b.shop = b.shop || {}; });
+  const brandById = Object.fromEntries(D.brands.map(b => [b.id, b]));
+  const catById = Object.fromEntries(D.categories.map(c => [c.id, c]));
+  const STATUS = { confirmed: "已官宣", rumored: "传闻", leaked: "提前泄露", ended: "已结束" };
+  const REGION = { US: "🇺🇸 美国", CA: "🇨🇦 加拿大", unknown: "地区未知" };
+  const LEVEL = { official: "官网", media: "权威媒体", other: "其他来源" };   // 每条来源自己的级别
+  const DOW = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"];
+  const MAX_LANES_MONTH = 4;
+
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("dealcal:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem("dealcal:" + k, JSON.stringify(v)); } catch {} }
+  };
+
+  const state = {
+    view: ["week", "month", "list"].find(v => v === (new URLSearchParams(location.search).get("view") || store.get("view", "month"))) || "month",
+    region: store.get("region", "ALL"),
+    hidden: new Set(store.get("hidden", [])),
+    collapsed: new Set(store.get("collapsed", [])),
+    cursor: today(),
+    q: "",
+    undatedOpen: false      // “日期未定”默认折叠
+  };
+
+  // ---------- 日期工具（全部按本地日期，不带时区） ----------
+  function today() { const d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); }
+  function parse(s) { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); }
+  function addDays(d, n) { const x = new Date(d); x.setDate(x.getDate() + n); return x; }
+  function startOfWeek(d) { return addDays(d, -((d.getDay() + 6) % 7)); } // 周一开头
+  function sameDay(a, b) { return a.getTime() === b.getTime(); }
+  function diffDays(a, b) { return Math.round((b - a) / 86400000); }
+  function fmt(d) { return `${d.getMonth() + 1}月${d.getDate()}日`; }
+  function fmtRange(s) {
+    if (!s.start) return "日期未公布";
+    const a = parse(s.start), b = parse(s.end || s.start);
+    return sameDay(a, b) ? fmt(a) : `${fmt(a)} – ${fmt(b)}`;
+  }
+
+  // ---------- 过滤 ----------
+  function brandVisible(b) {
+    if (state.region !== "ALL" && !b.shop[state.region]) return false;
+    if (state.q && !b.name.toLowerCase().includes(state.q)) return false;
+    return true;
+  }
+  function visibleSales() {
+    return D.sales.filter(s => {
+      const b = brandById[s.brand];
+      if (!b || state.hidden.has(b.id)) return false;
+      if (state.region !== "ALL" && s.region !== state.region) return false;
+      return true;
+    });
+  }
+  function color(s) { const b = brandById[s.brand]; return safeColor((catById[b.category] || {}).color); }
+  function label(s) { const b = brandById[s.brand]; return `${b.name}${state.region === "ALL" ? " " + (s.region === "unknown" ? "地区未知" : s.region) : ""} · ${s.event}`; }
+
+  // ---------- 侧栏 ----------
+  function renderSidebar() {
+    const tree = document.getElementById("brandTree");
+    tree.innerHTML = "";
+    for (const c of D.categories) {
+      const brands = D.brands.filter(b => b.category === c.id && brandVisible(b));
+      if (!brands.length) continue;
+      const wrap = el("div", "cat" + (state.collapsed.has(c.id) ? " collapsed" : ""));
+      const head = el("div", "cat-head");
+      head.innerHTML = `<span class="caret">▾</span><span style="color:${safeColor(c.color)}">●</span> ${esc(c.name)} <span style="color:var(--muted);font-weight:400">(${brands.length})</span>`;
+      head.onclick = () => { toggle(state.collapsed, c.id); store.set("collapsed", [...state.collapsed]); renderSidebar(); };
+      const list = el("div", "brand-list");
+      for (const b of brands) {
+        const row = el("div", "brand");
+        row.style.setProperty("--c", safeColor(c.color));
+        const id = "cb-" + b.id;
+        const shopUrl = safeUrl(b.shop[state.region] || b.shop.US || b.shop.CA);
+        row.innerHTML = `<input type="checkbox" id="${id}" ${state.hidden.has(b.id) ? "" : "checked"}>
+          <label for="${id}">${esc(b.name)}</label>
+          ${shopUrl ? `<a class="shop" href="${shopUrl}" target="_blank" rel="noopener" title="打开 ${esc(b.name)} 官网">购物 ↗</a>` : ""}`;
+        row.querySelector("input").onchange = e => {
+          e.target.checked ? state.hidden.delete(b.id) : state.hidden.add(b.id);
+          store.set("hidden", [...state.hidden]); renderMain();
+        };
+        list.appendChild(row);
+      }
+      wrap.append(head, list);
+      tree.appendChild(wrap);
+    }
+  }
+
+  // ---------- 主区域 ----------
+  function renderMain() {
+    const wrap = document.getElementById("calWrap");
+    wrap.innerHTML = "";
+    const sales = visibleSales();
+    const title = document.getElementById("rangeTitle");
+
+    const undated = sales.filter(s => !s.start && s.event_type !== "other");   // 没日期的 other 只在列表“其他消息”里
+    if (undated.length && state.view !== "list") {
+      const box = el("div", "undated");
+      const head = el("b", "toggle", `日期未定（${undated.length}）${state.undatedOpen ? "▾" : "▸"}`);
+      head.onclick = () => { state.undatedOpen = !state.undatedOpen; renderMain(); };
+      box.appendChild(head);
+      if (state.undatedOpen) {
+        for (const s of undated) {
+          const chip = el("span", "chip"); chip.textContent = label(s) + (s.status === "confirmed" ? "" : `（${statusText(s)}）`); chip.onclick = () => openDetail(s); box.appendChild(chip);
+        }
+      }
+      wrap.appendChild(box);
+    }
+
+    if (state.view === "list") { title.textContent = "全部打折活动"; wrap.appendChild(renderList(sales)); return; }
+
+    let first, weeks, cls = "cal";
+    if (state.view === "month") {
+      const c = state.cursor;
+      title.textContent = `${c.getFullYear()} 年 ${c.getMonth() + 1} 月`;
+      first = startOfWeek(new Date(c.getFullYear(), c.getMonth(), 1));
+      const last = new Date(c.getFullYear(), c.getMonth() + 1, 0);
+      weeks = Math.ceil((diffDays(first, last) + 1) / 7);
+    } else {
+      first = startOfWeek(state.cursor); weeks = 1; cls += " week-view";
+      const end = addDays(first, 6);
+      title.textContent = `${first.getFullYear()} 年 ${fmt(first)} – ${fmt(end)}`;
+    }
+
+    const cal = el("div", cls);
+    const dow = el("div", "dow");
+    if (state.view === "month") DOW.forEach(d => dow.appendChild(el("div", "", d)));
+    else { dow.style.display = "none"; }
+    cal.appendChild(dow);
+    for (let w = 0; w < weeks; w++) cal.appendChild(renderWeek(addDays(first, w * 7), sales));
+    wrap.appendChild(cal);
+  }
+
+  function renderWeek(ws, sales) {
+    const we = addDays(ws, 6), t = today(), month = state.cursor.getMonth(), isMonth = state.view === "month";
+    const week = el("div", "week");
+    const bg = el("div", "bgcells"), fg = el("div", "fg");
+    for (let i = 0; i < 7; i++) {
+      const d = addDays(ws, i);
+      const cell = el("div", (isMonth && d.getMonth() !== month ? "other " : "") + (sameDay(d, t) ? "is-today" : ""));
+      bg.appendChild(cell);
+      const num = el("div", "daynum" + (sameDay(d, t) ? " today" : "") + (isMonth ? "" : " big"));
+      num.style.gridColumn = i + 1;
+      num.innerHTML = isMonth ? (d.getDate() === 1 && !sameDay(d, t) ? `${d.getMonth() + 1}月1日` : `<span>${d.getDate()}</span>`)
+                              : `<span>${d.getDate()}</span><small>${DOW[i]}</small>`;
+      fg.appendChild(num);
+    }
+
+    // 本周涉及的活动，按开始日期、时长排序后分配泳道
+    const items = sales.filter(s => s.start).map(s => ({ s, a: parse(s.start), b: parse(s.end || s.start) }))
+      .filter(x => x.b >= ws && x.a <= we)
+      .sort((x, y) => x.a - y.a || (y.b - y.a) - (x.b - x.a) || brandById[x.s.brand].name.localeCompare(brandById[y.s.brand].name));
+    const lanes = []; // 每条泳道记录已占用到哪一列
+    const hiddenPerDay = Array(7).fill(0);
+    for (const x of items) {
+      const c0 = Math.max(0, diffDays(ws, x.a)), c1 = Math.min(6, diffDays(ws, x.b));
+      let lane = lanes.findIndex(end => end < c0);
+      if (lane === -1) { lane = lanes.length; lanes.push(-1); }
+      lanes[lane] = c1;
+      if (isMonth && lane >= MAX_LANES_MONTH) { for (let c = c0; c <= c1; c++) hiddenPerDay[c]++; continue; }
+      const ev = el("div", `ev ${x.s.status}` + (x.a < ws ? " cont-l" : "") + (x.b > we ? " cont-r" : ""));
+      ev.style.setProperty("--c", color(x.s));
+      ev.style.gridColumn = `${c0 + 1} / ${c1 + 2}`;
+      ev.style.gridRow = lane + 2;
+      const flag = x.s.status === "confirmed" ? "" : `<span class="flag">(${esc(statusText(x.s))})</span>`;
+      ev.innerHTML = `${esc(label(x.s))}${flag}` + (isMonth ? "" : `<span class="disc">${esc(x.s.discount || "")}</span>`);
+      ev.title = `${label(x.s)}\n${fmtRange(x.s)}\n${x.s.discount || ""}`;
+      ev.onclick = () => openDetail(x.s);
+      fg.appendChild(ev);
+    }
+    hiddenPerDay.forEach((n, c) => {
+      if (!n) return;
+      const m = el("div", "more", `+${n} 更多`);
+      m.style.gridColumn = c + 1; m.style.gridRow = MAX_LANES_MONTH + 2;
+      m.onclick = () => { state.cursor = addDays(ws, c); setView("week"); };
+      fg.appendChild(m);
+    });
+    if (isMonth) fg.style.minHeight = (24 + 27 * MAX_LANES_MONTH + 30) + "px";
+    week.append(bg, fg);
+    return week;
+  }
+
+  function renderList(sales) {
+    const t = today(), box = el("div", "list");
+    const groups = [["进行中", []], ["即将开始", []], ["日期未定", []], ["已结束", []], ["其他消息", []]];
+    for (const s of sales) {
+      if (!s.start && s.event_type === "other") groups[4][1].push(s);
+      else if (!s.start) groups[2][1].push(s);
+      else if (parse(s.end || s.start) < t) groups[3][1].push(s);
+      else if (parse(s.start) <= t) groups[0][1].push(s);
+      else groups[1][1].push(s);
+    }
+    for (const [name, arr] of groups) {
+      if (!arr.length) continue;
+      arr.sort((a, b) => (a.start || "9").localeCompare(b.start || "9"));
+      box.appendChild(el("h3", "", `${name}（${arr.length}）`));
+      for (const s of arr) {
+        const r = el("div", "row"); r.style.setProperty("--c", color(s));
+        r.innerHTML = `<div class="bar"></div>
+          <div><div class="t">${esc(brandById[s.brand].name)} · ${esc(s.event)}</div>
+          <div class="s">${esc(REGION[s.region] || s.region)} · ${fmtRange(s)} · ${esc(s.discount || "")}</div></div>
+          <span class="badge ${esc(s.status)}">${esc(statusText(s))}</span>`;
+        r.onclick = () => openDetail(s);
+        box.appendChild(r);
+      }
+    }
+    if (!sales.length) box.appendChild(el("p", "", "没有符合条件的活动。"));
+    return box;
+  }
+
+  // ---------- 详情 ----------
+  function openDetail(s) {
+    const b = brandById[s.brand], shop = safeUrl(b.shop[s.region] || b.shop.US || b.shop.CA);
+    const src = (s.sources || []).length
+      ? s.sources.map(x => {
+          const u = safeUrl(x.url), t = esc(x.title || x.url || "");
+          const lv = [LEVEL[x.level], x.status ? STATUS[x.status] : ""].filter(Boolean).join(" · ");
+          const tag = lv ? `<span class="lv">[${esc(lv)}]</span>` : "";
+          return `<div class="src">${u ? `<a href="${u}" target="_blank" rel="noopener">${t}</a>` : t}${tag}</div>`;
+        }).join("")
+      : `<span style="color:var(--muted)">（暂无）</span>`;
+    document.getElementById("drawer").innerHTML = `
+      <button class="close" id="closeBtn">×</button>
+      <h2>${esc(b.name)}</h2>
+      <div class="sub">${esc(s.event)} · ${esc(REGION[s.region] || s.region)}</div>
+      ${shop ? `<a class="shop-btn" href="${shop}" target="_blank" rel="noopener">去 ${esc(b.name)} 官网购物 ↗</a>` : ""}
+      <dl>
+        <dt>状态</dt><dd><span class="badge ${esc(s.status)}">${esc(statusText(s))}</span></dd>
+        <dt>时间</dt><dd>${fmtRange(s)}${(s.date_conflict || []).length ? `<div style="color:var(--muted);font-size:12px">日期有分歧：${esc(s.date_conflict.map(v => String(v).startsWith("~") ? "结束 " + String(v).slice(1) : v).join(" / "))}</div>` : ""}</dd>
+        ${s.event_name && s.event_name !== s.event ? `<dt>活动名</dt><dd>${esc(s.event_name)}</dd>` : ""}
+        <dt>折扣</dt><dd>${esc(s.discount || "未知")}</dd>
+        <dt>类别</dt><dd>${esc((catById[b.category] || {}).name || "")}</dd>
+        ${s.updated ? `<dt>更新于</dt><dd>${esc(s.updated)}</dd>` : ""}
+      </dl>
+      <div style="font-weight:600;margin-bottom:6px">信息来源</div>
+      <div class="sources">${src}</div>`;
+    document.getElementById("closeBtn").onclick = closeDetail;
+    document.getElementById("drawer").classList.add("open");
+    document.getElementById("mask").classList.add("open");
+  }
+  function closeDetail() {
+    document.getElementById("drawer").classList.remove("open");
+    document.getElementById("mask").classList.remove("open");
+    document.getElementById("sidebar").classList.remove("open");
+  }
+
+  // ---------- 小工具 ----------
+  function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function esc(s) { return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+  function safeUrl(u) { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? esc(x.href) : ""; } catch { return ""; } }
+  function safeColor(c) { return /^#[0-9a-f]{3,8}$/i.test(c || "") ? c : "#888"; }
+  function statusText(s) { return STATUS[s.status] || s.status || "未知"; }
+  function toggle(set, v) { set.has(v) ? set.delete(v) : set.add(v); }
+  function setSeg(id, attr, val) { document.querySelectorAll(`#${id} button`).forEach(b => b.classList.toggle("on", b.dataset[attr] === val)); }
+  function setView(v) { state.view = v; store.set("view", v); setSeg("viewSeg", "v", v); renderMain(); }
+  function step(n) {
+    const c = state.cursor;
+    state.cursor = state.view === "month" ? new Date(c.getFullYear(), c.getMonth() + n, 1) : addDays(c, 7 * n);
+    renderMain();
+  }
+
+  // ---------- 事件绑定 ----------
+  document.getElementById("viewSeg").onclick = e => { if (e.target.dataset.v) setView(e.target.dataset.v); };
+  document.getElementById("regionSeg").onclick = e => {
+    const r = e.target.dataset.r; if (!r) return;
+    state.region = r; store.set("region", r); setSeg("regionSeg", "r", r); renderSidebar(); renderMain();
+  };
+  document.getElementById("todayBtn").onclick = () => { state.cursor = today(); renderMain(); };
+  document.getElementById("prevBtn").onclick = () => step(-1);
+  document.getElementById("nextBtn").onclick = () => step(1);
+  document.getElementById("search").oninput = e => { state.q = e.target.value.trim().toLowerCase(); renderSidebar(); };
+  document.getElementById("allOn").onclick = () => { state.hidden.clear(); store.set("hidden", []); renderSidebar(); renderMain(); };
+  document.getElementById("allOff").onclick = () => { D.brands.forEach(b => state.hidden.add(b.id)); store.set("hidden", [...state.hidden]); renderSidebar(); renderMain(); };
+  document.getElementById("menuBtn").onclick = () => { document.getElementById("sidebar").classList.add("open"); document.getElementById("mask").classList.add("open"); };
+  document.getElementById("mask").onclick = closeDetail;
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeDetail(); });
+
+  // ---------- 启动 ----------
+  document.getElementById("sampleBanner").hidden = !D.meta.sample;
+  if (D.meta.generated_at) {
+    const g = new Date(D.meta.generated_at);
+    document.getElementById("updated").textContent = `数据更新于 ${g.getMonth() + 1}月${g.getDate()}日 ${String(g.getHours()).padStart(2, "0")}:${String(g.getMinutes()).padStart(2, "0")}`;
+  }
+  setSeg("viewSeg", "v", state.view);
+  setSeg("regionSeg", "r", state.region);
+  renderSidebar();
+  renderMain();
+})();
+</script>
+</body>
+</html>

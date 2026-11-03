@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Deal Radar 的 Mac 本地任务（dealradar.mac_run）。这是模板：__APP_DIR__ 是 app/ 的绝对路径，__LOG_DIR__ 是日志目录。
+  用 scripts/make_plist.py 按本机路径生成 deploy/com.dealradar.mac.plist（那个文件含用户目录，不进仓库）。
+  每天 2、5、8、11、14、17、20、23 点各跑一次，登录时（RunAtLoad）也跑一次；Mac 睡眠时错过的会在醒来后补跑一次。
+  距上次成功不到 2.5 小时，程序自己会跳过。
+-->
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.dealradar.mac</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>__APP_DIR__/.venv312/bin/python</string>
+		<string>-m</string>
+		<string>dealradar.mac_run</string>
+	</array>
+	<key>WorkingDirectory</key>
+	<string>__APP_DIR__</string>
+	<key>StartCalendarInterval</key>
+	<array>
+		<dict><key>Hour</key><integer>2</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>5</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>11</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>14</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>17</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>20</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>23</integer><key>Minute</key><integer>0</integer></dict>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+		<key>LANG</key>
+		<string>en_US.UTF-8</string>
+		<key>PYTHONIOENCODING</key>
+		<string>UTF-8</string>
+	</dict>
+	<key>StandardOutPath</key>
+	<string>__LOG_DIR__/launchd.out.log</string>
+	<key>StandardErrorPath</key>
+	<string>__LOG_DIR__/launchd.err.log</string>
+</dict>
+</plist>

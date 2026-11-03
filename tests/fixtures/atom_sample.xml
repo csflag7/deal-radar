@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hot Deals - Example Deals Forum</title>
+  <id>https://deals.example.ca/feed/forum/9</id>
+  <updated>2026-10-31T20:00:00Z</updated>
+  <link href="https://deals.example.ca/hot-deals-f9/"/>
+  <entry>
+    <title>[Canadian Tire] Black Friday flyer leaked: up to 60% off, Nov 20 - Nov 27</title>
+    <link href="https://deals.example.ca/canadian-tire-black-friday-flyer-leaked-2700001/"/>
+    <id>https://deals.example.ca/canadian-tire-black-friday-flyer-leaked-2700001/</id>
+    <published>2026-10-31T18:00:00Z</published>
+    <updated>2026-10-31T18:00:00Z</updated>
+    <author><name>dealhunter</name></author>
+    <content type="html">&lt;p&gt;Leaked flyer shows &lt;b&gt;up to 60% off&lt;/b&gt; tools and kitchen,&amp;nbsp;Nov 20 - Nov 27.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[Shell] 10 cents off per litre this weekend</title>
+    <link href="https://deals.example.ca/shell-10-cents-off-2700002/"/>
+    <id>https://deals.example.ca/shell-10-cents-off-2700002/</id>
+    <published>2026-10-31T17:00:00Z</published>
+    <updated>2026-10-31T17:00:00Z</updated>
+    <content type="html">Gas deal at Shell stations.</content>
+  </entry>
+</feed>

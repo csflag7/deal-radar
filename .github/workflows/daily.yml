@@ -1,0 +1,53 @@
+# 每 6 小时一次（§0.1 修订、ADR-008）：只抓新闻 → AI 提取 → 合并 → 只提交 data/news/。
+# 官网监控、合并 final.json、Obsidian、Mac 日历、购物车都在 Mac 本地跑（dealradar.mac_run），不在这里。
+# 仓库根目录就是 app/（这个文件在 <仓库>/.github/workflows/daily.yml）。
+# 只需要一个 Secret：DEEPSEEK_API_KEY。
+name: daily
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"       # 每 6 小时（UTC 0:17、6:17、12:17、18:17）
+  workflow_dispatch:
+
+permissions:
+  contents: write                # 提交 data/news/
+
+concurrency:
+  group: daily
+  cancel-in-progress: false      # 不取消正在跑的那一次
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: pytest -q -m "not mac"      # 只在 Mac 上用的测试（日历、Mac 本地任务）跳过
+
+      - name: News run
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python -m dealradar.run --skip-official --no-push   # 只写 data/news/；不推送；官网监控只在 Mac 本地跑
+
+      - name: Commit news data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news/
+          if git diff --cached --quiet; then
+            echo "data/news/ 没有变化，不提交"
+          else
+            git commit -m "data: news update $(TZ=America/Toronto date '+%F %H:%M')"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push
+          fi

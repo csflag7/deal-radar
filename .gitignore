@@ -1,0 +1,26 @@
+# 环境和密钥
+.venv*/
+.env*
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# 日志、调试
+logs/
+*.log
+reports/raw/
+data/debug/
+
+# Mac 本地数据（官网监控、final.json、日历 / 邮件状态），不进仓库（§0.1 修订）
+data/local/
+data/sales.pre-split.json
+
+# 本地配置：官网所见（人工记录）会暴露浏览记录；仓库里放 config/manual_events.example.yaml
+config/manual_events.yaml
+
+# launchd 配置：由 scripts/make_plist.py 按本机路径生成（含用户目录）；仓库里放 deploy/com.dealradar.mac.plist.template
+deploy/*.plist
+
+# 在用户自己的浏览器里人工扫描官网的记录（会暴露浏览记录）
+reports/官网扫描_*.md

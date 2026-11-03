@@ -1,0 +1,38 @@
+{
+  "CBMiNIKE001": [
+    {"brand_id": "nike", "region": "US", "event_type": "black_friday", "event_name": "Black Friday", "year": 2026,
+     "start": "2026-11-20", "end": null, "discount": "up to 50% off",
+     "quote": "Nike Black Friday 2026 sale starts Nov. 20 with up to 50% off"}
+  ],
+  "CBMiNIKE002": [
+    {"brand_id": "nike", "region": "US", "event_type": "black_friday", "event_name": null, "year": 2026,
+     "start": "2026-11-22", "end": null, "discount": null,
+     "quote": "Nike Black Friday sale rumored to begin Nov. 22"},
+    {"brand_id": "nike", "region": "US", "event_type": "cyber_monday", "event_name": null, "year": 2026,
+     "start": "2026-11-30", "end": null, "discount": null,
+     "quote": "Cyber Monday deals start Nov. 30"}
+  ],
+  "CBMiNIKECA1": [
+    {"brand_id": "nike", "region": "CA", "event_type": "black_friday", "event_name": null, "year": 2026,
+     "start": "2026-11-26", "end": null, "discount": "extra 25% off sale styles",
+     "quote": "Nike Canada Black Friday: extra 25% off sale styles from Nov. 26"}
+  ],
+  "CBMiLULU001": [
+    {"brand_id": "lululemon", "region": "US", "event_type": "black_friday", "event_name": "Black Friday Event", "year": 2026,
+     "start": "2026-11-26", "end": "2026-11-30", "discount": null,
+     "quote": "Black Friday Event Running Nov. 26 to Nov. 30"}
+  ],
+  "CBMiCTIRE001": [
+    {"brand_id": "canadiantire", "region": "CA", "event_type": "black_friday", "event_name": null, "year": 2026,
+     "start": "2026-11-20", "end": "2026-11-27", "discount": "up to 60% off",
+     "quote": "up to 60% off, Nov 20 - Nov 27"},
+    {"brand_id": "canadiantire", "region": "CA", "event_type": "boxing_day", "event_name": null, "year": 2025,
+     "start": "2025-12-26", "end": null, "discount": null,
+     "quote": "Black Friday flyer leaked"}
+  ],
+  "sd-19000001": [
+    {"brand_id": "amazon", "region": "unknown", "event_type": "other", "event_name": "AirPods Pro 3 deal", "year": 2026,
+     "start": null, "end": null, "discount": "AirPods Pro 3 $169",
+     "quote": "Amazon has Apple AirPods Pro 3 on sale for $169."}
+  ]
+}

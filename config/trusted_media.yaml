@@ -1,0 +1,20 @@
+# 权威媒体白名单：来源属于这些域名（含子域名）时，打折消息算“已官宣”。
+# 只放北美主流的新闻、商业、零售行业媒体；deal 网站和博客不放。增删直接改这里。
+domains:
+  # 通讯社 / 综合
+  - reuters.com
+  - apnews.com
+  - usatoday.com
+  # 商业财经
+  - cnbc.com
+  - bloomberg.com
+  - wsj.com
+  # 零售行业媒体
+  - retaildive.com
+  - modernretail.co
+  - chainstoreage.com
+  # 加拿大
+  - theglobeandmail.com
+  - financialpost.com
+  - cbc.ca
+  - retail-insider.com

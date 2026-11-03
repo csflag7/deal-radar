@@ -1,0 +1,94 @@
+# 每日抓取程序（dealradar）的运行参数。改这里不用改代码。
+
+# AI 提取的设置（用哪家、哪个模型、每批几条）在 config/llm.yaml
+
+# 预筛
+cutoff_date: "2026-10-01"      # 发布日期早于这天的条目直接丢掉
+event_year: 2026               # 只保留这一年的打折活动
+max_items_per_run: 300         # 每次最多交给 AI 的条数
+seen_keep_days: 90             # seen.json 里超过这么多天的记录自动清掉
+
+# 抓取
+request_delay_seconds: 1.5     # 两次请求之间的间隔
+request_timeout_seconds: 20
+max_retry_after_seconds: 120   # 遇到 429 时最多等这么久再重试一次
+user_agent: "DealRadar/0.1 (personal deal calendar; contact via GitHub)"
+timezone: America/Toronto      # 生成“更新日期”、判断推送里的“明天开始”用的时区
+
+# 推送（S4，ntfy.sh）。主题名放在环境变量 NTFY_TOPIC（GitHub Secrets 或 app/.env），不写在这里
+ntfy_server: https://ntfy.sh
+site_url: ""                   # 网页地址（GitHub Pages 开通后填上），附在推送末尾
+notify_max_items: 10           # 摘要最多列几条
+notify_max_bytes: 3500         # 摘要正文最多多少字节
+alert_source_failures: 3       # 信息源连续失败这么多次就发告警
+
+# Bing News RSS（S3 v2）：链接能解析出原文地址；每个品牌在有官网的地区（美国 / 加拿大）各查一次
+bing_news: true
+
+# 抓正文（S3 v2）：预筛后挑最相关的新闻抓原文，只截取相关段落交给 AI。原文只在内存里用，不存盘。
+max_articles_per_run: 60       # 每次最多抓几篇正文（robots.txt 不允许的不占名额）
+article_timeout_seconds: 15    # 单篇超时
+article_delay_seconds: 1       # 任意两次请求之间至少间隔这么久
+article_site_delay_seconds: 5  # 同一网站两次请求之间至少间隔这么久
+article_max_per_site: 3        # 同一网站每次运行最多抓几篇
+article_max_redirects: 3       # 自己跟跳转，最多几跳；每一跳都核对 robots.txt
+article_min_words: 150         # 正文少于这么多词算失败（例如靠 JS 加载的页面）
+excerpt_max_chars: 2500        # 截取的相关段落总长度上限
+robots_agent: DealRadar        # 用这个名字核对 robots.txt 规则（和下面的 UA 是同一个名字）
+article_user_agent: "DealRadar/0.1 (personal deal calendar)"   # 下载正文用；遇到 402/403/429 本次跳过整个网站
+article_skip_domains:          # 这些域名的页面靠 JS 加载，抓不到正文，不占名额
+  - msn.com
+
+# 调试：每次运行把候选事件（结构化字段、AI 原始日期、引句、链接、归到的事件 id）追加到
+# data/debug/candidates-YYYY-MM-DD.jsonl（不存标题、摘要、正文；不提交到仓库）
+debug_candidates: true
+debug_keep_days: 7
+
+# 官网监控（S15，ADR-006，只在 Mac 本地跑；GitHub Actions 用 --skip-official）
+official_max_pages_per_site: 4        # 每个品牌×地区从 sitemap 最多留几页（另加首页）
+official_rediscover_days: 7           # 页面清单超过这么多天就自动重新找
+official_site_delay_seconds: 5        # 同一网站两次请求（含 robots.txt）之间的间隔
+official_page_timeout_seconds: 90     # 单页总超时（超时记为出错，不重试）
+official_max_concurrent_sites: 3      # 不同网站最多同时抓几个
+official_discover_delay_seconds: 5    # 找页面时同一网站两次请求（含 robots.txt）的间隔
+official_discover_max_requests: 10    # 找页面时每个网站最多请求几次（robots.txt + sitemap；大网站只看前几个子 sitemap）
+official_discover_max_urls: -1        # 每个网站最多看多少个 sitemap URL（-1 = 不限，靠请求上限控制；设了上限会让读到一半的子 sitemap 挂着）
+official_discover_timeout_seconds: 180
+
+# 合并
+max_sources_per_event: 8       # 一个事件最多保留几个来源（已官宣证据 > 带日期 > 官网 > 权威媒体 > 较新）
+
+# 加拿大媒体：AI 判成 CA 的事件，来源要是 .ca 域名或这些媒体，或者文中提到 Canada / Canadian / C$ / CAD，
+# 或者品牌只在加拿大有店；否则丢弃
+canadian_media_domains:
+  - redflagdeals.com        # 只用来给来源分级（判断是不是加拿大来源），不抓取
+  - retail-insider.com
+  - narcity.com
+  - dailyhive.com
+  - blogto.com
+  - mobilesyrup.com
+  - theglobeandmail.com
+  - financialpost.com
+  - nationalpost.com
+  - thestar.com
+  - torontosun.com
+  - cp24.com
+  - globalnews.ca
+  - ctvnews.ca
+  - cbc.ca
+
+# Deal 网站 RSS（来源清单见 DATA_ACQUISITION.md）
+deal_feeds:
+  - { id: slickdeals, name: Slickdeals, region: US, url: "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1" }
+  # 2026-11-01 调研：RFD 改为 TollBit 付费授权，停用（/rss 跳到 TollBit 并返回 402，程序访问需付费授权）
+  # - { id: rfd, name: RedFlagDeals, region: CA, url: "https://forums.redflagdeals.com/feed/forum/9" }
+  - { id: dealnews, name: Dealnews, region: US, url: "https://www.dealnews.com/?rss=1" }
+  # 加拿大媒体聚合（Google News + site: 限定，最近 7 天）。和 deal 源一样，标题或摘要要命中品牌才保留
+  - { id: gnews-camedia1, name: "Google News 加拿大媒体 1", region: CA, url: "https://news.google.com/rss/search?q=%28site%3Aretail-insider.com+OR+site%3Anarcity.com+OR+site%3Adailyhive.com%29+%28%22black+friday%22+OR+%22cyber+monday%22+OR+%22boxing+day%22%29+when%3A7d&hl=en-CA&gl=CA&ceid=CA:en" }
+  - { id: gnews-camedia2, name: "Google News 加拿大媒体 2", region: CA, url: "https://news.google.com/rss/search?q=%28site%3Acbc.ca+OR+site%3Actvnews.ca+OR+site%3Aglobalnews.ca+OR+site%3Amobilesyrup.com+OR+site%3Athestar.com+OR+site%3Ablogto.com%29+%28%22black+friday%22+OR+%22cyber+monday%22+OR+%22boxing+day%22%29+when%3A7d&hl=en-CA&gl=CA&ceid=CA:en" }
+  # RFD 其他版块：Black Friday 专区（f173）是空的存档，长期优惠区（f129）多是旧帖，都没加（S3 v3 检查）
+
+# Mac 本地任务（dealradar.mac_run，§0.1 修订、ADR-008）
+calendar_confirmed_only: true  # Mac 日历只写已官宣的活动（用户 2026-11-03：传闻的不要）
+calendar_apply: true           # Mac 日历：false = 只打印 dry-run 清单、不写日历；用户看过清单、同意后才改成 true
+mail_live: false               # 汇总邮件：false = 只预览（preview），不真的发送；用户确认预览后才改成 true

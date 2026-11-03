@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+<title>"Nike" ("black friday" OR "cyber monday" OR "boxing day") when:14d - Google News</title>
+<link>https://news.google.com/search?q=nike</link>
+<description>Google News</description>
+<item>
+  <title>Nike Black Friday 2026 sale starts Nov. 20 with up to 50% off - CNBC</title>
+  <link>https://news.google.com/rss/articles/CBMiNIKE001?oc=5</link>
+  <guid isPermaLink="false">CBMiNIKE001</guid>
+  <pubDate>Wed, 28 Oct 2026 14:00:00 GMT</pubDate>
+  <description>&lt;a href="https://news.google.com/rss/articles/CBMiNIKE001?oc=5" target="_blank"&gt;Nike Black Friday 2026 sale starts Nov. 20 with up to 50% off&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CNBC&lt;/font&gt;</description>
+  <source url="https://www.cnbc.com">CNBC</source>
+</item>
+<item>
+  <title>Nike Black Friday sale rumored to begin Nov. 22, insiders say - Sneaker Rumors Blog</title>
+  <link>https://news.google.com/rss/articles/CBMiNIKE002?oc=5</link>
+  <guid isPermaLink="false">CBMiNIKE002</guid>
+  <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+  <description>&lt;a href="https://news.google.com/rss/articles/CBMiNIKE002?oc=5"&gt;Nike Black Friday sale rumored to begin Nov. 22, insiders say&lt;/a&gt;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sneaker Rumors Blog&lt;/font&gt;</description>
+  <source url="https://sneakerrumors.example.com">Sneaker Rumors Blog</source>
+</item>
+<item>
+  <title>Nike Black Friday 2025: the best deals we found - Old News Daily</title>
+  <link>https://news.google.com/rss/articles/CBMiNIKEOLD?oc=5</link>
+  <guid isPermaLink="false">CBMiNIKEOLD</guid>
+  <pubDate>Thu, 20 Nov 2025 12:00:00 GMT</pubDate>
+  <description>Nike Black Friday 2025: the best deals we found</description>
+  <source url="https://olddaily.example.com">Old News Daily</source>
+</item>
+</channel></rss>
