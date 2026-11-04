@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T14:34:47+00:00",
+  "generated_at": "2026-11-04T23:38:49+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "amazon-US-other-2026-holidaybeauty",
-      "brand_id": "amazon",
+      "id": "costco-US-other-2026-early",
+      "brand_id": "costco",
       "region": "US",
       "event_type": "other",
-      "event_name": "2026 holiday beauty event",
+      "event_name": "Early Sales",
       "start": null,
       "end": null,
       "discount": null,
@@ -15,23 +15,23 @@
       "kind": "new_event"
     },
     {
-      "id": "bestbuy-US-other-2026-openboxoutlet",
-      "brand_id": "bestbuy",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Best Buy Open-Box Outlet Event",
-      "start": null,
-      "end": null,
-      "discount": "up to 60% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "samsung-unknown-black_friday-2026",
-      "brand_id": "samsung",
-      "region": "unknown",
+      "id": "ikea-CA-black_friday-2026",
+      "brand_id": "ikea",
+      "region": "CA",
       "event_type": "black_friday",
-      "event_name": "Black Friday campaign",
+      "event_name": "Black Friday sale",
+      "start": null,
+      "end": null,
+      "discount": "20% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "katespade-US-early_bf-2026",
+      "brand_id": "katespade",
+      "region": "US",
+      "event_type": "early_bf",
+      "event_name": "Black Friday 2026",
       "start": null,
       "end": null,
       "discount": null,
@@ -39,40 +39,50 @@
       "kind": "new_event"
     },
     {
-      "id": "sony-unknown-black_friday-2026",
+      "id": "sony-CA-black_friday-2026",
       "brand_id": "sony",
-      "region": "unknown",
+      "region": "CA",
       "event_type": "black_friday",
-      "event_name": "PlayStation Black Friday Sale 2026",
-      "start": "2026-11-04",
-      "end": "2026-11-30",
-      "discount": "up to 90% off",
+      "event_name": "Black Friday PS5",
+      "start": null,
+      "end": null,
+      "discount": "jusqu'à 75 %",
       "status": "rumored",
-      "kind": "date_changed",
-      "old_start": null,
-      "old_end": null
+      "kind": "new_event"
     },
     {
-      "id": "walmart-US-other-2026-holidayshopping",
+      "id": "target-US-other-2026-circleday",
+      "brand_id": "target",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Target Circle Deal Days",
+      "start": null,
+      "end": "2026-10-07",
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "walmart-US-other-2026-2026-10-05",
       "brand_id": "walmart",
       "region": "US",
       "event_type": "other",
-      "event_name": "holiday shopping sales events",
-      "start": null,
-      "end": null,
+      "event_name": "Walmart Deals",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
       "discount": null,
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "wayfair-CA-other-2026-wayday",
+      "id": "wayfair-CA-other-2026-canadaholidayflash",
       "brand_id": "wayfair",
       "region": "CA",
       "event_type": "other",
-      "event_name": "Way Day",
+      "event_name": "Wayfair Canada's Holiday Flash Sale",
       "start": null,
       "end": null,
-      "discount": null,
+      "discount": "up to 70 per cent",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -80,6 +90,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 8,
-  "ai_processed": 103
+  "ai_batches": 9,
+  "ai_processed": 106
 }
