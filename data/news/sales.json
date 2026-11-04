@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:15:05+00:00",
+  "updated": "2026-11-04T14:34:47+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -337,7 +337,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "early Black Friday",
+      "event_name": "Early Black Friday",
       "start": "2026-11-01",
       "end": null,
       "discount": "$100 off",
@@ -449,18 +449,18 @@
           "seen": "2026-11-03"
         },
         {
-          "title": "This Apple Watch Ultra 4 Is $100 Off Right Now",
-          "url": "https://lifehacker.com/tech/apple-watch-ultra-4-sale-early-black-friday-2026",
-          "domain": "lifehacker.com",
-          "name": "Lifehacker",
+          "title": "Sony WH-1000XM6 Headphones Just Got an Early Black Friday Surprise, Hitting an All-Time Low on Amazon - Kotaku",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVNhRkwySjcwRzIxOEpITkhtWFBXR1BtNlZwSlVxLVdkQjNfQ2xZSGp2Y2hDVVgyT1FkWVc0S2dnSjhManN0VUtQNmhfenBLOGJLUzJlY0ZSOTJweWJDVG1FZ2ZkbjBzcjhmX0hVa29hei1lbm9ldURCVlJkYTBubllCVGgtWmdqM09NMlRPd2VVZzVjU1FfNE9BdGowOFlUVzAxWXFRdUFNZUljRWp0UkFqYlh6QlBJZWJUQl8wTVoyYWVIc0hBc0p3?oc=5",
+          "domain": "kotaku.com",
+          "name": "Kotaku",
           "level": "other",
           "status": "rumored",
           "start": null,
           "end": null,
-          "discount": "$100 off",
-          "quote": "it’s already seeing an early Black Friday discount of $100 on Amazon",
-          "quote_in": "excerpt",
-          "published": "2026-11-03T11:00:00+00:00",
+          "discount": null,
+          "quote": "Sony WH-1000XM6 Headphones Just Got an Early Black Friday Surprise, Hitting an All-Time Low on Amazon",
+          "quote_in": "title",
+          "published": "2026-11-04T11:45:37+00:00",
           "seen": "2026-11-04"
         }
       ],
@@ -470,7 +470,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-04T06:15:05+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfridayairpod",
@@ -522,6 +522,42 @@
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
       "updated": "2026-11-03T05:37:14+00:00"
+    },
+    {
+      "id": "amazon-US-other-2026-holidaybeauty",
+      "brand_id": "amazon",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "holidaybeauty",
+      "sale_key_kind": "name",
+      "event_name": "2026 holiday beauty event",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Amazon's 2026 holiday beauty event is live, and here are the 31 best deals",
+          "url": "https://www.msn.com/en-us/news/other/amazon-s-2026-holiday-beauty-event-is-live-and-here-are-the-31-best-deals/ar-AA2fCLlc",
+          "domain": "msn.com",
+          "name": "Mashable on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Amazon's 2026 holiday beauty event is live, and here are the 31 best deals",
+          "quote_in": "title",
+          "published": "2026-10-21T08:13:04+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-04T14:34:47+00:00",
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "amazon-US-other-2026-ninjaat",
@@ -1527,13 +1563,28 @@
           "quote_in": "title",
           "published": "2026-10-30T12:12:18+00:00",
           "seen": "2026-11-02"
+        },
+        {
+          "title": "Best Buy Kicks Off Holiday Deals Today With a Halloween-Themed Sale—Weeks Before Black Friday - AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15SEZFTjA2UzdDNW5CTFRUNmxRVHJTOW9HUkF0cG1CZDZiRGRHRVdqMXg0cGU3eGJtWnhtTk5wUWtaTXBjWFRLNEtBZ3RBRk9fTERqWjQwZDZMcldzR1c3LVctNjNtd1A3MFNGUmNuc09EVGdWTFNFOA?oc=5",
+          "domain": "aol.ca",
+          "name": "AOL.ca",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Best Buy Kicks Off Holiday Deals Today With a Halloween-Themed Sale—Weeks Before Black Friday",
+          "quote_in": "title",
+          "published": "2026-10-30T12:12:18+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-02T03:42:28+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "bestbuy-US-other-2026-holiday",
@@ -1659,6 +1710,43 @@
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
       "updated": "2026-11-02T03:42:28+00:00"
+    },
+    {
+      "id": "bestbuy-US-other-2026-openboxoutlet",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "openboxoutlet",
+      "sale_key_kind": "name",
+      "event_name": "Best Buy Open-Box Outlet Event",
+      "start": null,
+      "end": null,
+      "discount": "up to 60% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Best Buy Open-Box Outlet Event: Up to 60% off + free shipping",
+          "url": "https://www.dealnews.com/Best-Buy-Open-Box-Outlet-Event-Up-to-60-off-free-shipping/22330480.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 60% off",
+          "quote": "Best Buy Open-Box Outlet Event: Up to 60% off + free shipping",
+          "quote_in": "title",
+          "published": "2026-11-04T13:58:01+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-04T14:34:47+00:00",
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "bose-US-black_friday-2026",
@@ -2159,7 +2247,7 @@
       "year": 2026,
       "sale_key": "holidaysaving",
       "sale_key_kind": "name",
-      "event_name": "Holiday Savings",
+      "event_name": "Costco’s Holiday Savings Event",
       "start": "2026-10-30",
       "end": "2026-11-30",
       "discount": null,
@@ -2224,6 +2312,21 @@
           "quote_in": "title",
           "published": "2026-10-26T07:00:00+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Costco’s Holiday Savings Event Starts This Week—Here’s What’s Going on Sale - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUo1OWxwTnFGVTJUMXFvREdXWnlRcENDcFhNSldzLVN5SFFkR3BWbndQTXhiT2xzbjAycWFXS0hhRm0ta0hQRzRpVFBXel9CT3ZzeDg0OWVZdE82Z1dCdmdJRXdRX2xnZnl0MVVQZ1ZfdjVBTlJDQUxLYWZ0cnR3Tjc0Vkw2QUNXMTUteDlpWXprSGducUVB?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Costco’s Holiday Savings Event Starts This Week—Here’s What’s Going on Sale",
+          "quote_in": "title",
+          "published": "2026-10-27T07:00:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -2232,7 +2335,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T14:08:43+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "costco-US-other-2026-preprethanksgivingday",
@@ -2707,7 +2810,7 @@
       "event_name": "Countdown To Black Friday Deals",
       "start": null,
       "end": null,
-      "discount": "BOGO FREE",
+      "discount": "up to 50% off",
       "status": "rumored",
       "sources": [
         {
@@ -2723,21 +2826,6 @@
           "quote": "The Home Depot Kicks Off Black Friday Season With Unbeatable Value Across Tools, Home Upgrades, and Holiday Decor",
           "quote_in": "title",
           "published": "2026-10-29T11:10:23+00:00",
-          "seen": "2026-11-02"
-        },
-        {
-          "title": "Home Depot Just Revealed Its Black Friday Deals, Including $49.98 Christmas Trees and $19.98 Inflatables - Parade Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDlpYW9aVVF2WV9iMDBoNWVGQVBxOXhSTWtabEszSkZkaGthZlVzLVFFU3ZXMFFvU0FEVGI1OGJ3T0hWLTlHQUU2UmJnSU13NVQ5QWs0d1NlR2NleWpHQVh5TGxESFF4MFZlMkxJZnczTVBlVmJJZ1kzRjBheWRzWVh3dGQ2OHRRaEp0Vnp5SWZ4OXdocHFud3Z0YkdXX1lJRl9ZbXY5ZXVJZmNxLTBSbGNsVVRLM0djTkRsY1ZHN1VTbDJUS05Oeg?oc=5",
-          "domain": "parade.com",
-          "name": "Parade Magazine",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Home Depot Just Revealed Its Black Friday Deals, Including $49.98 Christmas Trees and $19.98 Inflatables",
-          "quote_in": "title",
-          "published": "2026-10-29T12:00:00+00:00",
           "seen": "2026-11-02"
         },
         {
@@ -2816,19 +2904,34 @@
           "seen": "2026-11-02"
         },
         {
-          "title": "Early details on upcoming 2026 Home Depot Black Friday sale arrive - 9to5Toys",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjlQQk9vS1c0c1RoV0hORWlpbS1kUjEzZmY0dXF4YjJpZldsWTJGNnhuN1pZRUVjSFRGcjlOb0xVN3AxS2l0UUFrVnRldlZIZUxzUVlmcV9VNVlUMUpBNmlwLXd2M3RYX2stdzhCVmZkS1NWSW12aU1kSnpKNDhMaGxiNjJzWFVsREdtWWd6OWFBaFFuU1k0aENrOHdXZnpa?oc=5",
-          "domain": "9to5toys.com",
-          "name": "9to5Toys",
+          "title": "Home Depot Black Friday Appliance Deals: Up to 40% off + bundle discounts + free delivery w/ $398",
+          "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Appliance-Deals-Up-to-40-off-bundle-discounts-free-delivery-w-398/22346248.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
           "level": "other",
           "status": "rumored",
           "start": null,
           "end": null,
-          "discount": null,
-          "quote": "Early details on upcoming 2026 Home Depot Black Friday sale arrive",
+          "discount": "up to 40% off",
+          "quote": "Home Depot’s Black Friday Sale is live, with savings of up to 40% on refrigerators, washers, dryers, vacuums, and other appliances.",
+          "quote_in": "summary",
+          "published": "2026-11-04T10:40:07+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "Home Depot Black Friday deals are live — 15 biggest sales with up to 50% off home decor, furniture and appliances - Tom's Guide",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHRzQk94ZFFPYVZYVFpBVm93Q2RPclhRV0tUa3RjbHdtcnctNGhoMWlUaERsS0dreUNIWUpDZlAwdndhcGtJSm92cDJBNTBPSy12QXV1UkFXNjhQZjVvZzVFZ01WZ0NodmNPTVQ2QnRtRWF3b1c4NHdxRS1NbXFCajFoWm5JblhETGpYYkRsbGRVaFE5b0RrcUpDTXlJbzNVMGZqak9TZkFqOW0wZDh3Y3U4MzctSEVzSjdzWGFkVTRBMzZhRkZjM0ZUTVpjUFNKSVVDeFd6cWo5V2tG?oc=5",
+          "domain": "tomsguide.com",
+          "name": "Tom's Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 50% off",
+          "quote": "Home Depot Black Friday deals are live — 15 biggest sales with up to 50% off home decor, furniture and appliances",
           "quote_in": "title",
-          "published": "2026-10-27T12:33:00+00:00",
-          "seen": "2026-11-03"
+          "published": "2026-11-04T12:02:09+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -2836,7 +2939,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T05:37:14+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "homedepot-US-early_bf-2026",
@@ -2844,7 +2947,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Black Friday Early",
+      "event_name": "early Black Friday deals",
       "start": null,
       "end": null,
       "discount": "up to 50% off",
@@ -2909,6 +3012,21 @@
           "quote_in": "title",
           "published": "2026-11-03T16:01:04+00:00",
           "seen": "2026-11-04"
+        },
+        {
+          "title": "Home Depot early Black Friday deals now live: BOGO FREE tools, DEWALT $170 off, $1,250 off appliances, more - 9to5Toys",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWJHZGExeEVhc1VHZ2V0LVFYUEY4UWl3YXNYOExqYlJsa1lQNUhsT1IwMlJBc1BrdnB5T3A2aHk4M0dqMDMyYUZQT2t5RzNGRnA0VlZLNWFwNnFvU1YxNllzaTAwdm4wa0ZfU3dtZE8xUV83RzB0TU5mYUdEcDREbmpwT1pTOWV3N0FPS1Q4UnlYLWM?oc=5",
+          "domain": "9to5toys.com",
+          "name": "9to5Toys",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Home Depot early Black Friday deals now live: BOGO FREE tools, DEWALT $170 off, $1,250 off appliances, more",
+          "quote_in": "title",
+          "published": "2026-11-04T13:57:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -2916,7 +3034,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-04T06:15:05+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "homedepot-US-other-2026-freetool",
@@ -3496,13 +3614,28 @@
           "quote_in": "title",
           "published": "2026-10-15T12:00:00+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "When does Nordstrom's Black Friday sale start this year? - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEU5d0Yta2FGVUYyUDZvdlRhNmhzYzRtTWwwYmY5NThtYmhZMHFaWElnMnI2V25vc2FyOTdjTFczWnFCVjVab2pabjVmeWxpMTBocjduUmFpeS1pLTFlNVc1LTEwRExKUVR1TU4yUVFITk1oV3NZR2tjUHdrZzVYY1d0Q3o2aS1hZmV6MTBxVHdiczQ?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "When does Nordstrom's Black Friday sale start this year?",
+          "quote_in": "title",
+          "published": "2026-10-30T20:28:03+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T14:08:43+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "nordstrom-US-other-2026-doublediscount",
@@ -3548,7 +3681,7 @@
       "year": 2026,
       "sale_key": "fall",
       "sale_key_kind": "name",
-      "event_name": "Nordstrom's Fall Sale",
+      "event_name": "Nordstrom’s Fall Sale",
       "start": null,
       "end": null,
       "discount": "60 Percent Off",
@@ -3568,6 +3701,21 @@
           "quote_in": "title",
           "published": "2026-10-28T05:39:43+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Nordstrom’s Fall Sale Just Dropped: Snag 60 Percent Off, Saint Laurent Sunglasses, Bobbi Brown Beauty and More - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzNNUDVjdzRaZGlZVFBLUnFyOFdhal9sRWNnRXhRaHUyeVpseExNYWVJVElVelNhMnRyaVJWVUpwZURVaU9XVFNtRW5aYUo5d2pYVzBEWmpEY2s3UkQ5VUJYcXEwM3Y3YjVmQ2t6WjF2NUpIaXBNZm5WS3pvVnAzbDdPbFBYZ1V1TkQ3bGFtbERhcXMwMmxqekFwZw?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "60 Percent Off",
+          "quote": "Nordstrom’s Fall Sale Just Dropped: Snag 60 Percent Off",
+          "quote_in": "title",
+          "published": "2026-10-28T05:37:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -3575,7 +3723,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-03T05:37:14+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "nordstrom-US-other-2026-precybermonth",
@@ -3751,13 +3899,28 @@
           "quote_in": "title",
           "published": "2026-11-03T23:00:36+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Pixel 11 Black Friday Deals: Google And Samsung Slash Prices Early - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZPOTlneVBvUVVZUXZlQ2NNajYxR3NBQnU3NEFYYkJxQ1hSZkp0cVJrRVJMaDJjdHlnem5OSG5DMVVJX2JlM3gzOTgxNzJ6dng1LWVvU1RVd0RHc3pmNmtfUlhDSEoyckcteXZFSjVaUEIzb01JYlEydElXTzluOXBLbnBmU09TWVVPM0JaTXMxdUdYSC1BOV9wVF9pOXZHTDJUcjRpNUdYdmNER3lvVzhSTGU5YW1pakU3N0J6dUc?oc=5",
+          "domain": "forbes.com",
+          "name": "Forbes",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Pixel 11 Black Friday Deals: Google And Samsung Slash Prices Early",
+          "quote_in": "title",
+          "published": "2026-11-04T13:07:02+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
         "event_name": 3
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "samsung-US-early_bf-2026",
@@ -3934,6 +4097,40 @@
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
       "updated": "2026-11-02T03:42:28+00:00"
+    },
+    {
+      "id": "samsung-unknown-black_friday-2026",
+      "brand_id": "samsung",
+      "region": "unknown",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Black Friday campaign",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Samsung kicks off annual Black Friday campaign with offers across mobile, tablet, wearables, TVs and home appliances - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSmNDM05pclFWaG5ZTGhTbEpiS0dmOHJoV2tQR1UtNnBGT2Qtc19CSzNMekxoS2lRVllHVC1qR25xTUN4aWQxdEc0WDdfdTlyMDh3OWZ1RnF0Z3M5TDdjNE4xSHlsNGNteEdRZmkwWnZRdU05SWdzc0VWRG10akFvZGhYNnlFNnc2bGxWY1VKZWdLdGNnNXc0Q1JBZjNKQno2X2VvVkRVQTRnWjdFQ1loZVRoTFpDMjVPYmk5TTlfOG9iTzZrTjNnVlozbVM1QXFCeUp3T1puVXFIcG9rUkR0ZWJLUkxDQ1FEX3E0b1pndHNVaDQ5a2hVV1pqdEh0eV9hNGp1MVA1Ymg0ZnFzTjR2S1hNamJnWUdF0gGYAkFVX3lxTE5KY0MzTmlyUVZobllMaFNsSmJLR2Y4cmhXa1BHVS02cEZPZC1zX0JLM0x6TGhLaVFWWUdULWpHbnFNQ3hpZDF0RzRYN191OXIwOHc5ZnVGcXRnczlMN2M0TjFIeWw0Y214R1FmaTBadlF1TTlJZ3NzRVZEbXRqQW9kaFg2eUU2dzZsbFZjVUplZ0t0Y2c1dzRDUkFmM0pCejZfZW9WRFVBNGdaN0VDWWhlVGhMWkMyNU9iaTlNOV84b2JPNmtOM2dWWjNtUzVBcUJ5SndPWm5VcUhwb2tSRHRlYktSTENDUURfcTRvWmd0c1VoNDlraFVXWmp0SHR5X2E0anUxUDViaDRmcXNONHZLWE1qYmdZR0U?oc=5",
+          "domain": "manilatimes.net",
+          "name": "The Manila Times",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Samsung kicks off annual Black Friday campaign with offers across mobile, tablet, wearables, TVs and home appliances",
+          "quote_in": "title",
+          "published": "2026-11-04T06:43:41+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-04T14:34:47+00:00",
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "sephora-CA-other-2026-saving",
@@ -4147,27 +4344,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "PlayStation Store Black Friday Deals",
+      "event_name": "PlayStation Store Black Friday Deals 2026",
       "start": "2026-11-04",
       "end": "2026-11-30",
       "discount": "up to 75% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "PlayStation Store Black Friday 2026 sale officially revealed",
-          "url": "https://www.polygon.com/playstation-store-black-friday-2026-ps5-deals-announced/",
-          "domain": "polygon.com",
-          "name": "Polygon",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-04",
-          "end": "2026-11-30",
-          "discount": null,
-          "quote": "the PlayStation Store's annual Black Friday Sale will kick off Wednesday, Nov. 4, and run until Nov. 30",
-          "quote_in": "excerpt",
-          "published": "2026-11-02T22:35:00+00:00",
-          "seen": "2026-11-03"
-        },
         {
           "title": "Cheap PlayStation 5 Black Friday Deals Officially Revealed",
           "url": "https://gamerant.com/playstation-black-friday-sales-deals-november-2026/",
@@ -4244,34 +4426,49 @@
           "seen": "2026-11-03"
         },
         {
-          "title": "PlayStation Black Friday Sale Snubs Console Buyers, for Now - Rolling Out",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obGFWd3U1eThmNmFFMkdWaWNGS0NXMmVZMG15dnBXY1ZkNmx6NTk2V0ZNeVdNNWVFNkNwNEtXeVZoWmo1Vk5yTjdWSVdBYVZfb3BKNk1kZS1WVTR6dGZwODA0d014VEh5MnlaNVFIRVlhMm91TkU5ZlB3?oc=5",
-          "domain": "rollingout.com",
-          "name": "Rolling Out",
+          "title": "Sony PlayStation Black Friday Sale is Live: Best Deals Revealed",
+          "url": "https://telecomtalk.info/sony-playstation-black-friday-sale-is-live-best-deals-revealed/1013583/",
+          "domain": "telecomtalk.info",
+          "name": "TelecomTalk",
           "level": "other",
           "status": "rumored",
           "start": null,
-          "end": null,
+          "end": "2026-11-30",
           "discount": null,
-          "quote": "PlayStation Black Friday Sale Snubs Console Buyers, for Now",
-          "quote_in": "title",
-          "published": "2026-11-03T18:40:54+00:00",
-          "seen": "2026-11-03"
+          "quote": "Sony's PlayStation Black Friday Sale 2026 is already live, with deals running until November 30, 2026.",
+          "quote_in": "excerpt",
+          "published": "2026-11-03T23:58:00+00:00",
+          "seen": "2026-11-04"
         },
         {
-          "title": "PlayStation Store Black Friday Deals Start Wednesday at Up to 75% Off - Technobezz",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE9LWC1ocndsQkVyc3NXeXpqdkJQcGpsUWhWb3RMdjhKM2xXc0tyX0Vsb1hMRDZsYUVvQV92a2c4bUVKa0dJbkQtcnZNVEU4QXBPU3BFVHdvZmRPcUpmbWdmeUdqWlVRYmpQOXpQZmY2eDBLaFZaM0FUWkRpa3J5ZTBfOHNFeWd2SUlOYQ?oc=5",
-          "domain": "technobezz.com",
-          "name": "Technobezz",
+          "title": "PS5 console Black Friday deals 2026: Sony announces game discounts, hardware offers remain unconfirmed",
+          "url": "https://www.msn.com/en-in/gaming/playstation/ps5-console-black-friday-deals-2026-sony-announces-game-discounts-hardware-offers-remain-unconfirmed/ar-AA2gIGzm",
+          "domain": "msn.com",
+          "name": "Mint on MSN",
           "level": "other",
           "status": "rumored",
-          "start": null,
-          "end": null,
+          "start": "2026-11-04",
+          "end": "2026-11-30",
           "discount": "up to 75% off",
-          "quote": "PlayStation Store Black Friday Deals Start Wednesday at Up to 75% Off",
-          "quote_in": "title",
-          "published": "2026-11-03T19:10:19+00:00",
-          "seen": "2026-11-03"
+          "quote": "Sony's PlayStation Black Friday Sale 2026 began on November 4, offering up to 75% off thousands of PS5, PS4 and PS VR2 games, with discounts running until November 30.",
+          "quote_in": "summary",
+          "published": "2026-11-04T00:04:43+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "PlayStation Store Black Friday Deals 2026: Best Games, Discounts and Dates",
+          "url": "https://www.techloy.com/playstation-store-black-friday-deals-2026/",
+          "domain": "techloy.com",
+          "name": "Techloy",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-04",
+          "end": null,
+          "discount": null,
+          "quote": "Sony is getting ahead of the usual holiday shopping rush with its PlayStation Store Black Friday Deals 2026, which begin Wednesday, November 4, almost four weeks before Black Friday itself.",
+          "quote_in": "excerpt",
+          "published": "2026-11-04T03:56:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -4281,7 +4478,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "sony-US-early_bf-2026",
@@ -4354,10 +4551,10 @@
       "region": "unknown",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Playstation Black Friday Sale 2026",
-      "start": null,
-      "end": null,
-      "discount": null,
+      "event_name": "PlayStation Black Friday Sale 2026",
+      "start": "2026-11-04",
+      "end": "2026-11-30",
+      "discount": "up to 90% off",
       "status": "rumored",
       "sources": [
         {
@@ -4374,13 +4571,46 @@
           "quote_in": "title",
           "published": "2026-11-04T03:17:56+00:00",
           "seen": "2026-11-04"
+        },
+        {
+          "title": "PlayStation Announces First Black Friday Sale 2026: Up to 75% Off, Marvel’s Wolverine, Astro Bot Among the Featured Games – Check Sale Dates, Discount Offers, PS5 Titles, PS4 Games & More - The Sunday Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWGlQVHRsYzR4WTZ4RHdrcWxja1o0QUtrb1pISVhhal90dGpGOXFrMW9NTVNNbktodGFCRVk3Y3FzTW44dGYyLTZZZHdYY2dpOGdPdEI1S3VPR3lTWTgwbEM1aDhvXzBpdUo2TDh4UHhtZFdqN1dMbXlhVExOa19Qc2k0QzR3aEdMUVMtSjdxVmpGeW5ROWlyZWY4WjlkQXZKMXk4akdYSXNGal8yaEJ4Y19FM3g5bFB1aHNCMXdCclNJUk1oYWZLcDlIdzZDXzhreGNhaUp3R2JEalhBNGZGcFRFRS1jUkRzUU9zcDJ3Rkc4WUF4MW9YV0pXQ3VyaDl6elZEeFBaSkVRWFlzVlVoR2ZEOVVDaVNyYkFXOC14QXJtVEJCRlQxOUs0UjV2NmYyRWRPOTdVckxkN09PVFpzZmxuSDRKT2wwNDd3ctIBzAJBVV95cUxNWGlQVHRsYzR4WTZ4RHdrcWxja1o0QUtrb1pISVhhal90dGpGOXFrMW9NTVNNbktodGFCRVk3Y3FzTW44dGYyLTZZZHdYY2dpOGdPdEI1S3VPR3lTWTgwbEM1aDhvXzBpdUo2TDh4UHhtZFdqN1dMbXlhVExOa19Qc2k0QzR3aEdMUVMtSjdxVmpGeW5ROWlyZWY4WjlkQXZKMXk4akdYSXNGal8yaEJ4Y19FM3g5bFB1aHNCMXdCclNJUk1oYWZLcDlIdzZDXzhreGNhaUp3R2JEalhBNGZGcFRFRS1jUkRzUU9zcDJ3Rkc4WUF4MW9YV0pXQ3VyaDl6elZEeFBaSkVRWFlzVlVoR2ZEOVVDaVNyYkFXOC14QXJtVEJCRlQxOUs0UjV2NmYyRWRPOTdVckxkN09PVFpzZmxuSDRKT2wwNDd3cg?oc=5",
+          "domain": "sundayguardianlive.com",
+          "name": "The Sunday Guardian",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 75% Off",
+          "quote": "PlayStation Announces First Black Friday Sale 2026: Up to 75% Off",
+          "quote_in": "title",
+          "published": "2026-11-03T18:15:13+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "Sony PlayStation Black Friday Sale 2026 - Discounts on Marvel's Wolverine, 007 First Light & more",
+          "url": "https://khelnow.com/gaming/sony-playstation-black-friday-sale-202611",
+          "domain": "khelnow.com",
+          "name": "Khel Now",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-04",
+          "end": "2026-11-30",
+          "discount": "up to 90% off",
+          "quote": "This sale will run from November 4, 2026, through November 30, 2026. The annual sale offers discounts of up to 75% on games worldwide, while PlayStation Store India offers up to 90% off selected title",
+          "quote_in": "excerpt",
+          "published": "2026-11-04T04:24:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
-        "event_name": 1
+        "event_name": 1,
+        "discount": 1,
+        "start": 1,
+        "end": 1
       },
       "first_seen": "2026-11-04T06:15:05+00:00",
-      "updated": "2026-11-04T06:15:05+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "target-US-black_friday-2026",
@@ -5491,6 +5721,42 @@
       "updated": "2026-11-02T03:42:28+00:00"
     },
     {
+      "id": "walmart-US-other-2026-holidayshopping",
+      "brand_id": "walmart",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "holidayshopping",
+      "sale_key_kind": "name",
+      "event_name": "holiday shopping sales events",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Walmart set to kick off 3 holiday shopping sales events - Drug Store News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRXZobWNQLXlQcEYwXzh4YlBwQ0w4amJFYTl3eVBrV3RYUHVodTdnQTVoYmVvM3ZXM0ZFcXF0X1ZMNE9zbjdaTWN3TEZwSURyN2hzWl8wT1d6U1lfazJCb21TMXdnNjVBRHA2SXBrbTRqMW83ZHJha0QtWXkwUlU?oc=5",
+          "domain": "drugstorenews.com",
+          "name": "Drug Store News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Walmart set to kick off 3 holiday shopping sales events",
+          "quote_in": "title",
+          "published": "2026-10-27T15:40:01+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-04T14:34:47+00:00",
+      "updated": "2026-11-04T14:34:47+00:00"
+    },
+    {
       "id": "walmart-US-other-2026-threemajorholidayshopping",
       "brand_id": "walmart",
       "region": "US",
@@ -5498,7 +5764,7 @@
       "year": 2026,
       "sale_key": "threemajorholidayshopping",
       "sale_key_kind": "name",
-      "event_name": "three major holiday shopping events",
+      "event_name": "Three Major Holiday Shopping Events",
       "start": null,
       "end": null,
       "discount": null,
@@ -5518,13 +5784,94 @@
           "quote_in": "title",
           "published": "2026-10-28T22:06:25+00:00",
           "seen": "2026-11-02"
+        },
+        {
+          "title": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites - Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeFl1bDNYV1RSSi1hTTY3cFV5LUNDNGxIUzltbExNQUpjeDFtcHJMaVhvNW9vN3NmelFjajRLdVpWWDRpVmJCYlVTQlZFQ1pmRk9fOFY4eFMtcjVzbWd2UGowRWVDZm4yMkdfcTJ2Ympqcy1Ja2lBRDlCdkdveXpQVmhVVV82VFVyRm1DelZuY2JZdEd1d1g1OGhCbnAtV0dZZlBFQmxEM1NkOGxnNHlaWmVGazR1UXdqMXJfZjdjLUwzdHQ4MmVKdG82UHAyNWM4aVk2c0dhMS1TdmNhS1pOZ0VnOU5CSXU3Qmc4TFdXVWl3cjRRNEQtY2NB?oc=5",
+          "domain": "morningstar.com",
+          "name": "Morningstar",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites",
+          "quote_in": "title",
+          "published": "2026-10-26T11:00:00+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUNpRk5QSWJ5R1l5T1IxWENlYjlOOXVuQTg5eEZxS2RvVlFiOHU1N0RQcWpHdTUzXzU1RFRSQ2RqLWJkTmdFc3I3WDVzLXNWeE5EZWlmMDB6ajVJQ1VYQjFzQ2FzejgzamlXZUh0TEpVUVZVLVBMV0tqN0JtRnpuSmRaeGlUVGtvdXBzQWpSVXdic2s1dFlmY3d2SEFFNXhibHFHSExn?oc=5",
+          "domain": "finance.yahoo.com",
+          "name": "Yahoo Finance",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites",
+          "quote_in": "title",
+          "published": "2026-10-26T11:00:00+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTXVBLVoycUluZUtYY1hsNkRBQ2pJbW5maW9FLW54S2JPS0VaUXdMWDNQY1NOV3lIeWhIcmdUc2hTT2dHSy1HbVY1Q1dZSWtBWGd1d0FfZ0h0cXM3aGtfcFh0RzJ4RTFqTUtWVV9ZTlZpVHc0RjZ2ZVQ0MHpSUnlJUUZfOTg2WFdTUkJwYm5uVXd5UmhGTlVVVmdxWXdFMUtMbGdRYnJzeW54RnhHdkJ1eF85UFJWSm1TVGRsZFBkaXd2SWEyRGFEb29MaEV3QmZpSW9YN1J2cWFvXzM3WVdoUlVBSERfYVdUU3JWNm9naTRGRVU?oc=5",
+          "domain": "businesswire.com",
+          "name": "Business Wire",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites",
+          "quote_in": "title",
+          "published": "2026-10-26T11:00:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-02T03:42:28+00:00"
+      "updated": "2026-11-04T14:34:47+00:00"
+    },
+    {
+      "id": "wayfair-CA-other-2026-wayday",
+      "brand_id": "wayfair",
+      "region": "CA",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "wayday",
+      "sale_key_kind": "name",
+      "event_name": "Way Day",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "I found the best live Way Day deals at Wayfair tonight - AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94RmdjM055Q2hrdGkzTlRPWVgzNm1OcGtsVnlSVWNLR3g4Uko0MWdhUzYxcVc3SjIzNDFmVWkycWNyZTBSODRQOWk2YmJCMHY2djB4LWdmWVdIOTAtQVZfNlNEVHh6R1p6Z3JQamRDeG1rWmlj?oc=5",
+          "domain": "aol.ca",
+          "name": "AOL.ca",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "I found the best live Way Day deals at Wayfair tonight",
+          "quote_in": "title",
+          "published": "2026-10-24T07:00:00+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-04T14:34:47+00:00",
+      "updated": "2026-11-04T14:34:47+00:00"
     },
     {
       "id": "wayfair-US-black_friday-2026",

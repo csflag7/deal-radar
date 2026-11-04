@@ -1,13 +1,75 @@
 {
-  "generated_at": "2026-11-04T06:15:05+00:00",
+  "generated_at": "2026-11-04T14:34:47+00:00",
   "first_run": false,
   "changes": [
+    {
+      "id": "amazon-US-other-2026-holidaybeauty",
+      "brand_id": "amazon",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "2026 holiday beauty event",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "bestbuy-US-other-2026-openboxoutlet",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Best Buy Open-Box Outlet Event",
+      "start": null,
+      "end": null,
+      "discount": "up to 60% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "samsung-unknown-black_friday-2026",
+      "brand_id": "samsung",
+      "region": "unknown",
+      "event_type": "black_friday",
+      "event_name": "Black Friday campaign",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
     {
       "id": "sony-unknown-black_friday-2026",
       "brand_id": "sony",
       "region": "unknown",
       "event_type": "black_friday",
-      "event_name": "Playstation Black Friday Sale 2026",
+      "event_name": "PlayStation Black Friday Sale 2026",
+      "start": "2026-11-04",
+      "end": "2026-11-30",
+      "discount": "up to 90% off",
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": null,
+      "old_end": null
+    },
+    {
+      "id": "walmart-US-other-2026-holidayshopping",
+      "brand_id": "walmart",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "holiday shopping sales events",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "wayfair-CA-other-2026-wayday",
+      "brand_id": "wayfair",
+      "region": "CA",
+      "event_type": "other",
+      "event_name": "Way Day",
       "start": null,
       "end": null,
       "discount": null,
@@ -18,6 +80,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 6,
-  "ai_processed": 76
+  "ai_batches": 8,
+  "ai_processed": 103
 }
