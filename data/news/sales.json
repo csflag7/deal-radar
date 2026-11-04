@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:20:11+00:00",
+  "updated": "2026-11-04T06:15:05+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -337,10 +337,10 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday",
+      "event_name": "early Black Friday",
       "start": "2026-11-01",
       "end": null,
-      "discount": "up to 57% off",
+      "discount": "$100 off",
       "status": "rumored",
       "sources": [
         {
@@ -386,21 +386,6 @@
           "quote": "Google Pixel Watch 5 Beats Its Prime Day Price as Amazon Quietly Rolls Out an Early Black Friday Deal",
           "quote_in": "title",
           "published": "2026-11-03T13:45:27+00:00",
-          "seen": "2026-11-03"
-        },
-        {
-          "title": "9 Black Friday Apple Deals to Shop Early on Amazon—And What to Skip for Now",
-          "url": "https://www.townandcountrymag.com/style/a74295461/apple-deals-black-friday-2026/",
-          "domain": "townandcountrymag.com",
-          "name": "Town & Country",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Shop Amazon’s Early Black Friday Deals on Apple Products",
-          "quote_in": "excerpt",
-          "published": "2026-11-03T08:07:00+00:00",
           "seen": "2026-11-03"
         },
         {
@@ -462,6 +447,21 @@
           "quote_in": "title",
           "published": "2026-11-03T19:58:50+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "This Apple Watch Ultra 4 Is $100 Off Right Now",
+          "url": "https://lifehacker.com/tech/apple-watch-ultra-4-sale-early-black-friday-2026",
+          "domain": "lifehacker.com",
+          "name": "Lifehacker",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "$100 off",
+          "quote": "it’s already seeing an early Black Friday discount of $100 on Amazon",
+          "quote_in": "excerpt",
+          "published": "2026-11-03T11:00:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -470,7 +470,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T06:15:05+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfridayairpod",
@@ -821,7 +821,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Apple Black Friday",
+      "event_name": "Early Apple Black Friday deals",
       "start": null,
       "end": null,
       "discount": "Up To 25% Off",
@@ -916,6 +916,21 @@
           "quote_in": "title",
           "published": "2026-11-03T19:40:46+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Early Apple Black Friday deals: iPads, MacBooks and more - Fox 59",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQelJrZzN2RmF4VThaRG1XY2VXWF9maHZ2dmRVeTZrZ1ZwUVEzSjNXZmI2SUVvQ3g3SkI2NkJHOTlWczVQdGNhMnNXVF9Ga3I3Szd4eVNiSUMxWlpLTXExTUdwa3pESk5Jei1GaHRCWFZFb01SemVNbEMxbnFqbHRuSUNn0gGHAUFVX3lxTFBRVXRDNjdjM2VJWU10bGpBN0k4OURRXzhzTlMyUkNSU2hwQms1eVVvelpXWWVVQW1YRDhsbmlWZUtoS0l2QktFeGZDTzNVczk0bDlJZ0dKUUNkaGNtOFUxaGx6dWdNZ1R0anlLRmdFa3RHRlFwb3lZUWJCTVRROXYxemlqOWtiQQ?oc=5",
+          "domain": "fox59.com",
+          "name": "Fox 59",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Early Apple Black Friday deals: iPads, MacBooks and more",
+          "quote_in": "title",
+          "published": "2026-10-30T17:29:01+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -923,7 +938,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T06:15:05+00:00"
     },
     {
       "id": "apple-US-other-2026-blackfriday",
@@ -953,6 +968,21 @@
           "quote_in": "title",
           "published": "2026-11-02T15:15:00+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Black Friday Is a Month Away—But You Can Already Save Up to 20% Off Apple Tech - Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMU1PeWhuOVlSY1R4aXFBRVdLVE82ZDBRMlJmYmlaelZzWnRxdEhmN1NMY2pBVlF1Ump1eFU4ZzNfVk9FcEdXLWpEdUNIMWQ1TUctT2RtT3BxLVFybmlQaWplQ1l6RDdUSzNueno3clU4d3ptSFFHLVpiM2ljanFjWTRvZGI1QnZfWUZPa1VpVWFhODlCLWk5V1pNLURBQlhxNmc?oc=5",
+          "domain": "tech.yahoo.com",
+          "name": "Yahoo Tech",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 20% off",
+          "quote": "Black Friday Is a Month Away—But You Can Already Save Up to 20% Off Apple Tech",
+          "quote_in": "title",
+          "published": "2026-11-02T15:15:00+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -960,7 +990,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-03T05:37:14+00:00"
+      "updated": "2026-11-04T06:15:05+00:00"
     },
     {
       "id": "apple-US-other-2026-blackfridaymonth",
@@ -1058,7 +1088,7 @@
       "event_name": "Black Friday month",
       "start": "2026-11-27",
       "end": "2026-11-28",
-      "discount": "extra $1,000 off",
+      "discount": "extra $1,000 off appliances",
       "status": "rumored",
       "sources": [
         {
@@ -1189,7 +1219,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00",
+      "updated": "2026-11-04T06:15:05+00:00",
       "date_conflict": [
         "2026-11-19",
         "2026-11-27"
@@ -2849,6 +2879,36 @@
           "quote_in": "title",
           "published": "2026-11-03T16:01:04+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Score discounts on appliances, tools, and more with the best early Black Friday Home Depot deals - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13emN5RGlLNHFQTHZXUlI2X1lWOW5Ja3NwWlZ2alhlbEdJVE0tTUxLTWxrS2QzZHdydldYU0VVaTd2ZDBsUm5FYUNzT0JKdjh4d1RRUnJhcTFqSUtGSmVlazA5NlVwbkU2c2xEcmtvMG5XWm01T2d6VzJoOA?oc=5",
+          "domain": "mashable.com",
+          "name": "Mashable",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Score discounts on appliances, tools, and more with the best early Black Friday Home Depot deals",
+          "quote_in": "title",
+          "published": "2026-10-21T07:00:00+00:00",
+          "seen": "2026-11-04"
+        },
+        {
+          "title": "Home Depot Is Starting Black Friday Early With Ryobi Tool Deals - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEc1VWdtRmwtU0pYT3NwR1B2M3pPVnpETlpLaUlVR2xZSEx2NmlTbWZJdnpnTGRDb29qQXJWVVBOSlY1WUdCc2phd05qS19nNGNjUnIxSEtoOFhwd0lvb3oyN21ZSmpjaU5IdjJTLXFUVWJSWWJpMUY2X3l3cHpJS1RURzRWcm5vSnFfNENucnpxdXMyQUtBT29sZGFGdUcyZDVjMXp0ZGZhSjcxdTZiR2dB?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Home Depot Is Starting Black Friday Early With Ryobi Tool Deals",
+          "quote_in": "title",
+          "published": "2026-11-03T16:01:04+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -2856,7 +2916,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T06:15:05+00:00"
     },
     {
       "id": "homedepot-US-other-2026-freetool",
@@ -4229,7 +4289,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Sony PlayStation Black Friday Sale",
       "start": null,
       "end": null,
       "discount": "up to 75% off",
@@ -4264,6 +4324,21 @@
           "quote_in": "title",
           "published": "2026-11-03T21:50:00+00:00",
           "seen": "2026-11-03"
+        },
+        {
+          "title": "Sony PlayStation Black Friday Sale Starts Early At Up To 75% Off - Artvoice",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajRNb3dLXzU5Y3lQUmVQVjRaRlkyR2JhcGNCOHNFb2VYVEFia01iTktUQ0s0eHlPSE8xV2xVVW1OWUR6TElsd05KSXhiTWdhaWwxLVhRMThxQW1BQXdwVV9kVFk2UnRBbV9iSUluMmxwdTk3d0dtTzBKRklTZU9OeEhfNUxiTGYzZDM1RA?oc=5",
+          "domain": "artvoice.com",
+          "name": "Artvoice",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 75% off",
+          "quote": "Sony PlayStation Black Friday Sale Starts Early At Up To 75% Off",
+          "quote_in": "title",
+          "published": "2026-11-04T04:02:48+00:00",
+          "seen": "2026-11-04"
         }
       ],
       "field_levels": {
@@ -4271,7 +4346,41 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T23:20:11+00:00",
-      "updated": "2026-11-03T23:20:11+00:00"
+      "updated": "2026-11-04T06:15:05+00:00"
+    },
+    {
+      "id": "sony-unknown-black_friday-2026",
+      "brand_id": "sony",
+      "region": "unknown",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Playstation Black Friday Sale 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Playstation Black Friday Sale 2026 deals: Full list of games, consoles and gadgets that are being offered - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNGlDVUZSTDhoZEJmdVVvNTEydVZRU09UclFaRzZ4V19CWlhOZEEtVV90UlJrLVA3MW9SWF9jRUczV0kyWnBYcldiXzNhTXM0b3d6ZVhWR1ZVa0EwWmIxSGdKNmZ3WUgzNTZsY0hsUXhMSlRJeHN5SEx1dG5lNk9ZbkYzWm45Tnc3b0pVS0Z2QTJ3M3lBOV9QQ1Y5Uzh4eE1iWDk4Z3BTNTNNVWs1SGV2ZXJKY1VvZElFaFhoRThRbGZZckF3NmtFc1QtY3gwYjcxRUNqMElXcmR0a0FWZUc2Z2xNNUlxdFBURnEweV8ySEhIUklQeE5oeHdQZmFVQ3ZyZVZBall1NGV6dUh4eGxZdENlWnrSAZoCQVVfeXFMTTAtWllRV2ZxdlhPRktYazJ3OGF4dXBMczhueFRodnRRNTdwTzZRX01UZ2lScUNKUzBfSWlmbFAwbmRjd29INjBwbmJRUTRJRkJyUWdVN2JCbWgzM2JDd09iWFdoUE9vTHdtWGx1LXQtU0J1aHE4aGRyQTFaanFYY3JnRTZuRERvZURhS2IyNzFyOVU2cmRrUzIwWlBCdUNvaUhPa0loRl8tOXZzM1hpT2x4QWViNjZ4NXZuY05hel9PNGZEUjB6OEdXanNjcy0zTlZvb0o2NHVRUXozOS1JYjdaQ2lYeHJZM2tuTnBIUC1hNjBYM1JtTWhOODM2RkhBejNSNlZsTHNTWmhVeHJtejJSZmtUN0dIbEJB?oc=5",
+          "domain": "m.economictimes.com",
+          "name": "The Economic Times",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Playstation Black Friday Sale 2026 deals",
+          "quote_in": "title",
+          "published": "2026-11-04T03:17:56+00:00",
+          "seen": "2026-11-04"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-04T06:15:05+00:00",
+      "updated": "2026-11-04T06:15:05+00:00"
     },
     {
       "id": "target-US-black_friday-2026",
