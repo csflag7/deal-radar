@@ -1,88 +1,30 @@
 {
-  "generated_at": "2026-11-04T23:38:49+00:00",
+  "generated_at": "2026-11-05T06:42:06+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "costco-US-other-2026-early",
-      "brand_id": "costco",
+      "id": "bestbuy-US-black_friday-2026",
+      "brand_id": "bestbuy",
       "region": "US",
-      "event_type": "other",
-      "event_name": "Early Sales",
-      "start": null,
-      "end": null,
-      "discount": null,
+      "event_type": "black_friday",
+      "event_name": "Best Buy Black Friday",
+      "start": "2026-11-19",
+      "end": "2026-11-28",
+      "discount": "extra $1,000 off appliances",
       "status": "rumored",
-      "kind": "new_event"
+      "kind": "date_changed",
+      "old_start": "2026-11-27",
+      "old_end": "2026-11-28"
     },
     {
-      "id": "ikea-CA-black_friday-2026",
+      "id": "ikea-US-other-2026-seasonalsaving",
       "brand_id": "ikea",
-      "region": "CA",
-      "event_type": "black_friday",
-      "event_name": "Black Friday sale",
-      "start": null,
-      "end": null,
-      "discount": "20% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "katespade-US-early_bf-2026",
-      "brand_id": "katespade",
       "region": "US",
-      "event_type": "early_bf",
-      "event_name": "Black Friday 2026",
+      "event_type": "other",
+      "event_name": "Seasonal Savings",
       "start": null,
       "end": null,
       "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sony-CA-black_friday-2026",
-      "brand_id": "sony",
-      "region": "CA",
-      "event_type": "black_friday",
-      "event_name": "Black Friday PS5",
-      "start": null,
-      "end": null,
-      "discount": "jusqu'à 75 %",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "target-US-other-2026-circleday",
-      "brand_id": "target",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Target Circle Deal Days",
-      "start": null,
-      "end": "2026-10-07",
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "walmart-US-other-2026-2026-10-05",
-      "brand_id": "walmart",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Walmart Deals",
-      "start": "2026-10-05",
-      "end": "2026-10-11",
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "wayfair-CA-other-2026-canadaholidayflash",
-      "brand_id": "wayfair",
-      "region": "CA",
-      "event_type": "other",
-      "event_name": "Wayfair Canada's Holiday Flash Sale",
-      "start": null,
-      "end": null,
-      "discount": "up to 70 per cent",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -90,6 +32,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 9,
-  "ai_processed": 106
+  "ai_batches": 5,
+  "ai_processed": 55
 }
