@@ -1,30 +1,112 @@
 {
-  "generated_at": "2026-11-05T06:42:06+00:00",
+  "generated_at": "2026-11-05T19:55:03+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "bestbuy-US-black_friday-2026",
+      "id": "bestbuy-US-other-2026-holidayappliance",
       "brand_id": "bestbuy",
       "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Best Buy Black Friday",
-      "start": "2026-11-19",
-      "end": "2026-11-28",
-      "discount": "extra $1,000 off appliances",
+      "event_type": "other",
+      "event_name": "Best Buy Holiday Appliance Deals",
+      "start": null,
+      "end": null,
+      "discount": "up to 50% off",
       "status": "rumored",
-      "kind": "date_changed",
-      "old_start": "2026-11-27",
-      "old_end": "2026-11-28"
+      "kind": "new_event"
     },
     {
-      "id": "ikea-US-other-2026-seasonalsaving",
-      "brand_id": "ikea",
+      "id": "coach-US-black_friday-2026",
+      "brand_id": "coach",
       "region": "US",
-      "event_type": "other",
-      "event_name": "Seasonal Savings",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026",
       "start": null,
       "end": null,
       "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "homedepot-US-other-2026-decor",
+      "brand_id": "homedepot",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Home Depot's Home Decor Sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "lululemon-US-black_friday-2026",
+      "brand_id": "lululemon",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Lululemon Black Friday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nordstrom-US-early_bf-2026",
+      "brand_id": "nordstrom",
+      "region": "US",
+      "event_type": "early_bf",
+      "event_name": "Nordstrom's Extra Early Black Friday Sale",
+      "start": null,
+      "end": "2026-11-11",
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "samsung-US-other-2026-blackfriday",
+      "brand_id": "samsung",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Black Friday Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "sephora-US-other-2026-fallsaving",
+      "brand_id": "sephora",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Sephora Fall Savings Event",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "target-US-other-2026-bullseye",
+      "brand_id": "target",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Bullseye Deals",
+      "start": null,
+      "end": null,
+      "discount": "up to 75% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "walmart-US-other-2026-holidayrollback",
+      "brand_id": "walmart",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Walmart Holiday Rollback Deals",
+      "start": null,
+      "end": null,
+      "discount": "Up to 50% off",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -32,6 +114,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 5,
-  "ai_processed": 55
+  "ai_batches": 10,
+  "ai_processed": 122
 }
