@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-11-07T21:47:11+00:00",
+  "generated_at": "2026-11-08T05:57:23+00:00",
   "first_run": false,
-  "changes": [
-    {
-      "id": "amazon-US-other-2026-hane",
-      "brand_id": "amazon",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Amazon's Hanes sale",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "amazon-US-other-2026-holiday",
-      "brand_id": "amazon",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Amazon Holiday Deals",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "nike-US-black_friday-2026",
-      "brand_id": "nike",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Macy's One-Day Black Friday Sale",
-      "start": null,
-      "end": null,
-      "discount": "up to 80% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-US-other-2026-collection",
-      "brand_id": "sephora",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Sephora Collection Deals",
-      "start": null,
-      "end": null,
-      "discount": "Extra 30% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-US-other-2026-sitewide",
-      "brand_id": "sephora",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "sitewide sale",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "ulta-US-other-2026-sitewide",
-      "brand_id": "ulta",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "sitewide sale",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    }
-  ],
+  "changes": [],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 6,
-  "ai_processed": 80
+  "ai_batches": 3,
+  "ai_processed": 29
 }

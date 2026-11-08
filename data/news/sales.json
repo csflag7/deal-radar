@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:47:11+00:00",
+  "updated": "2026-11-08T05:57:23+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -1937,10 +1937,10 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday Apple deals",
+      "event_name": "Early Black Friday sale",
       "start": "2026-11-06",
       "end": null,
-      "discount": "51%+ off",
+      "discount": "up to $1,200 off",
       "status": "rumored",
       "sources": [
         {
@@ -2034,21 +2034,6 @@
           "seen": "2026-11-07"
         },
         {
-          "title": "Best Buy's Early Black Friday Sale Slashes An RTX 5060 PC To $899 - HotHardware",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGY2QlM5U2t5V0tkSjBXRy1VbDEwektDcDJrM1dtZmFoaUZwVmhTeUJ4VVA4c0dCaFFfVERaaS1TOG5rUXRiWmJPZndZaEhfZ01QRG1DVlVWcjJCTFlfWDhvZEJPOG03S0tjWXNGZ09scmxLeFhYRjQtcGVWckZhUWoyVmJqNFpyU0VuXzZ3?oc=5",
-          "domain": "hothardware.com",
-          "name": "HotHardware",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Best Buy's Early Black Friday Sale Slashes An RTX 5060 PC To $899",
-          "quote_in": "title",
-          "published": "2026-11-07T12:00:00+00:00",
-          "seen": "2026-11-07"
-        },
-        {
           "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more - 9to5Mac",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XREZsaHBUTVBDemczSzBTMXFPRkdUUEg1dnh0NTRIM1UzbjJ1RnFPV0NYd1E1LWtLSkxYWVAtOE41ajFkZUx6dkdpalh5OUVxcUw1Vy1zTUVyeHcxbTdLbGhhYWoyWXJ3NGRHdHVFdnhrc05fQlVpTW1paw?oc=5",
           "domain": "9to5mac.com",
@@ -2062,6 +2047,21 @@
           "quote_in": "title",
           "published": "2026-11-07T13:00:00+00:00",
           "seen": "2026-11-07"
+        },
+        {
+          "title": "Apple Early Black Friday Deals at Best Buy: Up to $1,200 off + free shipping",
+          "url": "https://www.dealnews.com/Apple-Early-Black-Friday-Deals-at-Best-Buy-Up-to-1-200-off-free-shipping/22346301.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $1,200 off",
+          "quote": "During its Early Black Friday sale, Best Buy is taking up to $1,200 off the iPhone Duo",
+          "quote_in": "summary",
+          "published": "2026-11-07T13:59:32+00:00",
+          "seen": "2026-11-08"
         }
       ],
       "field_levels": {
@@ -2070,7 +2070,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-07T21:47:11+00:00"
+      "updated": "2026-11-08T05:57:23+00:00"
     },
     {
       "id": "bestbuy-US-other-2026-cybersundayandmonday",
@@ -3961,21 +3961,6 @@
           "seen": "2026-11-07"
         },
         {
-          "title": "Home Depot Black Friday Laundry Appliance Deals: Up to 53% off + up to an extra $500 off + free shipping w/ $398",
-          "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Laundry-Appliance-Deals-Up-to-53-off-up-to-an-extra-500-off-free-shipping-w-398/22355442.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Home Depot Black Friday sale takes up to 53% off washers and dryers from big brands like LG, GE, Samsung, Whirlpool, and Maytag.",
-          "quote_in": "summary",
-          "published": "2026-11-06T09:42:33+00:00",
-          "seen": "2026-11-07"
-        },
-        {
           "title": "11 Best Deals from Home Depot’s Black Friday Sale Right Now - bestlifeonline.com",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91YzI4a1ZlbkJ4RTZ1NFQtTmsyVVdUenJTLXZwYUkyLXpON3Y2aW1mQlJrV3RZMFVqVVpsREtLY1g4c1ZwZGJxTGdvZ0cxYVpOU0pvcVdVbUpDNVF4Z0lMVjRtNEdETDRn?oc=5",
           "domain": "bestlifeonline.com",
@@ -4019,6 +4004,21 @@
           "quote_in": "summary",
           "published": "2026-11-07T13:24:07+00:00",
           "seen": "2026-11-07"
+        },
+        {
+          "title": "Ryobi Black Friday Deals at Home Depot: Up to 43% off + free tools w/ purchases + free shipping on most items",
+          "url": "https://www.dealnews.com/Ryobi-Black-Friday-Deals-at-Home-Depot-Up-to-43-off-free-tools-w-purchases-free-shipping-on-most-items/22351155.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "As part of the Home Depot Black Friday Sale, there are lots of good deals on Ryobi power tools",
+          "quote_in": "summary",
+          "published": "2026-11-07T13:19:34+00:00",
+          "seen": "2026-11-08"
         }
       ],
       "field_levels": {
@@ -4027,7 +4027,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-07T21:47:11+00:00"
+      "updated": "2026-11-08T05:57:23+00:00"
     },
     {
       "id": "homedepot-US-early_bf-2026",
@@ -4035,27 +4035,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday Sale",
+      "event_name": "2026 Home Depot early Black Friday sale",
       "start": null,
       "end": null,
-      "discount": "Up to 70% Off",
+      "discount": "up to 57% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Shop and save with The Home Depot's Early Black Friday sale on appliances - ABC7 Los Angeles",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFMtWWgxRDR1a0xiTi1pYXlXX3lJWUtVTDd3cUxPSHlyRm5VNlJxa3pPNER3LVBROG40MnYzdEVRLTJZT0Ixd1J5Q2ZObTYtWmRPcHdjSDh3QTYzNVFKcExaVGhVMGtkM0x3cXB2aXVhZmRVVjVRSHlaNTktOVZQSUVyLUc4ZGVOSUpfQjVURGZIZ9IBlwFBVV95cUxOQ05SLXhoUU9IODNjZ1pVMmZlb1hMclNYTXpjdzZGSUF2YjlKdWRtaE9zY0NFakFhb0Fpb3cwMHdvMEVBMjFhbnBTVmtYTldyY1NVYzBrTFRRMVJHLTM4WWJuVGp5SktDbVBxd245dW5lWjRWNHlfOFFWVnJweEZXYVo5UHh0cEVFWTJfNWRSTzZwTldaekdR?oc=5",
-          "domain": "abc7.com",
-          "name": "ABC7 Los Angeles",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Shop and save with The Home Depot's Early Black Friday sale on appliances",
-          "quote_in": "title",
-          "published": "2026-11-05T01:40:07+00:00",
-          "seen": "2026-11-05"
-        },
         {
           "title": "Home Depot early Black Friday deals start today: Tools, appliances, more - New York Post",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwUktodUItcWJ0cmxHN181eFJ3Z3ozMlRib05tUWp3MjZudF9PQ3VSZWxzTTZrRVVndWJQX3pMUGhQNTI3ZmlVR04yNXlyZzRfQTdKOFdXRldBRHdGOTRJWndsY0l0ak5GSzQyeGFJOXFzUFdjajFacDBEY0JCQ0U?oc=5",
@@ -4160,6 +4145,21 @@
           "quote_in": "title",
           "published": "2026-11-06T18:00:00+00:00",
           "seen": "2026-11-07"
+        },
+        {
+          "title": "Best mattress deals up to 57% off during the 2026 Home Depot early Black Friday sale - ABC7 Chicago",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWdBTXhSN1hBVFozdTZhMDk4emFlOHBhanlnaUhOVjVpV0RsWnpWWTdDdUJOa1BxSkRNRlJ0NXYta2lnNzVfeFFDYnRhY2ljbXNHQkw1Um1udnoyTHhzVkVQd0VpU082SUFzQTV1MjA4SS1YanRBX3hrYTBVQ0xCSTZJZXNERXNNWDM3b2REYlNkUTZ6QzBtdkV0OEhPU1pVV3FTODc3MXFPRFFzd3dobk530gG3AUFVX3lxTE51MHgzdmN4NWlrcjRyVlF1OTFIMlJQb015RW9US2ZMNFJQdGVIRUJITk1jSFZGcjBEcDJ1WE1WaDM2WHZNcktkcVFFRHBtbUx3ZUpUd3B1VWtjTGZYbTVQWVFLM0Zfam00bG1YU2d6MmRzcFVhazQ1Yk1HUk1DS29qRS1NaWpwV2ltU05vMHFpcWlvcTExVWI5ZDRteXVOTzNuSTZKclJOLTNyUXVXbTZ6SmpsRXZzUQ?oc=5",
+          "domain": "abc7chicago.com",
+          "name": "ABC7 Chicago",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 57% off",
+          "quote": "Best mattress deals up to 57% off during the 2026 Home Depot early Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-05T17:46:44+00:00",
+          "seen": "2026-11-08"
         }
       ],
       "field_levels": {
@@ -4167,7 +4167,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-07T05:55:17+00:00"
+      "updated": "2026-11-08T05:57:23+00:00"
     },
     {
       "id": "homedepot-US-other-2026-decor",
