@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-11-08T05:57:23+00:00",
+  "generated_at": "2026-11-08T13:20:27+00:00",
   "first_run": false,
-  "changes": [],
+  "changes": [
+    {
+      "id": "amazon-US-other-2026-wootelectronicliquidation",
+      "brand_id": "amazon",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Woot Electronics Liquidation Sale",
+      "start": null,
+      "end": null,
+      "discount": "Up to 75% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "costco-US-other-2026-savingonselectapparel",
+      "brand_id": "costco",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Savings on Select Apparel",
+      "start": null,
+      "end": null,
+      "discount": "$10 off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nike-US-other-2026-menclearance",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Nike Men's Clearance Deals",
+      "start": null,
+      "end": null,
+      "discount": "up to 45% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nike-US-other-2026-shoe",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Nike Shoe Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "wayfair-US-other-2026-early",
+      "brand_id": "wayfair",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Wayfair's Early Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    }
+  ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 3,
-  "ai_processed": 29
+  "ai_batches": 5,
+  "ai_processed": 58
 }
