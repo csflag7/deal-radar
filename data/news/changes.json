@@ -1,49 +1,13 @@
 {
-  "generated_at": "2026-11-08T13:20:27+00:00",
+  "generated_at": "2026-11-08T22:00:37+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "amazon-US-other-2026-wootelectronicliquidation",
+      "id": "amazon-US-other-2026-blackfridaytech",
       "brand_id": "amazon",
       "region": "US",
       "event_type": "other",
-      "event_name": "Woot Electronics Liquidation Sale",
-      "start": null,
-      "end": null,
-      "discount": "Up to 75% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "costco-US-other-2026-savingonselectapparel",
-      "brand_id": "costco",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Savings on Select Apparel",
-      "start": null,
-      "end": null,
-      "discount": "$10 off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "nike-US-other-2026-menclearance",
-      "brand_id": "nike",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Nike Men's Clearance Deals",
-      "start": null,
-      "end": null,
-      "discount": "up to 45% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "nike-US-other-2026-shoe",
-      "brand_id": "nike",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Nike Shoe Deals",
+      "event_name": "Black Friday tech deals",
       "start": null,
       "end": null,
       "discount": null,
@@ -51,21 +15,95 @@
       "kind": "new_event"
     },
     {
-      "id": "wayfair-US-other-2026-early",
-      "brand_id": "wayfair",
+      "id": "apple-US-other-2026-blackfridaytech",
+      "brand_id": "apple",
       "region": "US",
       "event_type": "other",
-      "event_name": "Wayfair's Early Deals",
+      "event_name": "Black Friday tech deals",
       "start": null,
       "end": null,
       "discount": null,
       "status": "rumored",
       "kind": "new_event"
+    },
+    {
+      "id": "bestbuy-US-other-2026-doorbuster",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Best Buy Doorbusters",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "bose-US-other-2026-blackfridaytech",
+      "brand_id": "bose",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Black Friday tech deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "ikea-US-black_friday-2026",
+      "brand_id": "ikea",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday Sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "ikea-US-early_bf-2026",
+      "brand_id": "ikea",
+      "region": "US",
+      "event_type": "early_bf",
+      "event_name": "early Black Friday discounts",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "lululemon-US-cyber_monday-2026",
+      "brand_id": "lululemon",
+      "region": "US",
+      "event_type": "cyber_monday",
+      "event_name": "Cyber Monday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "sephora-US-other-2026-saving",
+      "brand_id": "sephora",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Sephora Savings Event",
+      "start": "2026-10-30",
+      "end": "2026-11-09",
+      "discount": "up to 30 percent off",
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": null,
+      "old_end": null
     }
   ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 5,
-  "ai_processed": 58
+  "ai_batches": 4,
+  "ai_processed": 43
 }
