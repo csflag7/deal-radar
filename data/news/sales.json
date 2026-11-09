@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:00:37+00:00",
+  "updated": "2026-11-09T06:21:28+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -544,7 +544,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "early Black Friday Google deals",
+      "event_name": "Early Black Friday Apple deals",
       "start": "2026-11-01",
       "end": null,
       "discount": "$350 off",
@@ -579,21 +579,6 @@
           "quote_in": "title",
           "published": "2026-11-06T17:04:31+00:00",
           "seen": "2026-11-06"
-        },
-        {
-          "title": "Amazon’s Early Black Friday Deals Drop Chainsaws Up to 38%—Save on Greenworks, Worx, and More - BobVila.com",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFlSRUVOSE5wOVFValZTbHpOTG5fWHJTdXhnbHdwN2I4Mmk4UVpySzBOaE8wVENMOWtibmlQMXBQWU9uUXpKLXdhdE9YVUJHaFVhekJWVGZmeHFkbDZmVlNqOFdudnhuY2V3bnlvRXREWDAxYjd5eTFlc0RtWFlrLVlxOA?oc=5",
-          "domain": "bobvila.com",
-          "name": "BobVila.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 38%",
-          "quote": "Amazon’s Early Black Friday Deals Drop Chainsaws Up to 38%",
-          "quote_in": "title",
-          "published": "2026-11-06T17:04:31+00:00",
-          "seen": "2026-11-07"
         },
         {
           "title": "EcoFlow power stations are up to 61% off in Amazon’s early Black Friday sale - The Gadgeteer",
@@ -669,6 +654,21 @@
           "quote_in": "title",
           "published": "2026-11-08T14:30:00+00:00",
           "seen": "2026-11-08"
+        },
+        {
+          "title": "Early Black Friday Apple deals on Amazon: AirPods Pro 3 drop to $199 - The Mac Observer",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUdTdXZXUkV4Z1o3OU1mQ0paNFdpWW8zYVVLeE9qZC03aEh6VVNpWFdnaVFfbnZ4N2doOGN3c0JfdTZnclhiSUdXREcySnlMaVRPZFFKZXZrZnpQWEZFY25WbldTU3dGT0RKenZUMGh0NUk5LUtxcndObllQWGhVWW4ta2NBenhiWHktcG0tdjhFaDZG?oc=5",
+          "domain": "macobserver.com",
+          "name": "The Mac Observer",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Early Black Friday Apple deals on Amazon: AirPods Pro 3 drop to $199",
+          "quote_in": "title",
+          "published": "2026-11-09T04:36:11+00:00",
+          "seen": "2026-11-09"
         }
       ],
       "field_levels": {
@@ -677,7 +677,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-08T22:00:37+00:00"
+      "updated": "2026-11-09T06:21:28+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfridayairpod",
@@ -2970,6 +2970,21 @@
           "quote_in": "title",
           "published": "2026-11-06T18:42:02+00:00",
           "seen": "2026-11-06"
+        },
+        {
+          "title": "Canadian Tire's early Black Friday sale has up to 65% off kitchen, home and tech items - Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UTERDUVBMbUNGbFpfcTlJTEluamZoS2hGdER1aUFiLWQ1MkxRRlpPTFJ4cGctOHdqOFhoWkJ4RXRiM2ozMjMxVUtzOU9BSVVhQ001SENaTXJZNWpvWE04YVFiekNTNk9KN3RBTExlSl9SOGhPM1hqYmFkbXR5Tk0?oc=5",
+          "domain": "ca.news.yahoo.com",
+          "name": "Yahoo News Canada",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 65% off",
+          "quote": "Canadian Tire's early Black Friday sale has up to 65% off kitchen, home and tech items",
+          "quote_in": "title",
+          "published": "2026-11-06T18:42:02+00:00",
+          "seen": "2026-11-09"
         }
       ],
       "field_levels": {
@@ -2977,7 +2992,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-06T19:22:34+00:00",
-      "updated": "2026-11-06T19:22:34+00:00"
+      "updated": "2026-11-09T06:21:28+00:00"
     },
     {
       "id": "clinique-US-early_bf-2026",
@@ -3215,10 +3230,10 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Costco Black Friday Sale 2026",
+      "event_name": "early Black Friday Costco deals",
       "start": null,
       "end": null,
-      "discount": null,
+      "discount": "Up to 44% off",
       "status": "rumored",
       "sources": [
         {
@@ -3265,13 +3280,29 @@
           "quote_in": "title",
           "published": "2026-11-02T03:00:00+00:00",
           "seen": "2026-11-02"
+        },
+        {
+          "title": "Best early Black Friday Costco deals: Up to 44% off TVs, headphones, gift cards, and more - ZDNET",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelEwcWxMTExNZ1cyUElBY1Eyb0JBenBlN1A2OTZ0TklNWVZmU3h5cjYwamowUVg3VExkdl9pNGdMVGZYOGI5di1iS2RpdWJpRkVaZXpfTTN2T3NXcUdCQjJHUEtERktGNVNsblBycVpKU3FZOE50M0JQM3JCRjJjSEhMcXVzR2s?oc=5",
+          "domain": "zdnet.com",
+          "name": "ZDNET",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 44% off",
+          "quote": "Best early Black Friday Costco deals: Up to 44% off TVs, headphones, gift cards, and more",
+          "quote_in": "title",
+          "published": "2026-11-09T01:19:09+00:00",
+          "seen": "2026-11-09"
         }
       ],
       "field_levels": {
-        "event_name": 1
+        "event_name": 1,
+        "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-02T03:42:28+00:00"
+      "updated": "2026-11-09T06:21:28+00:00"
     },
     {
       "id": "costco-US-other-2026-annualholidaysavingad",
@@ -6415,6 +6446,42 @@
       "updated": "2026-11-07T05:55:17+00:00"
     },
     {
+      "id": "sephora-CA-other-2026-massive",
+      "brand_id": "sephora",
+      "region": "CA",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "massive",
+      "sale_key_kind": "name",
+      "event_name": "Sephora's massive sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "I'm almost 30, my mom's in her 60s. We tried The Ordinary's 'Botox in a bottle' anti-aging serum on sale for just $10 during Sephora's massive sale - Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMmhKeU9oUzM0WjRrN1ZldTZWWFFNTXlpZVRuWWoxVGIzLVpZb28zbTYtVnR2d2lpTXVjMUZIdmVmRXhpWFpsSUs2OE1DdDl2NEx2dlV2Ynk5cnctd3ZVN0xUMk1XLUV2cGRLbFhtWXpVM2t5Q1pYcDZycEhjOEliNzl0WEhTRlRBMUEtZHE5Vi1KVEhLemNBaFpIM0w0UkxWdDU4LTZlcEJOVU5OZGhiTk1HbHZNWm92RmlvaGdnSXl1ZWtDMlpRR3ItS2VSaTBXWFhESDVuXzlqck1GU2Z3bkVoSGJuTW9lM1FhQ2Q2Uld0OG5fb0xEMlNfdHFMalFUeEdaZGl1a3JrMVJx?oc=5",
+          "domain": "ca.style.yahoo.com",
+          "name": "Yahoo Lifestyle Canada",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "on sale for just $10 during Sephora's massive sale",
+          "quote_in": "title",
+          "published": "2026-11-02T16:55:08+00:00",
+          "seen": "2026-11-09"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-09T06:21:28+00:00",
+      "updated": "2026-11-09T06:21:28+00:00"
+    },
+    {
       "id": "sephora-CA-other-2026-saving",
       "brand_id": "sephora",
       "region": "CA",
@@ -6793,6 +6860,40 @@
       "updated": "2026-11-07T21:47:11+00:00"
     },
     {
+      "id": "sharkninja-US-black_friday-2026",
+      "brand_id": "sharkninja",
+      "region": "US",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Black Friday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "I love my Dyson, but I vouch for these Shark stick vacuums on sale for Black Friday - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LS0xiaVczekF0VzNHMlJObk8wakNIWDNhcEw4bnBFSWJTaTZmYVBWQ195aHFtQjhPT1VUSURnZ1VCWGNnMFpBRUxIdHF1ajZRelhzWUZwR21ZNW5kcVozc0tYYmRQRVdJdWNaY0JQQ3EzZWpuVFBZVw?oc=5",
+          "domain": "mashable.com",
+          "name": "Mashable",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "these Shark stick vacuums on sale for Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-08T10:00:00+00:00",
+          "seen": "2026-11-09"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-09T06:21:28+00:00",
+      "updated": "2026-11-09T06:21:28+00:00"
+    },
+    {
       "id": "sony-CA-black_friday-2026",
       "brand_id": "sony",
       "region": "CA",
@@ -7167,7 +7268,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Target's Black Friday 2026 sale",
+      "event_name": "Black Friday",
       "start": "2026-11-27",
       "end": null,
       "discount": "50% off",
@@ -7201,21 +7302,6 @@
           "quote": "Target Black Friday - November 27",
           "quote_in": "excerpt",
           "published": "2026-11-03T16:36:00+00:00",
-          "seen": "2026-11-05"
-        },
-        {
-          "title": "The Target Black Friday sale starting this week offers great deals on Apple AirPods Pro 3, iRobot Roomba and more - SILive.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbzdaRWpEcmh5WGpqd2lFb3RJMEN3VFpYendrSDJMSmxjQkR4TDl2a2czV190Q3ZUbFdkWlZncjVoc3lqYkNVZXhTSzd3VXE0MTBKcVQzcklaaVV6TDNXMG9QdHdMcmRkajZieFRKUnhKVUxRVVZSRUI1Y2FUOTk2OUgybFVEN2lxMm5IQ244SUZFNXhlOTc3T3RUWjd5UFBhQ0NFb3ZMdk5uSFZ6NzF6cTN2eXZQM0FDSm5KT280ekdhRGRObWJkWWF3SU1BT2ZkTDBURHd1TkcwUk9BOGg2VzhVTk9ua2dQYTNyRVdYb2VvVVp2eEE?oc=5",
-          "domain": "silive.com",
-          "name": "SILive.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Target Black Friday sale starting this week offers great deals on Apple AirPods Pro 3, iRobot Roomba and more",
-          "quote_in": "title",
-          "published": "2026-11-05T14:45:00+00:00",
           "seen": "2026-11-05"
         },
         {
@@ -7292,6 +7378,21 @@
           "quote_in": "excerpt",
           "published": "2026-10-30T08:14:00+00:00",
           "seen": "2026-11-08"
+        },
+        {
+          "title": "Target Releases Surprise Disney Gift Card Discount and Perk Offer Ahead of Black Friday - Mickey Visit",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlJqejBpOUJ1RDRjZEg4NTFtYnFNTVdCc3U4M0V6MVlBV2kyTmNtU3lPVGhYa2d0NE9YdFN3LWtRc3c4TkZQQUJ2aGZpM01DR3M2ZnZIN0kyRGYxRmVhLXVGZWJYcGJ6ME1NY2dTdC1IRndFTnJBT1lFaDdIRGE1RzZDUQ?oc=5",
+          "domain": "mickeyvisit.com",
+          "name": "Mickey Visit",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Target Releases Surprise Disney Gift Card Discount and Perk Offer Ahead of Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-09T00:40:15+00:00",
+          "seen": "2026-11-09"
         }
       ],
       "field_levels": {
@@ -7300,7 +7401,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-08T13:20:27+00:00"
+      "updated": "2026-11-09T06:21:28+00:00"
     },
     {
       "id": "target-US-early_bf-2026",
