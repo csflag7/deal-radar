@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T06:21:28+00:00",
+  "generated_at": "2026-11-09T22:19:02+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "sephora-CA-other-2026-massive",
-      "brand_id": "sephora",
-      "region": "CA",
+      "id": "bestbuy-US-other-2026-blackfriday",
+      "brand_id": "bestbuy",
+      "region": "US",
       "event_type": "other",
-      "event_name": "Sephora's massive sale",
+      "event_name": "Black Friday 2026",
       "start": null,
       "end": null,
       "discount": null,
@@ -15,11 +15,53 @@
       "kind": "new_event"
     },
     {
-      "id": "sharkninja-US-black_friday-2026",
-      "brand_id": "sharkninja",
+      "id": "costco-US-black_friday-2026",
+      "brand_id": "costco",
       "region": "US",
       "event_type": "black_friday",
-      "event_name": "Black Friday",
+      "event_name": "Costco Black Friday 2026",
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "discount": null,
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": "2026-11-27",
+      "old_end": "2026-11-30"
+    },
+    {
+      "id": "dyson-US-black_friday-2026",
+      "brand_id": "dyson",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday sale",
+      "start": null,
+      "end": "2026-11-30",
+      "discount": null,
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": null,
+      "old_end": null
+    },
+    {
+      "id": "garmin-US-black_friday-2026",
+      "brand_id": "garmin",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Garmin Black Friday 2026 deals",
+      "start": "2026-11-27",
+      "end": null,
+      "discount": "up to 10 percentage points bigger",
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": null,
+      "old_end": null
+    },
+    {
+      "id": "katespade-US-other-2026-outletholiday",
+      "brand_id": "katespade",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Kate Spade Outlet Holiday Sale",
       "start": null,
       "end": null,
       "discount": null,
@@ -27,9 +69,362 @@
       "kind": "new_event"
     }
   ],
-  "failed_sources": [],
+  "failed_sources": [
+    {
+      "id": "gnews-US-lululemon",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-lululemon",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-aritzia",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-aritzia",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-arcteryx",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-arcteryx",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-nike",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-nike",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-adidas",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-adidas",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-thenorthface",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-thenorthface",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-canadagoose",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-canadagoose",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-coach",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-coach",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-katespade",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-katespade",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-uniqlo",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-uniqlo",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-gap",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-gap",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-levis",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-levis",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-abercrombie",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-abercrombie",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-nordstrom",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-sephora",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-sephora",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-ulta",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-shoppers",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-lancome",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-lancome",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-esteelauder",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-esteelauder",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-clinique",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-clinique",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-kiehls",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-kiehls",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-mac",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-mac",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-theordinary",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-theordinary",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-glossier",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-glossier",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-dermstore",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-apple",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-apple",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-bestbuy",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-bestbuy",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-dyson",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-dyson",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-samsung",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-samsung",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-sony",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-sony",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-bose",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-bose",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-microsoft",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-microsoft",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-dell",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-dell",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-lenovo",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-lenovo",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-garmin",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-garmin",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-amazon",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-amazon",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-costco",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-costco",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-walmart",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-walmart",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-target",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-canadiantire",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-homedepot",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-homedepot",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-ikea",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-ikea",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-wayfair",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-wayfair",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-williamssonoma",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-williamssonoma",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-US-sharkninja",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-sharkninja",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-simons",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-CA-indigo",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-camedia1",
+      "error": "HTTP 503"
+    },
+    {
+      "id": "gnews-camedia2",
+      "error": "HTTP 503"
+    }
+  ],
   "ai_errors": [],
   "ai_aborted": null,
   "ai_batches": 5,
-  "ai_processed": 48
+  "ai_processed": 49
 }
