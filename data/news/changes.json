@@ -1,52 +1,54 @@
 {
-  "generated_at": "2026-11-11T06:10:58+00:00",
+  "generated_at": "2026-11-11T14:16:53+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "dyson-CA-early_bf-2026",
-      "brand_id": "dyson",
-      "region": "CA",
-      "event_type": "early_bf",
-      "event_name": "early Black Friday deals",
+      "id": "adidas-US-other-2026-veteranday",
+      "brand_id": "adidas",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Veterans Day Sale",
+      "start": null,
+      "end": null,
+      "discount": "up to extra 50% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "amazon-US-cyber_monday-2026",
+      "brand_id": "amazon",
+      "region": "US",
+      "event_type": "cyber_monday",
+      "event_name": "Cyber Monday 2026",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "discount": null,
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": "2026-11-19",
+      "old_end": "2026-11-30"
+    },
+    {
+      "id": "nike-US-other-2026-veteranday",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Veterans Day Sale",
+      "start": null,
+      "end": null,
+      "discount": "up to extra 50% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nordstrom-US-other-2026-blackfriday",
+      "brand_id": "nordstrom",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Black Friday Nordstrom deals",
       "start": null,
       "end": null,
       "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "gap-US-other-2026-holiday",
-      "brand_id": "gap",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "holiday sale",
-      "start": null,
-      "end": null,
-      "discount": "up to 60% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "gap-US-other-2026-holidaykickoff",
-      "brand_id": "gap",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Holiday Kickoff Event",
-      "start": null,
-      "end": null,
-      "discount": "up to 60% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "wayfair-US-other-2026-surpriseflash",
-      "brand_id": "wayfair",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Wayfair’s surprise flash sale",
-      "start": null,
-      "end": null,
-      "discount": "up to 78% off",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -54,6 +56,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 9,
-  "ai_processed": 101
+  "ai_batches": 6,
+  "ai_processed": 72
 }
