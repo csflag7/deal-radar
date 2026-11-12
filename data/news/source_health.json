@@ -1,1212 +1,1212 @@
 {
   "gnews-US-lululemon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 19,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 21,
     "last_error": null
   },
   "gnews-CA-lululemon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "gnews-US-aritzia": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "gnews-CA-aritzia": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 6,
     "last_error": null
   },
   "gnews-US-arcteryx": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 14,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 13,
     "last_error": null
   },
   "gnews-CA-arcteryx": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 5,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 7,
     "last_error": null
   },
   "gnews-US-nike": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 16,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 20,
     "last_error": null
   },
   "gnews-CA-nike": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "gnews-US-adidas": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "gnews-CA-adidas": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-US-thenorthface": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 11,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 27,
     "last_error": null
   },
   "gnews-CA-thenorthface": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 10,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 12,
     "last_error": null
   },
   "gnews-US-canadagoose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "gnews-CA-canadagoose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-US-coach": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 21,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 23,
     "last_error": null
   },
   "gnews-CA-coach": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 17,
     "last_error": null
   },
   "gnews-US-katespade": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 28,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 29,
     "last_error": null
   },
   "gnews-CA-katespade": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 4,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 5,
     "last_error": null
   },
   "gnews-US-uniqlo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-CA-uniqlo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "gnews-US-gap": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 21,
     "last_error": null
   },
   "gnews-CA-gap": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 15,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 18,
     "last_error": null
   },
   "gnews-US-levis": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 31,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 27,
     "last_error": null
   },
   "gnews-CA-levis": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "gnews-US-abercrombie": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 13,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "gnews-CA-abercrombie": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 2,
     "last_error": null
   },
   "gnews-US-nordstrom": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 40,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 38,
     "last_error": null
   },
   "gnews-US-sephora": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 14,
     "last_error": null
   },
   "gnews-CA-sephora": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "gnews-US-ulta": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 31,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 30,
     "last_error": null
   },
   "gnews-CA-shoppers": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 4,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 3,
     "last_error": null
   },
   "gnews-US-lancome": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 5,
     "last_error": null
   },
   "gnews-CA-lancome": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 3,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 1,
     "last_error": null
   },
   "gnews-US-esteelauder": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 13,
     "last_error": null
   },
   "gnews-CA-esteelauder": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "gnews-US-clinique": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 5,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 7,
     "last_error": null
   },
   "gnews-CA-clinique": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "gnews-US-kiehls": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "gnews-CA-kiehls": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "gnews-US-mac": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 7,
     "last_error": null
   },
   "gnews-CA-mac": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "gnews-US-theordinary": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 13,
     "last_error": null
   },
   "gnews-CA-theordinary": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 4,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 3,
     "last_error": null
   },
   "gnews-US-glossier": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 5,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 7,
     "last_error": null
   },
   "gnews-CA-glossier": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "gnews-US-dermstore": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 1,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 0,
     "last_error": null
   },
   "gnews-US-apple": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 100,
     "last_error": null
   },
   "gnews-CA-apple": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 31,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 29,
     "last_error": null
   },
   "gnews-US-bestbuy": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 95,
     "last_error": null
   },
   "gnews-CA-bestbuy": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 29,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 27,
     "last_error": null
   },
   "gnews-US-dyson": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 40,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 41,
     "last_error": null
   },
   "gnews-CA-dyson": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-US-samsung": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 77,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 75,
     "last_error": null
   },
   "gnews-CA-samsung": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 16,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 19,
     "last_error": null
   },
   "gnews-US-sony": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 49,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 51,
     "last_error": null
   },
   "gnews-CA-sony": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 17,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 9,
     "last_error": null
   },
   "gnews-US-bose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 32,
     "last_error": null
   },
   "gnews-CA-bose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "gnews-US-microsoft": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 34,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 33,
     "last_error": null
   },
   "gnews-CA-microsoft": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 8,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 23,
     "last_error": null
   },
   "gnews-US-dell": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 21,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 22,
     "last_error": null
   },
   "gnews-CA-dell": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 10,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "gnews-US-lenovo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 21,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 22,
     "last_error": null
   },
   "gnews-CA-lenovo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-US-garmin": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 17,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 20,
     "last_error": null
   },
   "gnews-CA-garmin": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 10,
     "last_error": null
   },
   "gnews-US-amazon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 100,
     "last_error": null
   },
   "gnews-CA-amazon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 24,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 20,
     "last_error": null
   },
   "gnews-US-costco": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 23,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 25,
     "last_error": null
   },
   "gnews-CA-costco": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "gnews-US-walmart": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 100,
     "last_error": null
   },
   "gnews-CA-walmart": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 27,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 25,
     "last_error": null
   },
   "gnews-US-target": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 38,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 39,
     "last_error": null
   },
   "gnews-CA-canadiantire": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 6,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 7,
     "last_error": null
   },
   "gnews-US-homedepot": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 32,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 34,
     "last_error": null
   },
   "gnews-CA-homedepot": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 20,
     "last_error": null
   },
   "gnews-US-ikea": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 17,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 15,
     "last_error": null
   },
   "gnews-CA-ikea": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "gnews-US-wayfair": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 18,
     "last_error": null
   },
   "gnews-CA-wayfair": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 13,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 15,
     "last_error": null
   },
   "gnews-US-williamssonoma": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 16,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 14,
     "last_error": null
   },
   "gnews-CA-williamssonoma": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 4,
     "last_error": null
   },
   "gnews-US-sharkninja": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 23,
     "last_error": null
   },
   "gnews-CA-sharkninja": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 6,
     "last_error": null
   },
   "gnews-CA-simons": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 4,
     "last_error": null
   },
   "gnews-CA-indigo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-lululemon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 5,
     "last_error": null
   },
   "bing-CA-lululemon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-aritzia": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "bing-CA-aritzia": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-arcteryx": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-arcteryx": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-nike": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 4,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 3,
     "last_error": null
   },
   "bing-CA-nike": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-adidas": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 7,
     "last_error": null
   },
   "bing-CA-adidas": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-thenorthface": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-thenorthface": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-canadagoose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-canadagoose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-coach": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-CA-coach": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-katespade": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-katespade": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-uniqlo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 2,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 3,
     "last_error": null
   },
   "bing-CA-uniqlo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-gap": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 4,
     "last_error": null
   },
   "bing-CA-gap": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-levis": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-levis": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-abercrombie": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-abercrombie": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-nordstrom": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 7,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "bing-US-sephora": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 8,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "bing-CA-sephora": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 1,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 2,
     "last_error": null
   },
   "bing-US-ulta": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-shoppers": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-lancome": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-lancome": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-esteelauder": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-esteelauder": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-clinique": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-CA-clinique": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-kiehls": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-kiehls": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-mac": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-mac": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-theordinary": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-theordinary": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-glossier": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-glossier": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-dermstore": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 0,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 1,
     "last_error": null
   },
   "bing-US-apple": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 11,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 12,
     "last_error": null
   },
   "bing-CA-apple": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "bing-US-bestbuy": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 11,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 12,
     "last_error": null
   },
   "bing-CA-bestbuy": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 5,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 3,
     "last_error": null
   },
   "bing-US-dyson": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "bing-CA-dyson": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-samsung": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 11,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "bing-CA-samsung": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-sony": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 12,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "bing-CA-sony": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 6,
     "last_error": null
   },
   "bing-US-bose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "bing-CA-bose": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-microsoft": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-microsoft": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-dell": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 8,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 9,
     "last_error": null
   },
   "bing-CA-dell": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-lenovo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 11,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 10,
     "last_error": null
   },
   "bing-CA-lenovo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 1,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 0,
     "last_error": null
   },
   "bing-US-garmin": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 6,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 8,
     "last_error": null
   },
   "bing-CA-garmin": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-amazon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 10,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 9,
     "last_error": null
   },
   "bing-CA-amazon": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 7,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 8,
     "last_error": null
   },
   "bing-US-costco": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 7,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 9,
     "last_error": null
   },
   "bing-CA-costco": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 4,
     "last_error": null
   },
   "bing-US-walmart": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 10,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "bing-CA-walmart": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "bing-US-target": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 9,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 11,
     "last_error": null
   },
   "bing-CA-canadiantire": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-homedepot": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 0,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 1,
     "last_error": null
   },
   "bing-CA-homedepot": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-ikea": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 3,
     "last_error": null
   },
   "bing-CA-ikea": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 2,
     "last_error": null
   },
   "bing-US-wayfair": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 9,
     "last_error": null
   },
   "bing-CA-wayfair": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-US-williamssonoma": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 2,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 0,
     "last_error": null
   },
   "bing-CA-williamssonoma": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-US-sharkninja": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 1,
     "last_error": null
   },
   "bing-CA-sharkninja": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-simons": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "bing-CA-indigo": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 0,
     "last_error": null
   },
   "slickdeals": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
+    "last_attempt": "2026-11-12T23:36:05+00:00",
     "last_count": 25,
     "last_error": null
   },
@@ -1218,24 +1218,24 @@
     "last_error": null
   },
   "dealnews": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 50,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 49,
     "last_error": null
   },
   "gnews-camedia1": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 70,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 64,
     "last_error": null
   },
   "gnews-camedia2": {
-    "last_success": "2026-11-12T15:09:24+00:00",
+    "last_success": "2026-11-12T23:36:05+00:00",
     "consecutive_failures": 0,
-    "last_attempt": "2026-11-12T15:09:24+00:00",
-    "last_count": 74,
+    "last_attempt": "2026-11-12T23:36:05+00:00",
+    "last_count": 67,
     "last_error": null
   }
 }
