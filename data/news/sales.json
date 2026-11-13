@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:36:05+00:00",
+  "updated": "2026-11-13T06:40:59+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -683,21 +683,6 @@
           "seen": "2026-11-02"
         },
         {
-          "title": "Amazon Black Friday Week runs November 19 to 30, Apple returns end January 15 - The Mac Observer",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFNudFEwejF3X0pZa2k0U2g1ODUzay1ZWlBsQzdKNHM2ZURiSmJzcnNZZFlMZnJyR3Z0bE8zdUNpTnRGbWotUW5yRnN0blVXVUE5QU1BTjMwVUpnZTBrSjAxbXFnc2xfRWJJbkhrNkxhYnAteVpacjl3WlZwQ2c0aVdzbmRCZFJUajBV?oc=5",
-          "domain": "macobserver.com",
-          "name": "The Mac Observer",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-19",
-          "end": "2026-11-30",
-          "discount": null,
-          "quote": "Amazon Black Friday Week runs November 19 to 30",
-          "quote_in": "title",
-          "published": "2026-11-11T11:33:10+00:00",
-          "seen": "2026-11-11"
-        },
-        {
           "title": "Amazon's Black Friday Week, Cyber Monday return Nov. 19-30 - Drug Store News",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3RWTndCMm1RV1B5S29MTnhObzBfR1FoWDlHejlrYzZCUXZxSFZramRWek5NQTZkazdLY2g0ODlIZXpya1FCbWRuZXRxa0x6MjNHcWV6ZF9PSG80VzZGUlZMOFNNZVM1Z19vdGp5c1l5RXB2MDZsa09aeU40WVI2a3FFcnZuejNl?oc=5",
           "domain": "drugstorenews.com",
@@ -786,6 +771,21 @@
           "quote_in": "title",
           "published": "2026-11-12T17:05:28+00:00",
           "seen": "2026-11-12"
+        },
+        {
+          "title": "Amazon's Black Friday starts Nov. 19. Here are the deals to watch for. - Times Union",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTNPSm1lRkxpbUdLaGw2YjNITDFySm9zY2laVTNNSHdrdzhMeExEenFhSW5uM3lXbFJsSTVQYWJsSDZQeTJOSUJTUDFTb3RfVlVUZmprWXdOSWhIeEEyUFNRQ3ItcTY5SEdtN0VMU21DLXlpRWRkLWowV2cyRXRMUUxlZ3dTSXVEbmZxcmpGRQ?oc=5",
+          "domain": "timesunion.com",
+          "name": "Times Union",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-19",
+          "end": null,
+          "discount": null,
+          "quote": "Amazon's Black Friday starts Nov. 19.",
+          "quote_in": "title",
+          "published": "2026-11-12T19:07:32+00:00",
+          "seen": "2026-11-13"
         }
       ],
       "field_levels": {
@@ -795,7 +795,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-12T23:36:05+00:00"
+      "updated": "2026-11-13T06:40:59+00:00"
     },
     {
       "id": "amazon-US-cyber_monday-2026",
@@ -1122,21 +1122,6 @@
           "seen": "2026-11-11"
         },
         {
-          "title": "Dell 15.6-Inch Windows 11 Laptop Is Now Priced Like a Budget Tablet Thanks to Amazon's Early Black Friday Deal - Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWkM0eUtSWWhnMksyd1R4dE5QdDlIZDVHNVhTZGJsaWpxc2JKTmtjMUpfQ3RLSDdDZTJta3IxbW1KNmFwTFBJZ3JjRGU5N0ktRjczeGJWX1dZLWNaOU10SUVIbnRMNFhUU0hCVTNvYUh6S1dnV2lXdzNzR2pUcXdqekszRE9tMTg4dlJlamFiSFpIZm0zeGlhcDBDODktNXlPd2hnZ21INVZndFFvdnhXTmxIbG4zamFsQkw0YWYwRVJ1MGVKNFItMDRVN0RZLWx2Q0ZDM3VjOA?oc=5",
-          "domain": "gizmodo.com",
-          "name": "Gizmodo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Dell 15.6-Inch Windows 11 Laptop Is Now Priced Like a Budget Tablet Thanks to Amazon's Early Black Friday Deal",
-          "quote_in": "title",
-          "published": "2026-11-12T11:10:45+00:00",
-          "seen": "2026-11-12"
-        },
-        {
           "title": "I’m Beating the Black Friday Rush with These 25 Early Deals Hiding in Amazon’s Outlet — from $3 - People.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU9HUTlxbWZTMVZTT0cxUDd4UHI3VXZrVmJ2N1hMUTVVYW5xZUcyMEFnMm90TTFpN2lGUF82dDFSblVIWU5aTG9uNW5lVkwzY29zeVoyNW0tZC1BT2o2U01ETzhfTGRITUIzSHhPdWZpaVFNSGJrbGVWaVJvbHQ1RkxKTThoUW5uTjBKT0dR?oc=5",
           "domain": "people.com",
@@ -1149,21 +1134,6 @@
           "quote": "I’m Beating the Black Friday Rush with These 25 Early Deals Hiding in Amazon’s Outlet — from $3",
           "quote_in": "title",
           "published": "2026-11-12T11:30:00+00:00",
-          "seen": "2026-11-12"
-        },
-        {
-          "title": "22 Extremely Useful Things To Buy From Amazon’s Early Black Friday Deals - BuzzFeed",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlNDM0ZTTmNTRWhyLUJIUTkwcXJoX0xlUjVLTW9tUTIzUTV2SUdSb2pGUnVtMy1uVEdXWHFxUnhhenhvanl4eTdUcmFDNmp3YTdHM3dLX1lNclR0TjBLOUU1a0pWRGlHUjRobXlkSUF0X3hIZC1Lb25EZ0dlWmVyVXpXeklRQVBKQUJjMHRMaE5DOGQycnJkWWk4d1lxb2M?oc=5",
-          "domain": "buzzfeed.com",
-          "name": "BuzzFeed",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Amazon’s Early Black Friday Deals",
-          "quote_in": "title",
-          "published": "2026-11-11T21:06:59+00:00",
           "seen": "2026-11-12"
         },
         {
@@ -1210,6 +1180,36 @@
           "quote_in": "title",
           "published": "2026-11-12T17:01:00+00:00",
           "seen": "2026-11-12"
+        },
+        {
+          "title": "21 Stocking Stuffers To Buy During Amazon’s Early Black Friday Deals - BuzzFeed",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeklUTEFsNjl1Z0ZGNE5EeEZfZ3M1YV9tQVVCdW0xTVpHMnBrTWtIOTVwbklBbnpuekFmXzhRZ3JYU1o3NWdPRldQRkVjSF9GS0w4TjVWTVZiYmM3T1QtVFV3NGtWTExlSGl5X2JsQ1NLSk5GNTQ4M0YtdHNzLVVlNWlBcHRxYWdFbGc5TXA1TVJ5cGhzdXIw?oc=5",
+          "domain": "buzzfeed.com",
+          "name": "BuzzFeed",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "21 Stocking Stuffers To Buy During Amazon’s Early Black Friday Deals",
+          "quote_in": "title",
+          "published": "2026-11-12T22:49:23+00:00",
+          "seen": "2026-11-13"
+        },
+        {
+          "title": "50 Early Amazon Black Friday Deals To Shop Now - Southern Living",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmhpUGtxMzhtMzZoUUs2WGRuNDNkMjNSVkZyc2tQNW42STJVSnlHOXdXT0c2WVphMzRpMzd1NWIwNjNKa3NYbVNXS3RKdEY4QldXd1Rnc1A4MGdVOEw1b3RUSExlbWhxRDBLblc5eEFKQWhoZkVLSTFxNG1VN2gzYnAyMmY2UkpKRk5SSmF3?oc=5",
+          "domain": "southernliving.com",
+          "name": "Southern Living",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "50 Early Amazon Black Friday Deals To Shop Now",
+          "quote_in": "title",
+          "published": "2026-11-13T06:00:00+00:00",
+          "seen": "2026-11-13"
         }
       ],
       "field_levels": {
@@ -1218,7 +1218,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-12T23:36:05+00:00"
+      "updated": "2026-11-13T06:40:59+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfriday",
@@ -2789,7 +2789,7 @@
       "region": "US",
       "event_type": "cyber_monday",
       "year": 2026,
-      "event_name": "Cyber Sunday and Monday",
+      "event_name": "Cyber Monday",
       "start": "2026-11-29",
       "end": "2026-11-30",
       "discount": "up to 50% off",
@@ -2884,6 +2884,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-11T09:49:00+00:00",
           "seen": "2026-11-12"
+        },
+        {
+          "title": "Best Buy Reveals Its 2026 Black Friday and Cyber Monday Sale Schedule - SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVdwSHpsdmQwT2hxZG4wMkJEaFlnTklhT1pldGZvRlpNWjNldnR3Vm5FYWNGNXNvX0hndEJHRmpoaTdPWFEyanloemFSbUxZLTV6Tzc5R2Y2aGswc21kNFZJT0l2Rzk0ejdib3BBR3YtZVdJMHVGUXhVQXhzVk4zZ3FibHBOaTBrSHdtSDQxbmFyclEzZ21uYTZsWlM?oc=5",
+          "domain": "news.ssbcrack.com",
+          "name": "SSBCrack",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Best Buy Reveals Its 2026 Black Friday and Cyber Monday Sale Schedule",
+          "quote_in": "title",
+          "published": "2026-11-13T00:17:16+00:00",
+          "seen": "2026-11-13"
         }
       ],
       "field_levels": {
@@ -2893,7 +2908,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-12T00:39:45+00:00"
+      "updated": "2026-11-13T06:40:59+00:00"
     },
     {
       "id": "bestbuy-US-cyber_week-2026",
@@ -11597,7 +11612,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "early Black Friday furniture sales",
+      "event_name": "Early Black Friday Sale",
       "start": null,
       "end": null,
       "discount": "up to 80% off",
@@ -11677,6 +11692,21 @@
           "quote_in": "title",
           "published": "2026-11-07T11:00:00+00:00",
           "seen": "2026-11-07"
+        },
+        {
+          "title": "The Wayfair Store's Early Black Friday Sale - 11Alive.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDRRaWFUY19HLWkyYk5QX01IckxKcE1pbkVFQ3k4bzhIemFzdVdpUW44bFFTSnp6ckh0Zmx0b1A0SnY2R0Jrek5pakZ1RnM3eFI1TVFfUGljREpxXzdMUjAwQ3RoUklncXNlRm5YS084d3VJYVdBV2thYlhENUVRVzA1ODAwczNka2p4ZnVqVHMycmpjOG4zcDJnRU9wZTd2V2RDWWhERlBZNy1wMmw4T0o5c21hUFg4a2NCTnlkeDd3dVpHemxfZktTdjhqQ2VoM3h6SmxNQzRmRVI3RlVCOE9WYnZSQS1OTV80bDMwYnVCdVpJSVBZVVlR?oc=5",
+          "domain": "11alive.com",
+          "name": "11Alive.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The Wayfair Store's Early Black Friday Sale",
+          "quote_in": "title",
+          "published": "2026-11-12T21:27:00+00:00",
+          "seen": "2026-11-13"
         }
       ],
       "field_levels": {
@@ -11684,7 +11714,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-07T12:56:45+00:00"
+      "updated": "2026-11-13T06:40:59+00:00"
     },
     {
       "id": "wayfair-US-other-2026-biggest",
