@@ -1,66 +1,52 @@
 {
-  "generated_at": "2026-11-13T19:39:02+00:00",
+  "generated_at": "2026-11-14T06:16:50+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "microsoft-US-early_bf-2026",
-      "brand_id": "microsoft",
+      "id": "adidas-US-black_friday-2026",
+      "brand_id": "adidas",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "adidas Black Friday Sale 2026",
+      "start": null,
+      "end": null,
+      "discount": "up to 60% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "bestbuy-CA-other-2026-singleday",
+      "brand_id": "bestbuy",
+      "region": "CA",
+      "event_type": "other",
+      "event_name": "Singles’ Day sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "bose-US-other-2026-certifiedrefurbished",
+      "brand_id": "bose",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Certified Refurbished sale",
+      "start": null,
+      "end": null,
+      "discount": "15-percent off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "coach-US-early_bf-2026",
+      "brand_id": "coach",
       "region": "US",
       "event_type": "early_bf",
-      "event_name": "Microsoft early Black Friday flash sale",
+      "event_name": "Macy's early Black Friday Coach sale",
       "start": null,
       "end": null,
-      "discount": "up to $850 off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-CA-other-2026-annual",
-      "brand_id": "sephora",
-      "region": "CA",
-      "event_type": "other",
-      "event_name": "annual Sephora sale",
-      "start": "2026-11-03",
-      "end": "2026-11-09",
-      "discount": "10 percent off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-CA-other-2026-saving",
-      "brand_id": "sephora",
-      "region": "CA",
-      "event_type": "other",
-      "event_name": "Sephora Savings Event",
-      "start": null,
-      "end": "2026-11-09",
-      "discount": "up to 30%",
-      "status": "rumored",
-      "kind": "date_changed",
-      "old_start": null,
-      "old_end": null
-    },
-    {
-      "id": "target-US-other-2026-beddingbath",
-      "brand_id": "target",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Target Bedding & Bath Sale",
-      "start": null,
-      "end": null,
-      "discount": "30% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "thenorthface-US-other-2026-reiholiday",
-      "brand_id": "thenorthface",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "REI Holiday Sale",
-      "start": null,
-      "end": null,
-      "discount": "Up to 61% off + extra 20% off 1 item for members",
+      "discount": "up to 50% off",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -68,6 +54,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 13,
-  "ai_processed": 171
+  "ai_batches": 9,
+  "ai_processed": 107
 }
