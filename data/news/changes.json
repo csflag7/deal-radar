@@ -1,52 +1,30 @@
 {
-  "generated_at": "2026-11-14T06:16:50+00:00",
+  "generated_at": "2026-11-14T13:37:07+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "adidas-US-black_friday-2026",
-      "brand_id": "adidas",
+      "id": "costco-US-black_friday-2026",
+      "brand_id": "costco",
       "region": "US",
       "event_type": "black_friday",
-      "event_name": "adidas Black Friday Sale 2026",
-      "start": null,
-      "end": null,
-      "discount": "up to 60% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "bestbuy-CA-other-2026-singleday",
-      "brand_id": "bestbuy",
-      "region": "CA",
-      "event_type": "other",
-      "event_name": "Singles’ Day sale",
-      "start": null,
-      "end": null,
+      "event_name": "Black Friday",
+      "start": "2026-11-27",
+      "end": "2026-11-30",
       "discount": null,
       "status": "rumored",
-      "kind": "new_event"
+      "kind": "date_changed",
+      "old_start": "2026-11-16",
+      "old_end": "2026-11-30"
     },
     {
-      "id": "bose-US-other-2026-certifiedrefurbished",
-      "brand_id": "bose",
+      "id": "thenorthface-US-other-2026-fleecejacketatebay",
+      "brand_id": "thenorthface",
       "region": "US",
       "event_type": "other",
-      "event_name": "Certified Refurbished sale",
+      "event_name": "The North Face Fleece & Jacket Deals at eBay",
       "start": null,
       "end": null,
-      "discount": "15-percent off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "coach-US-early_bf-2026",
-      "brand_id": "coach",
-      "region": "US",
-      "event_type": "early_bf",
-      "event_name": "Macy's early Black Friday Coach sale",
-      "start": null,
-      "end": null,
-      "discount": "up to 50% off",
+      "discount": "up to 63% off",
       "status": "rumored",
       "kind": "new_event"
     }
@@ -54,6 +32,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 9,
-  "ai_processed": 107
+  "ai_batches": 7,
+  "ai_processed": 79
 }
