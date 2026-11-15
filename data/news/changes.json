@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-11-14T22:21:16+00:00",
+  "generated_at": "2026-11-15T06:24:24+00:00",
   "first_run": false,
-  "changes": [
-    {
-      "id": "amazon-CA-other-2026-primebigday",
-      "brand_id": "amazon",
-      "region": "CA",
-      "event_type": "other",
-      "event_name": "Prime Big Deal Days",
-      "start": null,
-      "end": "2026-10-07",
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "amazon-US-other-2026-primebigday",
-      "brand_id": "amazon",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Prime Big Deal Days",
-      "start": "2026-10-06",
-      "end": "2026-10-07",
-      "discount": null,
-      "status": "rumored",
-      "kind": "date_changed",
-      "old_start": null,
-      "old_end": "2026-10-07"
-    }
-  ],
+  "changes": [],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 8,
-  "ai_processed": 92
+  "ai_batches": 6,
+  "ai_processed": 73
 }
