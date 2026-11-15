@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-11-15T06:24:24+00:00",
+  "generated_at": "2026-11-15T18:49:03+00:00",
   "first_run": false,
-  "changes": [],
+  "changes": [
+    {
+      "id": "gap-US-black_friday-2026",
+      "brand_id": "gap",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026 Sales",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "kiehls-US-black_friday-2026",
+      "brand_id": "kiehls",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026 Sales",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "sephora-US-black_friday-2026",
+      "brand_id": "sephora",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026 Sales",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "sephora-US-other-2026-calendarfor",
+      "brand_id": "sephora",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Sephora’s sale calendar for 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "williamssonoma-US-black_friday-2026",
+      "brand_id": "williamssonoma",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026 Sales",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    }
+  ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 6,
-  "ai_processed": 73
+  "ai_batches": 7,
+  "ai_processed": 84
 }
