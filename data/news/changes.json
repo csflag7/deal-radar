@@ -1,49 +1,108 @@
 {
-  "generated_at": "2026-11-16T06:23:02+00:00",
+  "generated_at": "2026-11-16T21:58:50+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "coach-US-other-2026-holidaycheer",
-      "brand_id": "coach",
+      "id": "bestbuy-US-other-2026-ninjakitchenapplianceholiday",
+      "brand_id": "bestbuy",
       "region": "US",
       "event_type": "other",
-      "event_name": "Holiday Cheer",
+      "event_name": "Ninja Kitchen Appliance Holiday Deals",
       "start": null,
       "end": null,
-      "discount": "Up to 55% Off",
+      "discount": "Up to 50% off",
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "sharkninja-US-early_bf-2026",
-      "brand_id": "sharkninja",
+      "id": "dyson-US-other-2026-outletatebay",
+      "brand_id": "dyson",
       "region": "US",
-      "event_type": "early_bf",
-      "event_name": "Black Friday",
+      "event_type": "other",
+      "event_name": "Dyson Outlet Deals at eBay",
       "start": null,
       "end": null,
-      "discount": "up to 46%",
+      "discount": "Up to 70% off + extra 20% off",
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "walmart-CA-black_friday-2026",
-      "brand_id": "walmart",
-      "region": "CA",
-      "event_type": "black_friday",
+      "id": "homedepot-US-other-2026-blackfriday",
+      "brand_id": "homedepot",
+      "region": "US",
+      "event_type": "other",
       "event_name": "Black Friday",
-      "start": "2026-11-18",
+      "start": null,
+      "end": null,
+      "discount": "up to 45% off sitewide",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "microsoft-unknown-black_friday-2026",
+      "brand_id": "microsoft",
+      "region": "unknown",
+      "event_type": "black_friday",
+      "event_name": "Black Friday 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nordstrom-US-other-2026-racklaborday",
+      "brand_id": "nordstrom",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Nordstrom Rack's Labor Day sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "samsung-US-other-2026-earlyblack",
+      "brand_id": "samsung",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Early Black Samsung",
+      "start": null,
       "end": null,
       "discount": null,
       "status": "rumored",
       "kind": "new_event"
     }
   ],
-  "failed_sources": [],
-  "ai_errors": [
-    "第 4 批：AI 返回的内容不是合法 JSON"
+  "failed_sources": [
+    {
+      "id": "gnews-US-clinique",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-US-theordinary",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-CA-samsung",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-US-dell",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-CA-lenovo",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-US-target",
+      "error": "HTTP 429"
+    }
   ],
+  "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 7,
-  "ai_processed": 71
+  "ai_batches": 17,
+  "ai_processed": 212
 }
