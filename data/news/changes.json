@@ -1,62 +1,38 @@
 {
-  "generated_at": "2026-11-15T18:49:03+00:00",
+  "generated_at": "2026-11-16T06:23:02+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "gap-US-black_friday-2026",
-      "brand_id": "gap",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday 2026 Sales",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "kiehls-US-black_friday-2026",
-      "brand_id": "kiehls",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday 2026 Sales",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-US-black_friday-2026",
-      "brand_id": "sephora",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday 2026 Sales",
-      "start": null,
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "sephora-US-other-2026-calendarfor",
-      "brand_id": "sephora",
+      "id": "coach-US-other-2026-holidaycheer",
+      "brand_id": "coach",
       "region": "US",
       "event_type": "other",
-      "event_name": "Sephora’s sale calendar for 2026",
+      "event_name": "Holiday Cheer",
       "start": null,
       "end": null,
-      "discount": null,
+      "discount": "Up to 55% Off",
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "williamssonoma-US-black_friday-2026",
-      "brand_id": "williamssonoma",
+      "id": "sharkninja-US-early_bf-2026",
+      "brand_id": "sharkninja",
       "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday 2026 Sales",
+      "event_type": "early_bf",
+      "event_name": "Black Friday",
       "start": null,
+      "end": null,
+      "discount": "up to 46%",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "walmart-CA-black_friday-2026",
+      "brand_id": "walmart",
+      "region": "CA",
+      "event_type": "black_friday",
+      "event_name": "Black Friday",
+      "start": "2026-11-18",
       "end": null,
       "discount": null,
       "status": "rumored",
@@ -64,8 +40,10 @@
     }
   ],
   "failed_sources": [],
-  "ai_errors": [],
+  "ai_errors": [
+    "第 4 批：AI 返回的内容不是合法 JSON"
+  ],
   "ai_aborted": null,
   "ai_batches": 7,
-  "ai_processed": 84
+  "ai_processed": 71
 }
