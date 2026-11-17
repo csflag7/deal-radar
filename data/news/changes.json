@@ -1,49 +1,13 @@
 {
-  "generated_at": "2026-11-16T21:58:50+00:00",
+  "generated_at": "2026-11-17T07:51:37+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "bestbuy-US-other-2026-ninjakitchenapplianceholiday",
-      "brand_id": "bestbuy",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Ninja Kitchen Appliance Holiday Deals",
-      "start": null,
-      "end": null,
-      "discount": "Up to 50% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "dyson-US-other-2026-outletatebay",
-      "brand_id": "dyson",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Dyson Outlet Deals at eBay",
-      "start": null,
-      "end": null,
-      "discount": "Up to 70% off + extra 20% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "homedepot-US-other-2026-blackfriday",
-      "brand_id": "homedepot",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Black Friday",
-      "start": null,
-      "end": null,
-      "discount": "up to 45% off sitewide",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "microsoft-unknown-black_friday-2026",
-      "brand_id": "microsoft",
-      "region": "unknown",
+      "id": "costco-CA-black_friday-2026",
+      "brand_id": "costco",
+      "region": "CA",
       "event_type": "black_friday",
-      "event_name": "Black Friday 2026",
+      "event_name": "Black Friday Travel Deals 2026",
       "start": null,
       "end": null,
       "discount": null,
@@ -51,11 +15,11 @@
       "kind": "new_event"
     },
     {
-      "id": "nordstrom-US-other-2026-racklaborday",
-      "brand_id": "nordstrom",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Nordstrom Rack's Labor Day sale",
+      "id": "homedepot-CA-black_friday-2026",
+      "brand_id": "homedepot",
+      "region": "CA",
+      "event_type": "black_friday",
+      "event_name": "Black Friday Travel Deals 2026",
       "start": null,
       "end": null,
       "discount": null,
@@ -63,29 +27,37 @@
       "kind": "new_event"
     },
     {
-      "id": "samsung-US-other-2026-earlyblack",
-      "brand_id": "samsung",
+      "id": "nike-US-early_bf-2026",
+      "brand_id": "nike",
       "region": "US",
-      "event_type": "other",
-      "event_name": "Early Black Samsung",
+      "event_type": "early_bf",
+      "event_name": "early Black Friday sale",
       "start": null,
       "end": null,
-      "discount": null,
+      "discount": "up to 50% off",
       "status": "rumored",
       "kind": "new_event"
     }
   ],
   "failed_sources": [
     {
-      "id": "gnews-US-clinique",
+      "id": "gnews-US-adidas",
       "error": "HTTP 429"
     },
     {
-      "id": "gnews-US-theordinary",
+      "id": "gnews-CA-katespade",
       "error": "HTTP 429"
     },
     {
-      "id": "gnews-CA-samsung",
+      "id": "gnews-CA-levis",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-US-ulta",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "gnews-US-samsung",
       "error": "HTTP 429"
     },
     {
@@ -93,16 +65,12 @@
       "error": "HTTP 429"
     },
     {
-      "id": "gnews-CA-lenovo",
-      "error": "HTTP 429"
-    },
-    {
-      "id": "gnews-US-target",
+      "id": "gnews-US-costco",
       "error": "HTTP 429"
     }
   ],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 17,
-  "ai_processed": 212
+  "ai_batches": 8,
+  "ai_processed": 95
 }

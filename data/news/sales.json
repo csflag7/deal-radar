@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:58:50+00:00",
+  "updated": "2026-11-17T07:51:37+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -1310,7 +1310,7 @@
       "event_name": "early Black Friday sale",
       "start": "2026-11-01",
       "end": null,
-      "discount": "up to 44% Off",
+      "discount": "up to 70% off",
       "status": "rumored",
       "sources": [
         {
@@ -1344,66 +1344,6 @@
           "seen": "2026-11-11"
         },
         {
-          "title": "Samsung Galaxy Z Fold 8 now $350 off in Amazon’s early Black Friday sale - 9to5Toys",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnJjbTJ3SzVuX0M1UmpaeDNySDBpV1BIRVhpUXdBNnp4ak1CODBZdVhEaTJmOER3WkF5bWxSVTBkZm1WZ29tQk4wZmtUU3VIbktVNFJ1MTMwd2ZiT2YxWC1Ub3AzUXFma3F4UlRQSUVkSkxONk1oc2VnOS1DTHhwNA?oc=5",
-          "domain": "9to5toys.com",
-          "name": "9to5Toys",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "$350 off",
-          "quote": "Samsung Galaxy Z Fold 8 now $350 off in Amazon’s early Black Friday sale",
-          "quote_in": "title",
-          "published": "2026-11-16T11:27:00+00:00",
-          "seen": "2026-11-16"
-        },
-        {
-          "title": "These Amazon Fire TV Soundbars Are up to 44% Off Ahead of Black Friday - Lifehacker",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kckZUaGxNeG9RQ0N2TTdOdFA5RzJ4RFZiUWhELWNiWXlTNmljc3loZ0F1czFUdGVyVXFxb0VZbUl2ZHJlVXhqc1Z4U191N1RobV92OTFkTGdjT2xfMHd6cGV0QmxHaURTNDdEMkhtODViSExrQkFqNUlPbjI5d0U?oc=5",
-          "domain": "lifehacker.com",
-          "name": "Lifehacker",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 44% Off",
-          "quote": "These Amazon Fire TV Soundbars Are up to 44% Off Ahead of Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-16T13:30:00+00:00",
-          "seen": "2026-11-16"
-        },
-        {
-          "title": "Amazon Early Black Friday deals are here: We found major markdowns on Apple, Yeti, Ninja, Hanes and more - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc2lqQnFnemJzU29xZ0VEajF5S0hhS3ZtWmZOWnYtZE0xY05rMUVTaEp4VVVmaE9wSDdmMURSUHdPaG5PTVpKaXJKdElBZ2NhRkVKTEpDdDdBRjdZU2JQTkktLWtGdEdfU0hWeXFmdEhEUFkza1JEMnlPWDYybXhZU0dic0tBN3NrY2xhMXBuRWpQVVdSNXhwaXdwVEJkWTN5QmhjNWh0VmdlWnBXZ3hkRGYwWmxGUVJRbE13X3NkZVBhZW1zUmIyY1NOZWt6Rm8wX1VtV2c2YkdIUzE3cWFCU3BXWnVCNnRPa0FPQzNURlhaQmtKdWh4ajRlOXJtc2s?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Amazon Early Black Friday deals are here",
-          "quote_in": "title",
-          "published": "2026-11-16T16:03:49+00:00",
-          "seen": "2026-11-16"
-        },
-        {
-          "title": "Amazon Officially Reveals Early Black Friday Gaming Deals - Polygon.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWMyaVRYQzZkQTVhUl9WQXY2XzdtN09EWER1YjFCLTdYcVFPbUVXMWhiN0F4U3hOMnVodnB3TjU0NWF1UUgtQlNTQUZINkpSTmRKVUF0Z2tteURCWlBNMWo2S2l3ZEdkZG5TTVAxbXFXTFNFeC1qVWFYd2o4RnNVeGdKckNZZF9QLUFJOUxZZkMySkxBR0pNc1VLbzY?oc=5",
-          "domain": "polygon.com",
-          "name": "Polygon.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Amazon Officially Reveals Early Black Friday Gaming Deals",
-          "quote_in": "title",
-          "published": "2026-11-16T16:20:16+00:00",
-          "seen": "2026-11-16"
-        },
-        {
           "title": "Early Black Friday Savings Are at Amazon: Shop Deals on Headphones, Robot Vacuums, Smartwatches, and More - PCMag",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDdyekx1WG9PRU1pT2FLR2NnNDhnSjNjalRGWC03ZkhiWFd2X01XeUk4T0dqdmRaWUFGOEJlZll6NVdiaDJOdThVSXBNUm5pbERoaHNuamN6STZid01xbU1qWkpOeFlNbms5NFdfMWE2UFFaOG1iNmY5Y1VIb25hNWNCck9RWWhlLWh5WWg4R2lKZw?oc=5",
           "domain": "pcmag.com",
@@ -1432,6 +1372,66 @@
           "quote_in": "title",
           "published": "2026-11-16T17:15:54+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Low-cost Dell 15.6-inch laptop gets new best price in this Amazon Early Black Friday deal - PC Guide",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUtrbEpEYmlFbVFtNE5iWHAySFd4TTlDV01zcmZfWjNZSFVXSzF1ZXVRZ3NDcTNibE5fSGlFTUV1cnBNTEdXVlZIYjNYY2lCWVA2TXZySUZtNHh3cHFZSVd3ZGlVUEFKNWZyNjdpczhKT2x1bm9HZWphU2NzNHp3RElvdjRhUi1tal9ZSnpzRm43VjFlRG1oVmlpc1JYOEZ0ZXpBS0M0SzA3elh3RHFrdGpleFpRTzZCRFJWWQ?oc=5",
+          "domain": "pcguide.com",
+          "name": "PC Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Low-cost Dell 15.6-inch laptop gets new best price in this Amazon Early Black Friday deal",
+          "quote_in": "title",
+          "published": "2026-11-16T17:32:18+00:00",
+          "seen": "2026-11-17"
+        },
+        {
+          "title": "Amazon's early Black Friday power tool deals reach 61% off, led by DeWalt and Greenworks kits - The Gadgeteer",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3UxVExneHpYTThrQUJubmRmMHMzTXFOSEhhejJaQTRGcnhBbm5tUGtBN0FzMjIwRFVLZTh4YVRuUy0yRTJMQURYcGlSZTFWZDZrRkpWbkYtdWVKbERCd25zVHJCT19KaFo2QmFwREdBUVNvMzg5bW56X0wzSDBzeHlJZTB5ano3c3dMYndnck54Z2RGX0ZpcDRsNm11YmdwbFlhSGl0QkRJY3NjOGgwb2VQOUtGWTlTcFpxbU5NcHBhbHZLbnNr?oc=5",
+          "domain": "the-gadgeteer.com",
+          "name": "The Gadgeteer",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "61% off",
+          "quote": "Amazon's early Black Friday power tool deals reach 61% off, led by DeWalt and Greenworks kits",
+          "quote_in": "title",
+          "published": "2026-11-16T18:11:06+00:00",
+          "seen": "2026-11-17"
+        },
+        {
+          "title": "Amazon slashes $210 Skullcandy headphones to $90 for early Black Friday - geekspin",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEhhNTI3MHI0WWVZWWVCYkg1V2Z4NF9TT2dfaXFWUjhRUjFPNG5LanM5R0ZhS1Z1eGF2QTJlaGE5Y0F4OGQ0VTVXWmhVV3pLX3NNaFExU0JFNkRhWWdTWk5tOGlRcjNlYkFWWVhXS3NxcVBTaVJxeG4yVmZTODZpX1J1dHdnTW1PSmZjeTdtQmJmVjN3?oc=5",
+          "domain": "geekspin.co",
+          "name": "geekspin",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Amazon slashes $210 Skullcandy headphones to $90 for early Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-16T23:30:54+00:00",
+          "seen": "2026-11-17"
+        },
+        {
+          "title": "Amazon’s Best Early Black Friday Deals Secretly Start Now — Up to 70% Off Breville, Yeti, OXO, and More - Food & Wine",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdl9kT3VtaHFEVW1Gd3hCdDFUSzFsV3JTSEpHVDBZR3pGUU5rNXp6QW9xOUZDcjJ2eUFObU1QN3h3bDFyaS1NdzhIRWdyV1VOTnFuOFkyenpLRE1ERnh3TUlzbFh2eUVLYzV1U0RIMGlyeWZhaVVrN2xxNnAxZTcyUDRFQldFamZGTGc?oc=5",
+          "domain": "foodandwine.com",
+          "name": "Food & Wine",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 70% off",
+          "quote": "Amazon’s Best Early Black Friday Deals Secretly Start Now — Up to 70% Off Breville, Yeti, OXO, and More",
+          "quote_in": "title",
+          "published": "2026-11-17T06:15:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -1440,7 +1440,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfriday",
@@ -2726,7 +2726,7 @@
       "region": "CA",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday and Cyber Monday 2026",
+      "event_name": "Black Friday Travel Deals 2026",
       "start": "2026-11-27",
       "end": null,
       "discount": null,
@@ -2806,6 +2806,21 @@
           "quote_in": "title",
           "published": "2026-11-14T05:13:38+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Black Friday Travel Deals 2026: Best Offers in Canada - Milesopedia",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVhoRU5wdDdFak14TU5NNFd3a0lMbVBSYmI1RTBGRFNkbFJPWFZVUW5wYld3Qm5UMzlaSkRIQ1FsVUFPTGlMalFYSUVCNjEzdHRGYjY1MGhPLTN6Qmw3ZWY1dGVhSXRaOTE1aEJDMUx4SG5YUUVIUXpobHFRZWZyc0hNNHIxQ2V4QmNZTXlPbGI3QQ?oc=5",
+          "domain": "milesopedia.com",
+          "name": "Milesopedia",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday Travel Deals 2026: Best Offers in Canada",
+          "quote_in": "title",
+          "published": "2026-11-13T16:55:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -2813,7 +2828,7 @@
         "start": 1
       },
       "first_seen": "2026-11-06T19:22:34+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "bestbuy-CA-early_bf-2026",
@@ -4725,6 +4740,40 @@
       "updated": "2026-11-16T06:23:02+00:00"
     },
     {
+      "id": "costco-CA-black_friday-2026",
+      "brand_id": "costco",
+      "region": "CA",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Black Friday Travel Deals 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Black Friday Travel Deals 2026: Best Offers in Canada - Milesopedia",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVhoRU5wdDdFak14TU5NNFd3a0lMbVBSYmI1RTBGRFNkbFJPWFZVUW5wYld3Qm5UMzlaSkRIQ1FsVUFPTGlMalFYSUVCNjEzdHRGYjY1MGhPLTN6Qmw3ZWY1dGVhSXRaOTE1aEJDMUx4SG5YUUVIUXpobHFRZWZyc0hNNHIxQ2V4QmNZTXlPbGI3QQ?oc=5",
+          "domain": "milesopedia.com",
+          "name": "Milesopedia",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday Travel Deals 2026: Best Offers in Canada",
+          "quote_in": "title",
+          "published": "2026-11-13T16:55:00+00:00",
+          "seen": "2026-11-17"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-17T07:51:37+00:00",
+      "updated": "2026-11-17T07:51:37+00:00"
+    },
+    {
       "id": "costco-US-black_friday-2026",
       "brand_id": "costco",
       "region": "US",
@@ -6603,6 +6652,40 @@
       "updated": "2026-11-02T03:42:28+00:00"
     },
     {
+      "id": "homedepot-CA-black_friday-2026",
+      "brand_id": "homedepot",
+      "region": "CA",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Black Friday Travel Deals 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Black Friday Travel Deals 2026: Best Offers in Canada - Milesopedia",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVhoRU5wdDdFak14TU5NNFd3a0lMbVBSYmI1RTBGRFNkbFJPWFZVUW5wYld3Qm5UMzlaSkRIQ1FsVUFPTGlMalFYSUVCNjEzdHRGYjY1MGhPLTN6Qmw3ZWY1dGVhSXRaOTE1aEJDMUx4SG5YUUVIUXpobHFRZWZyc0hNNHIxQ2V4QmNZTXlPbGI3QQ?oc=5",
+          "domain": "milesopedia.com",
+          "name": "Milesopedia",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday Travel Deals 2026: Best Offers in Canada",
+          "quote_in": "title",
+          "published": "2026-11-13T16:55:00+00:00",
+          "seen": "2026-11-17"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-17T07:51:37+00:00",
+      "updated": "2026-11-17T07:51:37+00:00"
+    },
+    {
       "id": "homedepot-US-black_friday-2026",
       "brand_id": "homedepot",
       "region": "US",
@@ -6756,21 +6839,6 @@
       "status": "rumored",
       "sources": [
         {
-          "title": "Home Depot Drops DeWalt Tools up to 53% for Early Black Friday - BobVila.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xVlRFLTNiWXFxdkoyQzNIaUk4OGJ3Y3VJcjVIeXdtOGtfa3dVWUJLQlU4RWNWMTZkY1dFX1ladjZWUVFRZmptVXg5WTJDbHRLU21QaVRBM1J2bC0wM3Q1VDRzcm1oOUUtMFVfYlFyWWozUVhVV3N5eVhqdw?oc=5",
-          "domain": "bobvila.com",
-          "name": "BobVila.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 53%",
-          "quote": "Home Depot Drops DeWalt Tools up to 53% for Early Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-11T16:52:01+00:00",
-          "seen": "2026-11-12"
-        },
-        {
           "title": "Home Depot just dropped thousands of early Black Friday deals — 40% off appliances, furniture, power tools, free gifts - TechRadar",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWHB3MVY3cUJhQjlTcWduNHFCZmNWcWJRdjJ5S2FvdDQyVmFJeGJ6VzFIVjZfcDE4SHE0Z2VLVkpCWkRZUm9QeGVONlRNSDFYc2ZyOWZ3ZHI5NS1PVHEwSlI2d3Bhclk2QjJqWkF5ei1lZHY0c0hhdTk0eW96UnpKdDhTNUNUMVdpRm02c283UkF1Ml9KcklaNHdKWjZsb2RSeEJPbDBGam1QQXAySlZWZHU4MU9Ea09jSE1GYjJRNDJRM05ycnVQZElXZHVlSEZwMWFudE53UGMyZnVEeEtFbjIyXzF1Q2hBbWxBWmo2anVqZm8?oc=5",
           "domain": "techradar.com",
@@ -6874,6 +6942,21 @@
           "quote_in": "title",
           "published": "2026-11-16T18:36:44+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "4 Of The Best Early Black Friday Milwaukee Tool Deals At Home Depot - SlashGear",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDhKblRqU3puQW5aUjFPOUY2M01xS1hJSGxPcm14a0gwZk5RY19HSkxuRWhaVmt2bmliNDE0OHV4RTJ2VWpNNGN1RVF2SExaXzlPXzd1eHVwbEd0cGpqaEptam12TnhBYkh6bWhtSEo4eDdac0JaaFZmaG9GWDJSUkFCSUx5NDg?oc=5",
+          "domain": "slashgear.com",
+          "name": "SlashGear",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "4 Of The Best Early Black Friday Milwaukee Tool Deals At Home Depot",
+          "quote_in": "title",
+          "published": "2026-11-16T18:36:44+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -6881,7 +6964,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "homedepot-US-other-2026-blackfriday",
@@ -7896,10 +7979,10 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday Deals",
+      "event_name": "early Black Friday",
       "start": null,
       "end": null,
-      "discount": "almost 70% off",
+      "discount": "30% off",
       "status": "rumored",
       "sources": [
         {
@@ -7961,6 +8044,21 @@
           "quote_in": "title",
           "published": "2026-11-13T14:22:29+00:00",
           "seen": "2026-11-13"
+        },
+        {
+          "title": "7 Early Black Friday Clothing Deals Well Worth Your Time in 2026",
+          "url": "https://www.glamour.com/story/cyber-monday-clothing-deals-11-09-2026",
+          "domain": "glamour.com",
+          "name": "Glamour",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "30% off",
+          "quote": "Elsewhere—at the likes of Levi’s, Old Navy, and Lululemon—you can already score 30% off.",
+          "quote_in": "excerpt",
+          "published": "2026-11-09T05:41:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -7968,7 +8066,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T23:20:11+00:00",
-      "updated": "2026-11-13T19:39:02+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "lululemon-CA-other-2026-madetoomuch",
@@ -8012,7 +8110,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Lululemon Black Friday Deals",
+      "event_name": "Lululemon Black Friday 2026",
       "start": null,
       "end": null,
       "discount": null,
@@ -8077,13 +8175,28 @@
           "quote_in": "title",
           "published": "2026-11-16T21:18:00+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Lululemon Coupon Codes & Discounts for November 2026 — What to Know About Their Early Black Friday Event",
+          "url": "https://www.sheknows.com/living/articles/1235088807/lululemon-coupon-code-black-friday-deals-november-2026/",
+          "domain": "sheknows.com",
+          "name": "SheKnows",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lululemon Black Friday 2026 is on!",
+          "quote_in": "excerpt",
+          "published": "2026-11-16T14:35:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "lululemon-US-cyber_monday-2026",
@@ -8128,7 +8241,7 @@
       "event_name": "Early Access to Lululemon Black Friday",
       "start": null,
       "end": null,
-      "discount": "up to 63% off",
+      "discount": "30% off",
       "status": "rumored",
       "sources": [
         {
@@ -8205,6 +8318,36 @@
           "quote_in": "title",
           "published": "2026-11-16T20:10:00+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "7 Early Black Friday Clothing Deals Well Worth Your Time in 2026",
+          "url": "https://www.glamour.com/story/cyber-monday-clothing-deals-11-09-2026",
+          "domain": "glamour.com",
+          "name": "Glamour",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "30% off",
+          "quote": "Elsewhere—at the likes of Levi’s, Old Navy, and Lululemon—you can already score 30% off.",
+          "quote_in": "excerpt",
+          "published": "2026-11-09T05:41:00+00:00",
+          "seen": "2026-11-17"
+        },
+        {
+          "title": "Lululemon Coupon Codes & Discounts for November 2026 — What to Know About Their Early Black Friday Event",
+          "url": "https://www.sheknows.com/living/articles/1235088807/lululemon-coupon-code-black-friday-deals-november-2026/",
+          "domain": "sheknows.com",
+          "name": "SheKnows",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lululemon's biggest early access drop is live! Download the app and sign in with your membership to shop.",
+          "quote_in": "excerpt",
+          "published": "2026-11-16T14:35:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -8212,7 +8355,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-06T19:22:34+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "lululemon-US-other-2026-madetoomuch",
@@ -8293,7 +8436,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "XBOX Black Friday Sale",
       "start": "2026-11-19",
       "end": null,
       "discount": null,
@@ -8358,6 +8501,21 @@
           "quote_in": "title",
           "published": "2026-11-16T11:34:31+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More! - XBOX Wire",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVjQzM1V4Z1RZMlptSVctQndUR05nVllfRnhhZjlYYzRTMjZ4RS0yeTVfOGRKU29mMDNBNzQxdlVIS1AzOFJqQTcxanVteDVaV3d0eTd0TnEya1pPN3JTRUxzNmdqUmV5RHpFVGFXaW5ZWHB6YnfSAXtBVV95cUxQVzhqMjJZNVNJZzlzaDQzSDVoeld0VFU1UDV1VjVraHBxaEgxaWZ2ZV9yMkNCVHRmakUtQWNtSkp0VFNlaWRYUHpiVF9jLWU1M1JXQUoxMUYwTElFQWFJMVhkdWNkN29TNmI0VDNoZ0YyOV9KcDViYWNhcUk?oc=5",
+          "domain": "news.xbox.com",
+          "name": "XBOX Wire",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-19",
+          "end": null,
+          "discount": null,
+          "quote": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
+          "quote_in": "title",
+          "published": "2026-11-17T00:01:29+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -8365,7 +8523,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "microsoft-US-cyber_week-2026",
@@ -8520,6 +8678,41 @@
       },
       "first_seen": "2026-11-07T21:47:11+00:00",
       "updated": "2026-11-07T21:47:11+00:00"
+    },
+    {
+      "id": "nike-US-early_bf-2026",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "early_bf",
+      "year": 2026,
+      "event_name": "early Black Friday sale",
+      "start": null,
+      "end": null,
+      "discount": "up to 50% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Nike’s early Black Friday sale is now live: Score up to 50% off with this code - 9to5Toys",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzJLc2dVem5fZU41WjhiUzBuY3JEOEk1SUw1UW5IUWZZdkEzNGZiS2RKYllPc1BXWFo2VzhDZWs5RXVJczRTM3hJMFoyZndaSHJQb0VhQVZfTldncFk4TU1lVVdON3hBV2tEb180NmdaV0R2d0tDYTJYeVRSc0F4ZzhtZzBSTEhjTlg5Q05RVHFYQnJyMzJiTi1jZUZsVmQ4Y3dUZWluclJIX3FX?oc=5",
+          "domain": "9to5toys.com",
+          "name": "9to5Toys",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 50% off",
+          "quote": "Nike’s early Black Friday sale is now live: Score up to 50% off with this code",
+          "quote_in": "title",
+          "published": "2026-11-16T21:56:00+00:00",
+          "seen": "2026-11-17"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-17T07:51:37+00:00",
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "nike-US-other-2026-menclearance",
@@ -8860,21 +9053,6 @@
           "seen": "2026-11-07"
         },
         {
-          "title": "I Scoured Nordstrom’s 96,000+ Early Black Friday Deals—Run to Snag These 25 Picks Up to 76% Off - InStyle",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5aHBhVjlkYmRCUzNUbmVpaVdrVXRwblJyZnNEOXl2SHItX1RFUnhvdWM5RXU0Um9Yamp2QzY0bzNLUVg4UExLZktVaEQzclQ2Q3U2RHVsMERTRVByMjZUOXlHU1lwYm9GQm43OEJTVEQxR0tubVEzbjkzVDM?oc=5",
-          "domain": "instyle.com",
-          "name": "InStyle",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 76% off",
-          "quote": "I Scoured Nordstrom’s 96,000+ Early Black Friday Deals—Run to Snag These 25 Picks Up to 76% Off",
-          "quote_in": "title",
-          "published": "2026-11-13T10:00:00+00:00",
-          "seen": "2026-11-13"
-        },
-        {
           "title": "Your Holiday Shopping Just Got Easier: Early Black Friday Sales at Nordstrom, Spanx, and More Go Up to 80% Off - People.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LWmdBYl80X2RCd19SaXlOSFRJZjNuZmhVM3IyUXJPUmhINjdwcWJoQnpQa1MtMUZMR1lkQlJBLWlBRk95aEhhRnRCb0ljaWZxUlk2ZnN4YkNrVzl4dmVoNXpsNWo?oc=5",
           "domain": "people.com",
@@ -8933,6 +9111,21 @@
           "quote_in": "title",
           "published": "2026-11-16T20:23:15+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Nordstrom’s Early Black Friday Sale Is Already Here—Here’s What to Shop - ELLE",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUJGcjRndGdPaVczT0U1bzBPMjRZbXV3YXZDZjBiMDlhejNnSlkxdkpReVNqTmh5SzBueldUVGVxVFZDakFMc05keEdVX0UwVDZDclBNM0w1UlE5QXJ0U0JoVWMyZTF1RkRndUptRFZzQ1ZTXzlkbXpNek9zZ3VscEgwODJ0TU9XMW1XNXVfUzA?oc=5",
+          "domain": "elle.com",
+          "name": "ELLE",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Nordstrom’s Early Black Friday Sale Is Already Here—Here’s What to Shop",
+          "quote_in": "title",
+          "published": "2026-11-16T20:23:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -8941,7 +9134,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "nordstrom-US-other-2026-blackfriday",
@@ -10491,7 +10684,7 @@
       "region": "CA",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "PlayStation Black Friday",
+      "event_name": "Black Friday Travel Deals 2026",
       "start": null,
       "end": null,
       "discount": "up to 75% off",
@@ -10556,6 +10749,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-16T05:18:00+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Black Friday Travel Deals 2026: Best Offers in Canada - Milesopedia",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVhoRU5wdDdFak14TU5NNFd3a0lMbVBSYmI1RTBGRFNkbFJPWFZVUW5wYld3Qm5UMzlaSkRIQ1FsVUFPTGlMalFYSUVCNjEzdHRGYjY1MGhPLTN6Qmw3ZWY1dGVhSXRaOTE1aEJDMUx4SG5YUUVIUXpobHFRZWZyc0hNNHIxQ2V4QmNZTXlPbGI3QQ?oc=5",
+          "domain": "milesopedia.com",
+          "name": "Milesopedia",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday Travel Deals 2026: Best Offers in Canada",
+          "quote_in": "title",
+          "published": "2026-11-13T16:55:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -10563,7 +10771,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-04T23:38:49+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "sony-CA-early_bf-2026",
@@ -11051,10 +11259,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday store hours 2026",
+      "event_name": "Black Friday",
       "start": "2026-11-27",
       "end": null,
-      "discount": "50% off",
+      "discount": "up to 40% off",
       "status": "rumored",
       "sources": [
         {
@@ -11118,21 +11326,6 @@
           "seen": "2026-11-08"
         },
         {
-          "title": "Black Friday deals are arriving: Here’s what Walmart, Target, Amazon and others have revealed so far - AL.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTUFPSVFxNlhrY29XWDE0aUc1NHpjbWZMY08tNl9ZNGxvWkhXOVNfenFsM0VhN09mSWpheXA4SDl6dlItZDI1YWdqRkhaa0ZUUDg4MkZhUjRndldDSWlmd3dSdTFfbVQ5X3FlRzZBZy1icUxNYmUxUF9mM0tUOU9rUEs5X012d0tzQUZBdGx2bmFfSkhXaXhiYkYyLUo2b0NXQzVGYmJ5UExrNDZtLUpyT0VvM3FiTkpZdDVvckw0VDNOSnl0RDRtMkx4ZWxXZ9IB4gFBVV95cUxPMExOcFpxRUFOZWVVaGRtbnY4c3hzWWtUeFlEWkx6ODk5RHoyNzlWbzhPWU52SzJGbTdmdzhmMVlNaHg2MFdQTGNMZmVMLUNLWWFKdjVXSTF3Sk1oN1NtbXBaZUxlQjc5RkowU0NsTGxuQlRaSnlHMFI4Wkx2RXhKbWExRVBHYlZpendDZk9nU0tzaEZVRzlGM1I1Z01XNjZYdlgzcWNxM1c4aVp2eEQwODl1QnhqaThFU1J4T21iQ25FWVFqcTZ5RC11Y2s3WHV1UHRnT2FlR0tEb1JtekFpT3RB?oc=5",
-          "domain": "al.com",
-          "name": "AL.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Black Friday deals are arriving: Here’s what Walmart, Target, Amazon and others have revealed so far",
-          "quote_in": "title",
-          "published": "2026-11-14T11:02:00+00:00",
-          "seen": "2026-11-14"
-        },
-        {
           "title": "Black Friday store hours 2026: When do doors open at Walmart, Target, Best Buy, Apple, Costco and other retailers for holiday shopping? - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUlY3TXAxRWZlUWJZNDdiUDh2MlI4d0lDY1pYc2paZ2M2ajM4WUJhdExCSmZyTURPR2lmT3h2N2ZoSEhoQ25CNjBCWlppNTFobXVQaWdYbUo0dkNmbDc4OVhhV3hZdUhoLUlodEFZNGxjaWpvRC0yV2JKV3lsSU55LWpzYzFfU003LVpoTmt0WWJQTWRiWHZuZGNkelFNV0RlZkZ6eGpVdGl2SUJ4TmZGdEl1eUdUOHBmZGdHV1dVZG1CYkdXMEZadGVKQU5yNVc2bFRTWDdFVy1VUUVVbXM0ekhYZ2JJVmJNbUJJTlFmSDA4d1l2SUpZOFozUjVaZnI0TElQUnBlNzZQRGVEdlhKeVBja25vZkwtSGtCczZZVVVleDg0WlE?oc=5",
           "domain": "shopping.yahoo.com",
@@ -11176,6 +11369,21 @@
           "quote_in": "title",
           "published": "2026-11-16T18:33:39+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Select LEGO Pokémon Sets Are up to 40% Off at Target Ahead of Black Friday - IGN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWFVRWNfUHk5VzhKZDY5MEt5UDlrbmxwdVl5ZWM1dks2cEZScExyT0pFckZTeUtCc3ZYdUZZdjVFNkIyWXROa3ZSWTRPejBRUEtfMjhjWDR3ZWhHTzlvdGFZV0hObDhyMWJkSXFCbld4R1RYNXY0RWprM2N0ZjFOMlFmNnFqdUZvM1BaME83MXh4TFlRaG9wSzRrd25DUXZEeFVJ?oc=5",
+          "domain": "ign.com",
+          "name": "IGN",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 40% off",
+          "quote": "Select LEGO Pokémon Sets Are up to 40% Off at Target Ahead of Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-16T17:49:34+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -11184,7 +11392,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "target-US-cyber_monday-2026",
@@ -12234,7 +12442,7 @@
       "region": "CA",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Walmart Canada Black Friday Deals 2026",
       "start": "2026-11-18",
       "end": null,
       "discount": null,
@@ -12284,6 +12492,21 @@
           "quote_in": "title",
           "published": "2026-11-16T20:12:11+00:00",
           "seen": "2026-11-16"
+        },
+        {
+          "title": "Walmart Canada Black Friday Deals 2026: Best Deals on TVs, Electronics, Toys & More - Access Winnipeg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWp1ejUxN1N1c3RFQ2QtTUI5MHh1TVB4cmhfRm5QaW53R2hrUHR1b2U0LXV1bHFCeUMtcTV3X0VzUXUtRm5USkVNWjRjZWI3Mzg5TURRdlc3djJFbGRkVHY5VmU4R0x2TnpNQ0hwd3JINVUzVFpoRGxKaVFYdElYelZKdnVpVkVDc2dqOFNMaDByazFpUWJzc2d3cWo2NjNqS1prTGZ2amtFMWpfY0g1ejNLTDHSAbQBQVVfeXFMTy1qdXo1MTdTdXN0RUNkLU1COTB4dU1QeHJoX0ZuUGlud0doa1B0dW9lNC11dWxxQnlDLXE1d19Fc1F1LUZuVEpFTVo0Y2ViNzM4OU1EUXZXN3YyRWxkZFR2OVZlOEdMdk56TUNIcHdySDVVM1RaaERsSmlRWHRJWHpWSnZ1aVZFQ3NnajhTTGgwcmsxaVFic3Nnd3FqNjYzaktaa0xmdmprRTFqX2NINXozS0wx?oc=5",
+          "domain": "accesswinnipeg.com",
+          "name": "Access Winnipeg",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Walmart Canada Black Friday Deals 2026: Best Deals on TVs, Electronics, Toys & More",
+          "quote_in": "title",
+          "published": "2026-11-16T22:36:05+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -12291,7 +12514,7 @@
         "start": 1
       },
       "first_seen": "2026-11-16T06:23:02+00:00",
-      "updated": "2026-11-16T21:58:50+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "walmart-CA-cyber_monday-2026",
@@ -12512,21 +12735,6 @@
           "seen": "2026-11-03"
         },
         {
-          "title": "When do Black Friday sales actually start? Official sale times for Amazon, Walmart, Best Buy, Target",
-          "url": "https://mashable.com/tech/when-does-black-friday-start-2026",
-          "domain": "mashable.com",
-          "name": "Mashable",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-23",
-          "end": "2026-11-29",
-          "discount": null,
-          "quote": "The main event, aka the official Black Friday deals event will kick off Monday, Nov. 23 and last through Sunday, Nov. 29.",
-          "quote_in": "excerpt",
-          "published": "2026-11-11T07:52:00+00:00",
-          "seen": "2026-11-12"
-        },
-        {
           "title": "Walmart's early Black Friday sale is live: Save on Apple AirPods, Hisense TVs, Lego, and more",
           "url": "https://mashable.com/tech/best-early-black-friday-walmart-live-deals-2026",
           "domain": "mashable.com",
@@ -12615,6 +12823,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-12T06:00:00+00:00",
           "seen": "2026-11-14"
+        },
+        {
+          "title": "Walmart Black Friday 2026 Event 1 Is Live: Best Early Gaming, TV, LEGO and 4K Blu-Ray Deals",
+          "url": "https://www.ign.com/articles/walmart-black-friday-deals-2026-event-1",
+          "domain": "ign.com",
+          "name": "IGN",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-12",
+          "end": "2026-11-15",
+          "discount": null,
+          "quote": "Walmart's Black Friday sale is running in three separate \"events\" this year, with the initial early deals drop happening from Nov. 12-15 (now live).",
+          "quote_in": "excerpt",
+          "published": "2026-11-12T03:36:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -12623,7 +12846,7 @@
         "end": 2
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-14T22:21:16+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "walmart-US-cyber_monday-2026",
@@ -12651,21 +12874,6 @@
           "quote_in": "excerpt",
           "published": "2026-10-26T04:43:00+00:00",
           "seen": "2026-11-03"
-        },
-        {
-          "title": "Walmart’s 2026 Black Friday and Cyber Monday Sales: Dates, Early Deals, and What to Expect",
-          "url": "https://lifehacker.com/tech/what-to-know-about-walmart-black-friday-2026-sales",
-          "domain": "lifehacker.com",
-          "name": "Lifehacker",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-30",
-          "end": "2026-12-02",
-          "discount": null,
-          "quote": "Walmart's Cyber Monday Deals Event: Nov. 30-Dec. 2",
-          "quote_in": "excerpt",
-          "published": "2026-11-10T14:00:00+00:00",
-          "seen": "2026-11-11"
         },
         {
           "title": "When do Black Friday sales actually start? Official sale times for Amazon, Walmart, Best Buy, Target",
@@ -12756,6 +12964,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-12T06:00:00+00:00",
           "seen": "2026-11-14"
+        },
+        {
+          "title": "Walmart Black Friday 2026 Event 1 Is Live: Best Early Gaming, TV, LEGO and 4K Blu-Ray Deals",
+          "url": "https://www.ign.com/articles/walmart-black-friday-deals-2026-event-1",
+          "domain": "ign.com",
+          "name": "IGN",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-30",
+          "end": "2026-12-02",
+          "discount": null,
+          "quote": "followed by the Cyber Monday deals event from Nov. 30 to Dec. 2",
+          "quote_in": "excerpt",
+          "published": "2026-11-12T03:36:00+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
@@ -12764,7 +12987,7 @@
         "end": 2
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-14T22:21:16+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "walmart-US-cyber_week-2026",
@@ -13417,7 +13640,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday 2026 Sales",
+      "event_name": "Wayfair Black Friday holiday decor deals",
       "start": null,
       "end": null,
       "discount": null,
@@ -13467,13 +13690,28 @@
           "quote_in": "title",
           "published": "2026-11-13T05:52:00+00:00",
           "seen": "2026-11-15"
+        },
+        {
+          "title": "Wayfair Black Friday holiday decor deals - WWLP",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNME02dUtwbDNXdXpzM2F2c1FobG1mUlhpTDlxNlVPMDFWTUk5bFhycl9jdXB5alJyNm5QUnJoeGpiRmN0VFloNVVJdnRSbEE0cVhxV2w4cXA0U3RSaTRHN2tLbnZrQ3l5bC1ORTB1RWpuQ1poLTdmdl9SNWJuZVlhSXVtNVFiUzVLS1ByVllGNTRoZWRzMHh2S2xXWdIBoAFBVV95cUxQcFdGRUJUNHRSYTR3aW5OR21qU1paWGZ4UjQ4UDU1MUMwelFMTFRfM2NfOHEwd21xV09yYU9Sc1VhNnVaTnFmOFpxOUhIWFJKVHlEWXc5UjhrOGNXLXlsSmQ4b1NYLU5nUDIyZk5tODBISjhyOVozdjZhMDhWeXJzOXRVblJRYjhWV2NQSDhEM2tUTnVGMWFnR2F5dzNtcHNj?oc=5",
+          "domain": "wwlp.com",
+          "name": "WWLP",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Wayfair Black Friday holiday decor deals",
+          "quote_in": "title",
+          "published": "2026-11-16T17:05:55+00:00",
+          "seen": "2026-11-17"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-15T18:49:03+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "wayfair-US-early_bf-2026",
@@ -13681,7 +13919,7 @@
       "year": 2026,
       "sale_key": "holidayflash",
       "sale_key_kind": "name",
-      "event_name": "Holiday Flash Sale",
+      "event_name": "Wayfair's Holiday Flash Sale",
       "start": null,
       "end": null,
       "discount": "55% off",
@@ -13753,7 +13991,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T23:20:11+00:00",
-      "updated": "2026-11-10T07:13:52+00:00"
+      "updated": "2026-11-17T07:51:37+00:00"
     },
     {
       "id": "wayfair-US-other-2026-surpriseflash",
