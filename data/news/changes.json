@@ -1,28 +1,112 @@
 {
-  "generated_at": "2026-11-18T07:23:36+00:00",
+  "generated_at": "2026-11-18T20:28:47+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "coach-US-other-2026-outletholiday",
-      "brand_id": "coach",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Coach Outlet holiday sale",
+      "id": "adidas-unknown-black_friday-2026",
+      "brand_id": "adidas",
+      "region": "unknown",
+      "event_type": "black_friday",
+      "event_name": "adidas Black Friday",
       "start": null,
       "end": null,
-      "discount": "up to 70% off",
+      "discount": "Up to 70% Off",
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "homedepot-US-other-2026-massivedecor",
-      "brand_id": "homedepot",
-      "region": "US",
+      "id": "amazon-CA-other-2026-canadablackfriday",
+      "brand_id": "amazon",
+      "region": "CA",
       "event_type": "other",
-      "event_name": "Massive home decor sale",
+      "event_name": "Amazon Canada's Black Friday sale",
+      "start": "2026-11-19",
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "canadiantire-CA-black_friday-2026",
+      "brand_id": "canadiantire",
+      "region": "CA",
+      "event_type": "black_friday",
+      "event_name": "Black Friday",
       "start": null,
       "end": null,
-      "discount": "up to 40%",
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "costco-CA-early_bf-2026",
+      "brand_id": "costco",
+      "region": "CA",
+      "event_type": "early_bf",
+      "event_name": "Early Black Friday Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "costco-US-cyber_monday-2026",
+      "brand_id": "costco",
+      "region": "US",
+      "event_type": "cyber_monday",
+      "event_name": "Costco Cyber Monday Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "nike-US-other-2026-earlybf",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "EARLYBF",
+      "start": null,
+      "end": null,
+      "discount": "Extra 25% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "sephora-CA-black_friday-2026",
+      "brand_id": "sephora",
+      "region": "CA",
+      "event_type": "black_friday",
+      "event_name": "Sephora Canada Black Friday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "thenorthface-US-black_friday-2026",
+      "brand_id": "thenorthface",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "REI Black Friday sales",
+      "start": null,
+      "end": null,
+      "discount": "up to 60%",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "thenorthface-US-other-2026-bestthisyear",
+      "brand_id": "thenorthface",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "best sale this year",
+      "start": null,
+      "end": null,
+      "discount": null,
       "status": "rumored",
       "kind": "new_event"
     }
@@ -30,6 +114,6 @@
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 9,
-  "ai_processed": 113
+  "ai_batches": 16,
+  "ai_processed": 208
 }
