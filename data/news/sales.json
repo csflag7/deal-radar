@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:12:07+00:00",
+  "updated": "2026-11-22T06:43:12+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -241,24 +241,9 @@
       "event_name": "adidas Black Friday sale",
       "start": null,
       "end": null,
-      "discount": "60%",
+      "discount": "Up to 60% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "adidas First Access Black Friday Sale Up to 60% Off + Extra 15% Off + Free S&H",
-          "url": "https://slickdeals.net/f/20302335-up-to-60-off-extra-15-off-adidas-first-access-black-friday-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-          "domain": "slickdeals.net",
-          "name": "Slickdeals",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 60% Off + Extra 15% Off",
-          "quote": "adidas First Access Black Friday Sale Up to 60% Off + Extra 15% Off + Free S&H",
-          "quote_in": "title",
-          "published": "2026-11-16T20:20:01+00:00",
-          "seen": "2026-11-16"
-        },
         {
           "title": "The Three Stripes Are Getting Down to Business This Black Friday - Highsnobiety",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BUS0yMC1kclUwamtvS0FfRldVQlBkc3hyTTE0dDZVX3VhSmVNeDV4bUJVWmhqdERqUWFRN2hreUdqQWUyb2ZXdFRaM2NrZlc1U3ZEakhOLXloWUk5RlNUX2d1Qi1pa2h0?oc=5",
@@ -288,36 +273,6 @@
           "quote_in": "title",
           "published": "2026-11-20T18:58:00+00:00",
           "seen": "2026-11-20"
-        },
-        {
-          "title": "adidas Black Friday Deals 2026: Save Up to 60% on Best-Selling Shoes & Apparel - BlackFriday.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zbUFnUEJpZGJGdDVKYlZQeHBTUGpKYlFTcEdENW5WMURzTnUwQjRSLWRhdzNQU2VITHZxZkhSX0pBaWFLRmo3Sml0LXZjbFlIUkFudGRIeTdLSmc1RUE?oc=5",
-          "domain": "blackfriday.com",
-          "name": "BlackFriday.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 60%",
-          "quote": "adidas Black Friday Deals 2026: Save Up to 60% on Best-Selling Shoes & Apparel",
-          "quote_in": "title",
-          "published": "2026-11-20T06:00:00+00:00",
-          "seen": "2026-11-21"
-        },
-        {
-          "title": "adidas Black Friday Sale: Up to 60% off + free shipping",
-          "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-Up-to-60-off-free-shipping/22414577.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 60% off",
-          "quote": "The adidas Black Friday Sale has just gone live, with discounts of up to 60% off across the store.",
-          "quote_in": "summary",
-          "published": "2026-11-20T09:04:22+00:00",
-          "seen": "2026-11-21"
         },
         {
           "title": "adidas Men's Black Friday Hats & Accessories Deals: Up to 60% off + extra 15% off + free shipping",
@@ -363,6 +318,51 @@
           "quote_in": "summary",
           "published": "2026-11-21T15:19:54+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "adidas Black Friday Sale 2026: Up to 60% off + extra 15% off + free shipping",
+          "url": "https://www.dealnews.com/adidas-Black-Friday-Sale-2026-Up-to-60-off-extra-15-off-free-shipping/22414575.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The adidas Black Friday Sale has just gone live, with discounts of up to 60% off across the store.",
+          "quote_in": "summary",
+          "published": "2026-11-21T14:58:40+00:00",
+          "seen": "2026-11-22"
+        },
+        {
+          "title": "adidas Black Friday Men's Adizero Deals: Up to 60% off + Free shipping",
+          "url": "https://www.dealnews.com/adidas-Black-Friday-Mens-Adizero-Deals-Up-to-60-off-Free-shipping/22417932.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 60% off",
+          "quote": "adidas is taking up to 60% off men's Adizero shoes in its Black Friday sale, with the steepest cuts on the Adizero SL 2 at $52, down from $130.",
+          "quote_in": "summary",
+          "published": "2026-11-21T15:03:45+00:00",
+          "seen": "2026-11-22"
+        },
+        {
+          "title": "adidas Black Friday Men's Accessories Deals: Up to 60% off + extra 15% off + Free shipping",
+          "url": "https://www.dealnews.com/adidas-Black-Friday-Mens-Accessories-Deals-Up-to-60-off-extra-15-off-Free-shipping/22417933.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "adidas is running its Black Friday sale on men's accessories, covering bags, socks, hats, beanies, and soccer gear.",
+          "quote_in": "summary",
+          "published": "2026-11-21T15:06:47+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -370,7 +370,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-14T06:16:50+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "adidas-US-other-2026-earlyholiday",
@@ -1071,7 +1071,7 @@
       "event_name": "Black Friday Week",
       "start": "2026-11-19",
       "end": "2026-11-30",
-      "discount": "up to 59% off",
+      "discount": "up to 46% off",
       "status": "confirmed",
       "sources": [
         {
@@ -1135,21 +1135,6 @@
           "seen": "2026-11-20"
         },
         {
-          "title": "Amazon's Black Friday sale has millions of deals. Here's what to buy first",
-          "url": "https://www.msn.com/en-ca/news/other/amazon-s-black-friday-sale-has-millions-of-deals-here-s-what-to-buy-first/ar-AA2hL5Ou",
-          "domain": "msn.com",
-          "name": "USA TODAY on MSN",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": "2026-11-30",
-          "discount": null,
-          "quote": "Amazon Black Friday 2026 is officially underway. Shop the best deals on tech, toys, home, beauty, fashion and holiday gifts through Nov. 30.",
-          "quote_in": "summary",
-          "published": "2026-11-19T19:52:43+00:00",
-          "seen": "2026-11-20"
-        },
-        {
           "title": "10 Black Friday 2026 Kitchen Appliance Deals To Score On Amazon",
           "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/10-black-friday-2026-kitchen-171634262.html",
           "domain": "shopping.yahoo.com",
@@ -1180,19 +1165,34 @@
           "seen": "2026-11-21"
         },
         {
-          "title": "[Amazon Black Friday 2026] 10 Must-See Picks Including Apple and Classics!",
-          "url": "https://note.com/tono_gadget/n/n37f1bed2b36c?hl=en",
-          "domain": "note.com",
-          "name": "note",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-27",
-          "end": "2026-11-29",
-          "discount": null,
-          "quote": "The early sale runs from 12:00 AM on Friday, November 27th, through Sunday, November 29th",
-          "quote_in": "summary",
-          "published": "2026-11-20T08:57:00+00:00",
-          "seen": "2026-11-21"
+          "title": "Save 25% on Olay favorites during Amazon's Black Friday Sale - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWNHeFpwX25OdkdvTjZRZ2oyZEhKdFEyVV9GUm43SUhYV08yLUo1UmxlMWtLa2EzTDMxSjBoX3NyMnhCWFEyZV9SMGx6SUd0TWNrMEdwY3Q2WUZpcEc0QkE2amRLVlVOMDlmTmVFN2JQcS1EYjg5UHpRUkpROEFXYVJvTnUySXVOSWNxTklQT1JxenE0TzhFazFveUVaV3NKSDdfRmR3dXNGcnpXUlE?oc=5",
+          "domain": "usatoday.com",
+          "name": "USA Today",
+          "level": "media",
+          "status": "confirmed",
+          "start": null,
+          "end": null,
+          "discount": "25% off",
+          "quote": "Save 25% on Olay favorites during Amazon's Black Friday Sale",
+          "quote_in": "title",
+          "published": "2026-11-20T13:02:00+00:00",
+          "seen": "2026-11-22"
+        },
+        {
+          "title": "Amazon has viral Korean skincare for up to 46% off Black Friday - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnJ1ZE9iRTVqY2hnaW5tNEtBRjJHMUZZUGJLVHNNWFE5SjAzc0ZEZ2hoUjZjTjkwWDhGejM5WG4wTkVPa0RicmFqQXRjbDd3b1I2SEl1OXByRnc2SC0xa0R3TWlwZ0FPVk90N19lb0NfRjg2Tm51cGFETnBsbVpnWTg0dldmdUp1N0tsRlhIVF9CeFBHS2NpdG9zNDNYYVJpUW9URk10SHFGVENHT2VNb0daNVdRMTcyY09zWDFpWS1PRWZQLXhrYQ?oc=5",
+          "domain": "usatoday.com",
+          "name": "USA Today",
+          "level": "media",
+          "status": "confirmed",
+          "start": null,
+          "end": null,
+          "discount": "up to 46% off",
+          "quote": "Amazon has viral Korean skincare for up to 46% off Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-21T19:08:00+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -1202,11 +1202,7 @@
         "end": 3
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00",
-      "date_conflict": [
-        "2026-11-19",
-        "2026-11-27"
-      ]
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "amazon-US-cyber_monday-2026",
@@ -1499,7 +1495,7 @@
       "event_name": "Early Black Friday deals",
       "start": "2026-11-01",
       "end": null,
-      "discount": "up to 81% off",
+      "discount": "44% off",
       "status": "rumored",
       "sources": [
         {
@@ -1563,21 +1559,6 @@
           "seen": "2026-11-21"
         },
         {
-          "title": "20+ early Black Friday deals on Amazon you can shop this weekend - NJ.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdQU3ZhTklpc2lwY0M0MjRRRmZjS0RuZ19HdENNZTVmMjlyVHl1eXlyQUN1WVZWdmVCdWZpY2Y4dHdnSVFtWV9wQmNqUGFwVW5QNmgwdUJHQzE5RnZ0VUpDcllPUzR4NHI2VVdNeFJTMTdfbXhTMHRLQ1luLTRYY2FFdXlaRGFpY0NqZ1UxWDU3TXp1NVM2QlYycXBrR2R6LVI0TVRaWEhDNzVfcDFB0gHDAUFVX3lxTE9VV3RaV2YwdV9CenpoaGgtWktIc1ZXdUZvR1BYSkNZSGJZM3BuZWkxMHVZVUlVSUtHYkxhS2JEcm8tT2pHeU5oWUUyVTI3OEVKNDJYS3IwT2twUWJ5RlNiNGg1UnR5VjYwejJJOTlUZDByMzhNT1ZoSzR1UVN1MGFsa3hoeDBuend6UjFERi1fOGo5MkJwUnFWaVVRTnVSYVN1aVZEZDNkUHlFdVVpU004RmctQmVoTk9vLUw2eFp0N2V3VQ?oc=5",
-          "domain": "nj.com",
-          "name": "NJ.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "20+ early Black Friday deals on Amazon you can shop this weekend",
-          "quote_in": "title",
-          "published": "2026-11-21T08:05:00+00:00",
-          "seen": "2026-11-21"
-        },
-        {
           "title": "20+ early Black Friday deals on Amazon you can shop this weekend - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGhwa0FtVExUTHNFellmdXpkdEJhaVpVZGZOSUNMWjlTWnlINm9CNkFWQWdOMm5OMmU3eTZrUENESnhjZ1B1Q1puR242dGwzSk1mMWlkWU83aFk2VDU3eEE1TmRQTzc0OG9lS2VmSDBobnBPZVpVaWRXZGJmaEViMzBtSjMyc2VTQ282OA?oc=5",
           "domain": "shopping.yahoo.com",
@@ -1621,6 +1602,21 @@
           "quote_in": "title",
           "published": "2026-11-21T17:15:00+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Early Black Friday deal on Amazon has knocked 44% off the Garmin vivoactive 5 smartwatch - PC Guide",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVl0TzBMdGMteWJMQk5UQnBUbEdIRWN3d2J3R3RvaG8wU0VsWjAtamE3VWd1SWNNankzai1DeTdOa01rOHNhakVKVjgybGVmMWVDMFZZcnJQQmk1bWRBLWh6U1ZLY1pkSGEyV3pJNG9DRy1HOUxaeUl5cG1WbFFMSHFuMjNGdW1TeGl5bENhSVdfMkQ3eWtiU1FldmJYZ1RWZkJfYTd4SDhlVGtQTi1xQlh0VU9YRmtPRHc?oc=5",
+          "domain": "pcguide.com",
+          "name": "PC Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "44% off",
+          "quote": "Early Black Friday deal on Amazon has knocked 44% off the Garmin vivoactive 5 smartwatch",
+          "quote_in": "title",
+          "published": "2026-11-21T19:17:35+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -1629,7 +1625,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfriday",
@@ -5967,21 +5963,6 @@
       "status": "rumored",
       "sources": [
         {
-          "title": "5 Of The Best Early Black Friday Tech Deals At Costco - SlashGear",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlRjMHBYX1JoVUdUZnk1dDVfWEIydlZPRGZrN1JiZU8wd1BvdHE1bFhrVmthaGV3Sk9ySEl6c0RNOEF2bXpmeTZYVjg2eGY3TXd6S0g2WENFNktzNE5wZnBSVG1BSzFnOGtoYjVxMHV4RWVDVzd4Y0dtV3JqSEZhU1dOLW5jdTlmQWh0ckpiNmFFcnVhSHhZdg?oc=5",
-          "domain": "slashgear.com",
-          "name": "SlashGear",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "5 Of The Best Early Black Friday Tech Deals At Costco",
-          "quote_in": "title",
-          "published": "2026-11-13T12:45:00+00:00",
-          "seen": "2026-11-13"
-        },
-        {
           "title": "Costco’s Early Black Friday Deals, a Shopping Slowdown and More of Today’s Top Money News - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVG1PbWFoV0FZNkprMXZOQ2VMX001R2psNXVJNDgtdmhFUXJMUGJnYWdhaVdmVFZMMDNvLVBJRjJob2s5WWxyTEdvakdMMERzNk95Y2ZyVklmNklscmxtOGFhZlFCLWRoMk9vTVpLazU3bDV4eFVIT1pvVWY1XzVtVUEzUUVyZnRGMF80ZXRfNVhnZTA?oc=5",
           "domain": "finance.yahoo.com",
@@ -6085,6 +6066,21 @@
           "quote_in": "title",
           "published": "2026-11-21T12:00:00+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "A pre-Black Friday win: Costco Gold Star Membership + $45 Digital Costco Shop Card* for $65 - WNEP",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQ2xETnV1b0xZWDNGcDl5dEZiajBZeVVKWWotVHdBZFZXOWduLW5XUURoYm55VElvZkxZbnVydXlVNjJCNWo4TU1sVmdIRVhZZjNpWE8zZHRsNEs4TmdZWDkxMzEteW44S3RUaWl6c1NyUDR1RFlSSTdLLXplU2ZfNHREOTBWQjJZQzRVVkxmN2ZDUG5pYVZybmczcHZ3OFJHSzRDbTNVS1VKTWJfaXdMQlFiUk9MakhUeHdqcFBlY2ZUZ1JJWlZRd0pzVFJBLV9mRlVPZHFFTE9QU0RqZms4OG5ibmlIaExCTEVaR0Q2U2hELUUtd01Qbk1MeE1BaGg3eHJoeU1FOHBuRFVzdWRlN08xcmptUFZHUWxnbTFR?oc=5",
+          "domain": "wnep.com",
+          "name": "WNEP",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "A pre-Black Friday win: Costco Gold Star Membership + $45 Digital Costco Shop Card* for $65",
+          "quote_in": "title",
+          "published": "2026-11-21T12:00:00+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -6092,7 +6088,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "costco-US-other-2026-annualholidaysavingad",
@@ -6861,10 +6857,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday sale",
       "start": null,
       "end": "2026-11-30",
-      "discount": "half off",
+      "discount": "$150 off",
       "status": "rumored",
       "sources": [
         {
@@ -6881,21 +6877,6 @@
           "quote_in": "excerpt",
           "published": "2026-11-09T12:27:00+00:00",
           "seen": "2026-11-09"
-        },
-        {
-          "title": "The Dyson Black Friday 2026 sale is LIVE – 15 deals on vacuums, air purifiers and hair stylers - T3",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2ZtTGloZUZjcTJuRGlOWW4ybWNuemtzbVM5WFpWRVBrelhFcEZUZ3pxLXotNVAyakoyMlB1TERHX0hkRmxUbWxibWxoX2VuaE5WbTBEdW1EQ3pMdFlHMmhwX2tDS3BnQU5fV3FqNWE0VU5kZ2RyZWc2QUc5SjVGcXJkU2tobFc2RlJiMzU1TTZHekxldmU2d2xmcmxMNVJaNG1ERk11MEZNOUROejJaV1Q0dFZ5X3E0NW9EZnpYMUxGSlN6bGJJanVZbnBNZw?oc=5",
-          "domain": "t3.com",
-          "name": "T3",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Dyson Black Friday 2026 sale is LIVE",
-          "quote_in": "title",
-          "published": "2026-11-11T15:00:00+00:00",
-          "seen": "2026-11-12"
         },
         {
           "title": "Black Friday 2026: Top early deals from Ugg, Kate Spade, Dyson, Ring and more, plus everything we know so far about the big sale - Yahoo",
@@ -6986,6 +6967,21 @@
           "quote_in": "title",
           "published": "2026-11-19T21:50:00+00:00",
           "seen": "2026-11-20"
+        },
+        {
+          "title": "This one is for the girls! Dyson Airwrap is $150 off during Black Friday sale - OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWlmOTdER1VySnVwN2ZKd0dmOXZxbTM2U0M5T2NFMVE4WTdiZGFrRUVoTmlUY1BnYzV5ckdzNjZyZXRFdVhjWkgxMHJYN3d2X1k5UnFNOXB2Ym02UHZfdG9wNWs4dDJLdzNULUt0WHZTa0NobThzbmhNeVhEOUpNdFp0R09fNUdzYzRJWVlkek1vVTJrSnBnTW5aUVJnTHJTM1JrMEpMbjkzNGxKa0x6Z2RUal8ySkpCak11X0tQVUtsLVhPRGVid1dn0gHeAUFVX3lxTE1DZXladGE1T3hpbG5DNFBHelJwQk9zak4yXzVSNzVWTmNuZFNjaVNQYVRZdC03b2RobHFLWHg5d1ZjaXlMNmxaUXVJc21ISEJ3aFdnaG1NQUhwMFFYLUJZNW1OamZvSGp6UF95OG5sSFM1cU9ORktTLU5xSUNUcVJ5QjZsTkE3OGJRWlZwd1pUa0VLaGVzYTVMRnBiOHlJYUtEX001a3p5VkN1ZEhsS3JKSmNkUWx6b1docU9IQXZLWHhHd2JXRmFFR0EwSG1JQzhQMGFwUTd2V3d4VWlNZw?oc=5",
+          "domain": "oregonlive.com",
+          "name": "OregonLive.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "$150 off",
+          "quote": "Dyson Airwrap is $150 off during Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-20T16:30:00+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -6994,7 +6990,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-20T07:10:36+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "dyson-US-early_bf-2026",
@@ -8781,6 +8777,43 @@
       "updated": "2026-11-07T05:55:17+00:00"
     },
     {
+      "id": "ikea-US-other-2026-holidayitem",
+      "brand_id": "ikea",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "holidayitem",
+      "sale_key_kind": "name",
+      "event_name": "Holiday Items",
+      "start": null,
+      "end": null,
+      "discount": "up to 25% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "IKEA Offers Up to 25% Off Holiday Items - Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUlvRDV6MGp0Y2tWckV0Q3REUlZENmNMNURNeFZZMVhXQS00VjlUd3k1RkIwRnlYdWJ0eGlPYUFaT3RYa2stRFh6VXotX1JpNXA3cXRxSm9aM2luWFF5bFZEWnhxcG5maHE3RWtpSWotMjZXaTgxbF9rekM5a0VrT2Qzc2l5cEhSbHRF?oc=5",
+          "domain": "wisevoter.com",
+          "name": "Wisevoter",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 25% off",
+          "quote": "IKEA Offers Up to 25% Off Holiday Items",
+          "quote_in": "title",
+          "published": "2026-11-14T22:13:50+00:00",
+          "seen": "2026-11-22"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-22T06:43:12+00:00",
+      "updated": "2026-11-22T06:43:12+00:00"
+    },
+    {
       "id": "ikea-US-other-2026-seasonalsaving",
       "brand_id": "ikea",
       "region": "US",
@@ -9990,10 +10023,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Lululemon Black Friday",
+      "event_name": "Black Friday Sale",
       "start": null,
       "end": null,
-      "discount": "Up to 50% Off",
+      "discount": "up to 50% off",
       "status": "rumored",
       "sources": [
         {
@@ -10007,21 +10040,6 @@
           "end": null,
           "discount": null,
           "quote": "Lululemon’s Black Friday Event Has Officially Begun",
-          "quote_in": "title",
-          "published": "2026-11-19T19:00:00+00:00",
-          "seen": "2026-11-19"
-        },
-        {
-          "title": "Lululemon’s Black Friday Sale Is Live, With $59 Align Leggings, $29 Tanks & $19 Bags - E! News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnRlbkpyX0g2OHo1eWJlWFkycWFYRExtQ3FWQjZsdUluLWc2WDZDSXg4bGpLYlAtSFR3ZkYxUzJZX1c4VWlDLUdVRjM0Rk5hdElPeW1fcEJQaWJiZ3BxLTYwekpVTDhIVE1KUENpc1Z6QWxRNHJGRzhla2xvdGpiSU1GMmNJVk5XNWw5YUFMaHF2WklvaU5CZVk5VWpBa3pBcVNTT1hWVQ?oc=5",
-          "domain": "eonline.com",
-          "name": "E! News",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Lululemon’s Black Friday Sale Is Live, With $59 Align Leggings, $29 Tanks & $19 Bags",
           "quote_in": "title",
           "published": "2026-11-19T19:00:00+00:00",
           "seen": "2026-11-19"
@@ -10115,6 +10133,21 @@
           "quote_in": "title",
           "published": "2026-11-21T13:14:05+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Scouted: Lululemon’s Black Friday Sale Is Live—Score Up to 50% Off - NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3ZFcVVnMVRlRmh4ck9KS1YtRkJMTU5pT2xnZWZPUU80LVBNMF84eERtVjZlV2tGU3JyUWRNWmtwQ1cwMjFhV05EUXJvTHhTR29KNFFUNnVNUFpzQXg4bVc2LTZzMzBiQW9HdzFZQVpsdzUzTGdPV1ZueV95aDhId1d3RUVxNF9OTXpXR1FmMlR1QzQxeHF3SEdHUFFWOUFfTVl5ZUhoSjJBLVRPUGZLSUdtdTZTZUZCLWtSVVgyRmNrQmM?oc=5",
+          "domain": "newsbreak.com",
+          "name": "NewsBreak: Local News & Alerts",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 50% off",
+          "quote": "Lululemon’s Black Friday Sale Is Live—Score Up to 50% Off",
+          "quote_in": "title",
+          "published": "2026-11-20T22:45:26+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -10122,7 +10155,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "lululemon-US-cyber_monday-2026",
@@ -11229,21 +11262,6 @@
           "seen": "2026-11-20"
         },
         {
-          "title": "Birkenstocks are slashed to unbelievably low prices during Nordstrom Rack’s Black Friday sale - Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1BrQUxFd25PMDZPajI5TEhtNklxbUFBalo3bmczTDAtZHZScTU5VlJ1WVM2SllQS2ZZMGpoM0NacHQzWi1mRHF5X054Ri1BVHAyZW1nM1ZSdU9jdk5XMjZ2R0VDdnlsWDBwazBkYWdHZDZsTVZXMVpIYjVCb1ByZG1LbTNBX2hvamRubEw3S0NpbzZCNHpJRlZaRm5yeUJVaE1kYThGOFR0VmIzcjZ2b3o1ejE3U0dFUENCd2VfZlh5bmpOQ1hIRjh3cUdGbW1McHI4MXFUaw?oc=5",
-          "domain": "cleveland.com",
-          "name": "Cleveland.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "during Nordstrom Rack’s Black Friday sale",
-          "quote_in": "title",
-          "published": "2026-11-19T22:37:00+00:00",
-          "seen": "2026-11-20"
-        },
-        {
           "title": "Nordstrom Rack's 2026 Black Friday sale just started: Save up to 75% on sweaters, boots and coats - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMmh1d21uaXVvV3lZMmMydmpZZTFJVkhmd3lDNHdNWE82dVdtRERUNFQyc3dFRTJxa01JRFFkOGhma2RTWjByUGFobWhyX2YtT2k0dHM4UHh3VzZVd2tDOXMyaHdCbkU1bGhMSHN5UmRfSW82SHU0Z3VBSXl6UXo0WmxkVEdyUWx2ZDRhYW1mcDRMZU1FNnIxV3JNR2xsakdUQmNsaE42eExuZ0ZXNHpUVzBYcm1LZmNnV2p6WllnVTRjbkU2VG52aldYZHpZcG9uV25XRDRHYWZzVnRIYkdWY1g4SHVpX2ludGFxdGw0Xy1iRGY5d2c?oc=5",
           "domain": "shopping.yahoo.com",
@@ -11287,6 +11305,21 @@
           "quote_in": "title",
           "published": "2026-11-21T09:30:00+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Birkenstocks are slashed to unbelievably low prices during Nordstrom Rack’s Black Friday sale - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzA1MnBSTlk3UGtRcEtiM2t3NGtLS0hvT1d0eHRWT21MbEFrS2F5a043YlNjVGtIT3Q0MjI1X0thWUZtbTRjYmJWYVV5UjViLXcySFNIWW9DZmwxb0ZRWDVRMGZ3cHp4Z25Sc1Z1clZOd0VDLUsxSUdzUkt5aUw5aVI2R3UtNHcyOWhwV0IxaVN6eWJhZHdOT2k3cGl2U204SlBRTk5yb2dMYVE?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Birkenstocks are slashed to unbelievably low prices during Nordstrom Rack’s Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-19T22:39:52+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -11296,7 +11329,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "nordstrom-US-early_bf-2026",
@@ -13809,26 +13842,11 @@
       "event_type": "black_friday",
       "year": 2026,
       "event_name": "Target’s Black Friday sale",
-      "start": "2026-11-22",
+      "start": "2026-11-27",
       "end": "2026-11-29",
       "discount": "up to 50% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Target Black Friday 2026 ad is out, with deals starting Nov. 22",
-          "url": "https://www.msn.com/en-us/money/general/target-black-friday-2026-ad-is-out-with-deals-starting-nov-22/ar-AA2hHWw6",
-          "domain": "msn.com",
-          "name": "Pirates & Princesses on MSN",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-22",
-          "end": null,
-          "discount": null,
-          "quote": "Target Black Friday 2026 ad is out, with deals starting Nov. 22",
-          "quote_in": "title",
-          "published": "2026-11-18T07:55:57+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "Target’s Black Friday Sale For 2026 Includes Free Gift Cards For Customers",
           "url": "https://www.hercampus.com/style/target-black-friday-sale-2026/",
@@ -13933,6 +13951,21 @@
           "quote_in": "title",
           "published": "2026-11-21T18:33:39+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Target Opens at 6 a.m. on Black Friday, Nov. 27, After Closing Thanksgiving, and Adds GOODLES, Katjes and Backflip Food Drops Nov. 22 to 29 - NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQd2VuWDJZcW9jZGlUX21vN2Q2R1NzVW83MjN4dTV2dEZ5WmV6aXJVUFBKOTJidGw1dUNMUDBCSDhuQmhhTC0yNU80bm14LWJaZUVIOW9FbWI0YTNzM3Z0Ti1OWld0c0ozLVN2anJpRFIxMUZsRkpfUnpDaXFEN2l2WjA4ZXB6a21ndXlmMFZYUDVBUl9qWW41M0ctcVluU2ZfWTVoenpZTXRpbVVSbzF3Wk45cElmQWZoXzljTTdYVXR2WThZeUJrRzJ0MV9BZzM0MG9zRUtub3ZzLW9QU3dqMERHNVVLSldKUTBMaUtScGJmSE5WRS1yWmdZcUlaOEEzM1VzdnUzblJJMWlpZ0Zrb0VmbkJNY0J3SVFGaDNkUFp1Q0ta?oc=5",
+          "domain": "newsbreak.com",
+          "name": "NewsBreak: Local News & Alerts",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "Target Opens at 6 a.m. on Black Friday, Nov. 27",
+          "quote_in": "title",
+          "published": "2026-11-21T22:12:57+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
@@ -13942,7 +13975,11 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-22T06:43:12+00:00",
+      "date_conflict": [
+        "2026-11-22",
+        "2026-11-27"
+      ]
     },
     {
       "id": "target-US-cyber_monday-2026",
@@ -15053,10 +15090,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday 2026 Sales",
+      "event_name": "Black Friday",
       "start": "2026-11-21",
       "end": "2026-11-28",
-      "discount": null,
+      "discount": "save 50%",
       "status": "rumored",
       "sources": [
         {
@@ -15103,15 +15140,46 @@
           "quote_in": "title",
           "published": "2026-11-13T05:52:00+00:00",
           "seen": "2026-11-15"
+        },
+        {
+          "title": "Ulta Black Friday 2026: Dyson Airwrap Deal and Sale Start Time - Totally The Bomb",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamg3T05GVXBzVkxCNVhyV19OY1ZEY1RxRVdwbUgtX05udUQ1c0hka3hHVEY2TUQ2WmpvblJNaW5MbmFOczI0Z1lDVmZvTGZzdVBKUzl6R3c1Q3BDYkNQcXh0SDdlUXFHdDQ0ajNmeXpzaUxsVi1Ob0wxT2VNOFhYSWxZeFlQLWc?oc=5",
+          "domain": "totallythebomb.com",
+          "name": "Totally The Bomb",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Ulta Black Friday 2026: Dyson Airwrap Deal and Sale Start Time",
+          "quote_in": "title",
+          "published": "2026-11-22T01:32:42+00:00",
+          "seen": "2026-11-22"
+        },
+        {
+          "title": "12-Pc ULTA Beauty Festive Scent Favorites w/ Atomizer $17 + Free Pickup",
+          "url": "https://slickdeals.net/f/20363754-ulta-beauty-black-friday-deal-12-piece-ulta-beauty-festive-scent-favorites-17-free-store-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+          "domain": "slickdeals.net",
+          "name": "Slickdeals",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-21",
+          "end": null,
+          "discount": "save 50%",
+          "quote": "Ulta Beauty [ulta.com] offers for Black Friday (starting online 11/21 8pm CT):* 12-Piece ULTA Beauty Festive Scent Favorites *for *$17* (*save 50%*).",
+          "quote_in": "summary",
+          "published": "2026-11-22T04:03:27+00:00",
+          "seen": "2026-11-22"
         }
       ],
       "field_levels": {
         "event_name": 1,
         "start": 1,
-        "end": 1
+        "end": 1,
+        "discount": 1
       },
       "first_seen": "2026-11-12T15:09:24+00:00",
-      "updated": "2026-11-15T18:49:03+00:00"
+      "updated": "2026-11-22T06:43:12+00:00"
     },
     {
       "id": "ulta-US-early_bf-2026",

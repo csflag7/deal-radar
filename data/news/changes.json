@@ -1,73 +1,37 @@
 {
-  "generated_at": "2026-11-21T19:12:07+00:00",
+  "generated_at": "2026-11-22T06:43:12+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "amazon-US-black_friday-2026",
-      "brand_id": "amazon",
+      "id": "ikea-US-other-2026-holidayitem",
+      "brand_id": "ikea",
       "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday Week",
-      "start": "2026-11-19",
-      "end": "2026-11-30",
-      "discount": "up to 59% off",
-      "status": "confirmed",
-      "kind": "date_changed",
-      "old_start": "2026-11-27",
-      "old_end": "2026-11-30"
-    },
-    {
-      "id": "amazon-US-cyber_monday-2026",
-      "brand_id": "amazon",
-      "region": "US",
-      "event_type": "cyber_monday",
-      "event_name": "Cyber Monday",
-      "start": "2026-11-19",
-      "end": "2026-11-30",
-      "discount": null,
-      "status": "confirmed",
-      "kind": "confirmed"
-    },
-    {
-      "id": "dyson-CA-black_friday-2026",
-      "brand_id": "dyson",
-      "region": "CA",
-      "event_type": "black_friday",
-      "event_name": "Dyson Black Friday Deals 2026",
+      "event_type": "other",
+      "event_name": "Holiday Items",
       "start": null,
       "end": null,
-      "discount": "up to $300 off",
+      "discount": "up to 25% off",
       "status": "rumored",
       "kind": "new_event"
     },
     {
-      "id": "homedepot-US-black_friday-2026",
-      "brand_id": "homedepot",
+      "id": "target-US-black_friday-2026",
+      "brand_id": "target",
       "region": "US",
       "event_type": "black_friday",
-      "event_name": "Countdown To Black Friday Deals",
-      "start": "2026-11-05",
-      "end": null,
-      "discount": "BOGO",
-      "status": "confirmed",
-      "kind": "confirmed"
-    },
-    {
-      "id": "katespade-US-black_friday-2026",
-      "brand_id": "katespade",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Black Friday Outlet sale",
-      "start": null,
-      "end": null,
-      "discount": "more than 70% off",
-      "status": "confirmed",
-      "kind": "confirmed"
+      "event_name": "Target’s Black Friday sale",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "discount": "up to 50% off",
+      "status": "rumored",
+      "kind": "date_changed",
+      "old_start": "2026-11-22",
+      "old_end": "2026-11-29"
     }
   ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 15,
-  "ai_processed": 180
+  "ai_batches": 8,
+  "ai_processed": 106
 }
