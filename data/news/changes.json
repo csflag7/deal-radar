@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-22T06:43:12+00:00",
+  "generated_at": "2026-11-22T19:34:09+00:00",
   "first_run": false,
   "changes": [
     {
-      "id": "ikea-US-other-2026-holidayitem",
-      "brand_id": "ikea",
-      "region": "US",
-      "event_type": "other",
-      "event_name": "Holiday Items",
-      "start": null,
-      "end": null,
-      "discount": "up to 25% off",
-      "status": "rumored",
-      "kind": "new_event"
-    },
-    {
-      "id": "target-US-black_friday-2026",
-      "brand_id": "target",
+      "id": "dell-US-black_friday-2026",
+      "brand_id": "dell",
       "region": "US",
       "event_type": "black_friday",
-      "event_name": "Target’s Black Friday sale",
-      "start": "2026-11-27",
-      "end": "2026-11-29",
-      "discount": "up to 50% off",
+      "event_name": "Dell and Alienware Black Friday Deals 2026",
+      "start": "2026-11-23",
+      "end": null,
+      "discount": "up to $1,000 off",
       "status": "rumored",
       "kind": "date_changed",
-      "old_start": "2026-11-22",
-      "old_end": "2026-11-29"
+      "old_start": null,
+      "old_end": null
+    },
+    {
+      "id": "sephora-US-cyber_week-2026",
+      "brand_id": "sephora",
+      "region": "US",
+      "event_type": "cyber_week",
+      "event_name": "Cyber Week sale",
+      "start": "2026-11-21",
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "kind": "new_event"
     }
   ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 8,
-  "ai_processed": 106
+  "ai_batches": 12,
+  "ai_processed": 150
 }
