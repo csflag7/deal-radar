@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-11-22T19:34:09+00:00",
+  "generated_at": "2026-11-23T07:32:16+00:00",
   "first_run": false,
-  "changes": [
-    {
-      "id": "dell-US-black_friday-2026",
-      "brand_id": "dell",
-      "region": "US",
-      "event_type": "black_friday",
-      "event_name": "Dell and Alienware Black Friday Deals 2026",
-      "start": "2026-11-23",
-      "end": null,
-      "discount": "up to $1,000 off",
-      "status": "rumored",
-      "kind": "date_changed",
-      "old_start": null,
-      "old_end": null
-    },
-    {
-      "id": "sephora-US-cyber_week-2026",
-      "brand_id": "sephora",
-      "region": "US",
-      "event_type": "cyber_week",
-      "event_name": "Cyber Week sale",
-      "start": "2026-11-21",
-      "end": null,
-      "discount": null,
-      "status": "rumored",
-      "kind": "new_event"
-    }
-  ],
+  "changes": [],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 12,
-  "ai_processed": 150
+  "ai_batches": 8,
+  "ai_processed": 106
 }
