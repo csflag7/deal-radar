@@ -1,10 +1,71 @@
 {
-  "generated_at": "2026-11-23T07:32:16+00:00",
+  "generated_at": "2026-11-23T23:50:52+00:00",
   "first_run": false,
-  "changes": [],
+  "changes": [
+    {
+      "id": "adidas-US-early_bf-2026",
+      "brand_id": "adidas",
+      "region": "US",
+      "event_type": "early_bf",
+      "event_name": "Black Friday",
+      "start": null,
+      "end": null,
+      "discount": "up to 60% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "arcteryx-US-black_friday-2026",
+      "brand_id": "arcteryx",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday sale",
+      "start": null,
+      "end": null,
+      "discount": "up to 40% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "clinique-US-black_friday-2026",
+      "brand_id": "clinique",
+      "region": "US",
+      "event_type": "black_friday",
+      "event_name": "Black Friday",
+      "start": null,
+      "end": null,
+      "discount": "starting at 40% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "dell-US-other-2026-hot",
+      "brand_id": "dell",
+      "region": "US",
+      "event_type": "other",
+      "event_name": "Hot Deals",
+      "start": null,
+      "end": null,
+      "discount": "Up to 40% off",
+      "status": "rumored",
+      "kind": "new_event"
+    },
+    {
+      "id": "mac-US-early_bf-2026",
+      "brand_id": "mac",
+      "region": "US",
+      "event_type": "early_bf",
+      "event_name": "Early Black Friday Beauty Deals",
+      "start": null,
+      "end": null,
+      "discount": "30 Percent Off",
+      "status": "rumored",
+      "kind": "new_event"
+    }
+  ],
   "failed_sources": [],
   "ai_errors": [],
   "ai_aborted": null,
-  "ai_batches": 8,
-  "ai_processed": 106
+  "ai_batches": 24,
+  "ai_processed": 300
 }
