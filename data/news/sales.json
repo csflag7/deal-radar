@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:23:51+00:00",
+  "updated": "2026-11-25T08:27:48+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -7,10 +7,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday 2026",
+      "event_name": "Black Friday sale",
       "start": null,
       "end": null,
-      "discount": "25–50% off",
+      "discount": "up to 65% off",
       "status": "rumored",
       "sources": [
         {
@@ -139,7 +139,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "abercrombie-US-early_bf-2026",
@@ -238,6 +238,21 @@
           "quote_in": "title",
           "published": "2026-11-24T18:31:18+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "The Adidas Black Friday sale includes up to 60% off sneakers, clothes and accessories— shop the 18 best deals for men and women - Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTjRFX0s3ZzRsbFB3eTJqV1A3MDhOaF80T0VtazVtR085RXluNlhjNENVQ2RlY3BDRjY4WVBUSnN0bWVwUERjUV85ZncycnVZam5BLUpFMHY2R3o5bjdVVS1DeUVlQk50YldOLW1NM0JaSkhIZXQxdkJ3TVNyZEVFSkxLVjRfSUJkWGt5Z1hsdHU1UldBLTgzMmZjVkt0NFpQRm1SX214NzFpZFJZLXlCMmI4WHlKRmN1bDhEWGt2UUU5c0oweGtYaHZrNGJLVVFadThaWGFsRHFvNkoxQ0RqeGZVejRCOVpEUGZVTDhfaE5idTlvRlVFaDhn?oc=5",
+          "domain": "ca.style.yahoo.com",
+          "name": "Yahoo Lifestyle Canada",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 60% off",
+          "quote": "The Adidas Black Friday sale includes up to 60% off sneakers, clothes and accessories",
+          "quote_in": "title",
+          "published": "2026-11-24T18:31:18+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -245,7 +260,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-24T22:23:51+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "adidas-CA-early_bf-2026",
@@ -318,10 +333,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "adidas Black Friday Sale",
+      "event_name": "DSW’s Black Friday Sale",
       "start": null,
       "end": null,
-      "discount": "Up to 60% Off + Extra 15% Off",
+      "discount": "extra 30% off",
       "status": "rumored",
       "sources": [
         {
@@ -368,21 +383,6 @@
           "quote_in": "summary",
           "published": "2026-11-21T15:19:54+00:00",
           "seen": "2026-11-21"
-        },
-        {
-          "title": "adidas Black Friday Men's Adizero Deals: Up to 60% off + Free shipping",
-          "url": "https://www.dealnews.com/adidas-Black-Friday-Mens-Adizero-Deals-Up-to-60-off-Free-shipping/22417932.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 60% off",
-          "quote": "adidas is taking up to 60% off men's Adizero shoes in its Black Friday sale, with the steepest cuts on the Adizero SL 2 at $52, down from $130.",
-          "quote_in": "summary",
-          "published": "2026-11-21T15:03:45+00:00",
-          "seen": "2026-11-22"
         },
         {
           "title": "adidas Black Friday Men's Accessories Deals: Up to 60% off + extra 15% off + Free shipping",
@@ -443,6 +443,21 @@
           "quote_in": "title",
           "published": "2026-11-24T21:31:26+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "DSW’s Black Friday Sale is Here! Shop an Extra 30% Off Adidas, Lucky Brand, More - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHJwdl9jSmY4M3FxeVVHOFRuVm9rSEtVM2xPZnlrTGNqRTUtclo1dXdFS3JlenQ3R05OT0xvZjhILXk4SFhqbFYwMUo2OHlJWE9kWUtvN0Z5OC13YnpsWFphR000UHI3U3p2MExPQzJyZkxCYmFSaGZ5NWNuTjZfbFJVZEtXTG5PMUx4V2JsaGRsZkU?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "extra 30% off",
+          "quote": "DSW’s Black Friday Sale is Here! Shop an Extra 30% Off Adidas, Lucky Brand, More",
+          "quote_in": "title",
+          "published": "2026-11-23T21:27:04+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -450,7 +465,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-14T06:16:50+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "adidas-US-early_bf-2026",
@@ -2950,42 +2965,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "early Black Friday smartwatch deals",
+      "event_name": "early Black Friday streaming deals",
       "start": null,
       "end": null,
-      "discount": "$70 off",
+      "discount": "53% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "The very best early Apple Black Friday deals: iPads, MacBooks, AirPods and Apple Watch discounts - Creative Bloq",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjB4SGtTS2xjV1AzTURCanR2bHhXQ29sZWY4WXRueEg1ZFJQbmRfcjdOX1o1M0hSUWxtdG12U0ZJRHNocjhMRmVwNkhQTlI1akFjOWk3bmY3cnRBYWJDQnYyS2Vsa195MWdJWjJDa1pfTDFvTW5GbWZhS3lmNlpoQ3pfS3BuMk5wZ3JRTk4xTjB0LTBKU0tDQzR2cVJtUzFqUF96OHJtNjJuT3kwRlEyZ0tqQ1otZ21haVBDT0MyMG9sMXhJTmI4?oc=5",
-          "domain": "creativebloq.com",
-          "name": "Creative Bloq",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The very best early Apple Black Friday deals: iPads, MacBooks, AirPods and Apple Watch discounts",
-          "quote_in": "title",
-          "published": "2026-11-19T13:51:32+00:00",
-          "seen": "2026-11-19"
-        },
-        {
-          "title": "The best early Black Friday MacBook deals: The Neo and OLED MacBook Pro are both on sale already - Mashable",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Z3VPOWZ3ZU9PMGZuMFA3VjZWWnMxWERNSlpvUWtlc2NFb3YtZURSMjJvMWR5MmVqRktxSTA4S1U5NlNfZVY3QWVReHI3MnQweXp1MXBkSFFqX2ltUklxQ3ZmV1NqTThtRGRST0V0c01pMXRhTlVMdVNXVnZDQQ?oc=5",
-          "domain": "mashable.com",
-          "name": "Mashable",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The best early Black Friday MacBook deals: The Neo and OLED MacBook Pro are both on sale already",
-          "quote_in": "title",
-          "published": "2026-11-20T13:10:12+00:00",
-          "seen": "2026-11-20"
-        },
         {
           "title": "Early Black Friday tech deals live now: Huge sales from Apple, Amazon, Bose, Ring and more - Yahoo Tech",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLTVrRFVfYWhaUWVjNXdqT2dLczRlY3hrNEtHTWdfMU5vYjgtWVN4T1JkQjVPUUtiNlNmZVZkZ1Utc1RyU1pxaHRPSXlxenFQYkEwN0QwUWFxX1NDVnF4NW1iNzZrelJZalhTRmt2WHRpOUZmMnV1UmM5RjlBNXh6ZFNXSzFNY1p6N2liWkhsa1ozMVVGRHJlQkVJWWh0c0JJSlY3SkIxVTAyNjM5enlpTi1zbDhNdXlHODZPeU85eHNlRE9sMkpTQmo2X05ud2NieWhNemJwUG9LNEpSYmdYbEdnRGZLZ1E?oc=5",
@@ -3075,6 +3060,36 @@
           "quote_in": "summary",
           "published": "2026-11-24T11:39:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "These early Apple Black Friday deals are worth grabbing right now - Macworld",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0JBQ1hrYXNvLTZWN2dzb1I2a0NrYVVVbm9tQWRpcGl2akxKWmp3ZDNSd3JVbk5RMXFENllhX3BrZzJvbVRYWWtVS1psNVB0bzVfSXYyU3Z1dHBSMHczQXlYd0VwSENCTjZmVmdnRUtlTHRTTmpPdzUzLTAyWG5laTd3UkwzRnd3UHBseElR?oc=5",
+          "domain": "macworld.com",
+          "name": "Macworld",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "These early Apple Black Friday deals are worth grabbing right now",
+          "quote_in": "title",
+          "published": "2026-11-22T17:35:13+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Best early Black Friday streaming deals 2026: Up to 79% off Disney+ and Hulu, HBO Max, Apple TV, more",
+          "url": "https://www.zdnet.com/home-and-office/nov-24-best-early-black-friday-streaming-deals-2026/",
+          "domain": "zdnet.com",
+          "name": "ZDNET",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "53% off",
+          "quote": "six months of Apple TV at 53% off ($6.99/month)",
+          "quote_in": "excerpt",
+          "published": "2026-11-24T06:18:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -3082,7 +3097,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "apple-US-other-2026-blackfriday",
@@ -3306,7 +3321,7 @@
       "event_name": "REI Black Friday jacket deals",
       "start": null,
       "end": null,
-      "discount": "up to 39%",
+      "discount": "up to 52%",
       "status": "rumored",
       "sources": [
         {
@@ -3353,6 +3368,21 @@
           "quote_in": "title",
           "published": "2026-11-24T00:49:17+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "13 REI Black Friday jacket deals — save up to 52% on The North Face, Patagonia, Arc’teryx, Columbia, and more - Tom's Guide",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2NraGNTbl81YW1MUWJkNGZyMUJ5OU1PN2dJTWxLYUVpbGhrQXp3ZlVqb3h6WU41Tml6VWJFNzhvQ09YbHZhSWt0MkZTS0hjMW1Uc3VHRmNFYkh3My04VV9nR1d0Y3FOX3Bzd1R3dDV1c0FLS0luUEVnS0NJOWhBdVFhX0gzWjJQN0VlMjJ1N0pKS19LRkc0RXhabDFjbTZ3Z3VNSlo0aEYxemdHLUc1cnlCdmswUzBHSXd3QW80WWJNSjV6ME04SjE0b1BENjlGOVlGa0VDbHEwSm9LbkZFbk90bG9rTzQ?oc=5",
+          "domain": "tomsguide.com",
+          "name": "Tom's Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 52%",
+          "quote": "13 REI Black Friday jacket deals — save up to 52% on The North Face, Patagonia, Arc’teryx, Columbia, and more",
+          "quote_in": "title",
+          "published": "2026-11-25T01:14:09+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -3360,7 +3390,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-23T23:50:52+00:00",
-      "updated": "2026-11-24T09:51:31+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "arcteryx-US-early_bf-2026",
@@ -3619,6 +3649,43 @@
       },
       "first_seen": "2026-11-12T00:39:45+00:00",
       "updated": "2026-11-23T23:50:52+00:00"
+    },
+    {
+      "id": "aritzia-US-other-2026-warmup",
+      "brand_id": "aritzia",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "warmup",
+      "sale_key_kind": "name",
+      "event_name": "Warm Up Sale",
+      "start": null,
+      "end": null,
+      "discount": "30% to 50% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Aritzia's early Black Friday sale is warming up with 30% off select Super Puffs",
+          "url": "https://www.msn.com/en-us/news/other/aritzia-s-early-black-friday-sale-is-warming-up-with-30-off-select-super-puffs/ar-AA2hf6AE",
+          "domain": "msn.com",
+          "name": "Insider on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "30% to 50% off",
+          "quote": "We found new seasonal styles at 30% to 50% off, from a Super Puff jacket to comfy clothing basics.",
+          "quote_in": "summary",
+          "published": "2026-11-23T14:04:12+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "bestbuy-CA-black_friday-2026",
@@ -5782,42 +5849,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday 2026",
+      "event_name": "Coach Outlet Black Friday",
       "start": null,
       "end": null,
-      "discount": "extra 25% off select Coach Outlet styles",
+      "discount": "up to 40% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Coach Outlet's Black Friday Sale Has Huge Savings on Over 800 Items — Here's How to Save an Extra 25% - SheKnows",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEktZUZCR2VsUGFRQV9JX283cktiVC1hX2FsbWxxSC1PNEpRaVp0ZzdUaXZadWcyYjUxWlEyRXlXanJLdk5WaktvQ3ByejhvMi1leVFZdkVadTR4T19yNmN3M0drS09sXzJFaDE4b3U1ZEd4TGJjdVhoT29zNDRKamhEMDRIU2VQUHhndk52VW95VE9rTlphUzlQMUl3dw?oc=5",
-          "domain": "sheknows.com",
-          "name": "SheKnows",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "extra 25% off",
-          "quote": "Coach Outlet's Black Friday Sale Has Huge Savings on Over 800 Items — Here's How to Save an Extra 25%",
-          "quote_in": "title",
-          "published": "2026-11-18T19:00:00+00:00",
-          "seen": "2026-11-18"
-        },
-        {
-          "title": "Macy's Black Friday Women's Handbag Deals: Up to 72% off + free shipping w/ $39",
-          "url": "https://www.dealnews.com/Macys-Black-Friday-Womens-Handbag-Deals-Up-to-72-off-free-shipping-w-39/22409161.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 72% off",
-          "quote": "Macy's Black Friday Women's Handbag Deals: Up to 72% off + free shipping w/ $39",
-          "quote_in": "title",
-          "published": "2026-11-18T20:22:43+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "Coach Just Dropped Major Black Friday Savings on Fan-Favorite Empire, Kisslock & Coachtopia Bags - SheKnows",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1lOTTRSSW91Y2RjdHBhUnJweWhENE5ieWNqajF3ZjA0ZENWZ0NBX2ZCbjRjZWtORHktWVlickk4RzZZRmpvaDhra1ZPemNsSmpVcThJT0FyVmhWOHBqLVdFQ3E2SVU2MTVOUTFOalBIaHNPSm5FYTRlNmlKd0tsM3lMd0lteHJq?oc=5",
@@ -5907,6 +5944,36 @@
           "quote_in": "title",
           "published": "2026-11-24T14:16:13+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Coach Black Friday deals include bags up to 40% off and extra Outlet savings",
+          "url": "https://www.businessinsider.com/guides/deals/coach-black-friday-deals-2026-11-20",
+          "domain": "businessinsider.com",
+          "name": "Business Insider",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 40% off",
+          "quote": "Coach Black Friday deals include bags up to 40% off and extra Outlet savings",
+          "quote_in": "title",
+          "published": "2026-11-20T09:54:00+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Coach Outlet Black Friday 2026: What shoppers need to know before sales begin",
+          "url": "https://www.nj.com/shopping-deals/2026/09/coach-outlet-black-friday-2026-what-shoppers-need-to-know-before-sales-begin.html",
+          "domain": "nj.com",
+          "name": "NJ.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Coach Outlet Black Friday 2026: What shoppers need to know before sales begin",
+          "quote_in": "title",
+          "published": "2026-11-23T12:14:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -5914,7 +5981,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "coach-US-early_bf-2026",
@@ -7365,7 +7432,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday Dyson deals",
       "start": null,
       "end": "2026-11-30",
       "discount": "55% off",
@@ -7385,21 +7452,6 @@
           "quote_in": "excerpt",
           "published": "2026-11-09T12:27:00+00:00",
           "seen": "2026-11-09"
-        },
-        {
-          "title": "Save $330 on the Dyson V9 Motorbar vacuum during Black Friday sale - MLive.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPem15LUpnTmZYci1rNEpLalBJZUYtZXloc0xza1JEYmZyNFFjNWd4YldrSUZobUJwT2RjRmV2NXRjYWFDZzVvRGZpMmx0cGQ5Rk16X1JzT1BVenk4akV4WlplOW9uZ3p5TENEQUZDNzdBdWRyRFRsUmdpYTE5X1lhRFQzSVBpdkIxZk5IWDhPVWlUSjR3NHhLOUU2VnBiOFBndUJfUC1yTlhrdFYxbkE?oc=5",
-          "domain": "mlive.com",
-          "name": "MLive.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "$330",
-          "quote": "Save $330 on the Dyson V9 Motorbar vacuum during Black Friday sale",
-          "quote_in": "title",
-          "published": "2026-11-19T21:27:00+00:00",
-          "seen": "2026-11-20"
         },
         {
           "title": "Dyson Vacuums Are Already Half Off for Black Friday - House Beautiful",
@@ -7490,6 +7542,21 @@
           "quote_in": "title",
           "published": "2026-11-24T21:33:49+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Black Friday Dyson deals 2026: Save on the Dyson Airwrap - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxVWpiSXQzV3RCWjVTc3ZNSmNyZVVZbmw0VzRGWkhudFZReDMwbmkwSE9mWXU3SVdpR0NIS1R3QXFTWFQ3cUlPcWIzd2tad2QwV2VXWkNJZ1V3NFJhS1R6anNEaWl6Zlg2RFV5YUNTb2xGU3pV?oc=5",
+          "domain": "mashable.com",
+          "name": "Mashable",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday Dyson deals 2026: Save on the Dyson Airwrap",
+          "quote_in": "title",
+          "published": "2026-11-24T22:58:58+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -7498,7 +7565,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "dyson-US-early_bf-2026",
@@ -8751,21 +8818,6 @@
           "seen": "2026-11-21"
         },
         {
-          "title": "Milwaukee Black Friday Deals Start at $12.97 at Home Depot, Walmart, and Ace - BobVila.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Hc18ya3ozMXFUWmdNZk1uUVQtb1RLOHVnM0JzOUEtVFpJUDdhdmZ1N3VlR2lfb0ZHbVdQb3hDSTlfU25SUGprdzRiUDFCNVk3Yjh0N19NN05seFNwdU9OMjF2QmxrMVhNaWtzRWxaWVd5YzRS?oc=5",
-          "domain": "bobvila.com",
-          "name": "BobVila.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Milwaukee Black Friday Deals Start at $12.97 at Home Depot, Walmart, and Ace",
-          "quote_in": "title",
-          "published": "2026-11-24T14:55:21+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Black Friday deals from The Home Depot include mattresses, throw blankets, decor and more - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcG5tOFJDcTlsR2R6VTVsTUdHZVh1RWxMNURvc1RSVm9JWmhQMVZibWYtRUtlSnpSR20wcEpOc2dMYlJsd1FkaDRNRGhRSVd3Wlh0bndtazhaYkxBeUlZUDlWX0pUcFdKLTZDYlBnMXl5c0ZvVEJ3bmxvZzlHRWdpOHY4dVNwWUtYVTB1YUJPNzhUcmJIUFI1aC1KMEhyQklkUlAtZVQxaHgwNW84eFI2VXlnd19wVDJvaEZLT0N5REtiR1NwY1V1d3Boek1KNFhOSERBWk5nV09wajRuUVcxZTVVdmoyMFpQUVpnV3Z3?oc=5",
           "domain": "shopping.yahoo.com",
@@ -8809,6 +8861,21 @@
           "quote_in": "title",
           "published": "2026-11-24T21:06:19+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "The Home Depot's best Black Friday deals include free tools and batteries from Milwaukee, DEWALT, Rigid, and more - Popular Science",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTZpbUdybWdqMktEUW03SmpvYkdxWWtGbzVSd1hjd2RSbjZtb2FyQ3psd25tZ0stb0UwMHNaLUdvd192SEswZ1pqNXJYYXl1eDlUYVpYQXg1eEV0dnV5Y0dQMXpRWURvbXFMSXAtdW9waWpyU0RQeUZ3TUVaMXdHaGNOY2RzQQ?oc=5",
+          "domain": "popsci.com",
+          "name": "Popular Science",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The Home Depot's best Black Friday deals include free tools and batteries from Milwaukee, DEWALT, Rigid, and more",
+          "quote_in": "title",
+          "published": "2026-11-25T00:00:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -8817,7 +8884,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "homedepot-US-early_bf-2026",
@@ -9927,13 +9994,132 @@
       "updated": "2026-11-20T20:12:06+00:00"
     },
     {
+      "id": "lenovo-CA-black_friday-2026",
+      "brand_id": "lenovo",
+      "region": "CA",
+      "event_type": "black_friday",
+      "year": 2026,
+      "event_name": "Black Friday 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Lenovo Canada applique les réductions du Black Friday sur les portables, les tablettes, les PC de jeu et plus encore",
+          "url": "https://www.lelezard.com/communique-lenovo-canada-applique-les-reductions-du-black-friday-sur-les-portables-22453175.html",
+          "domain": "lelezard.com",
+          "name": "Le Lézard",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lenovo Canada aide les consommateurs et les entreprises à faire des achats technologiques en toute confiance en ce temps des fêtes, avec sa vente du Black Friday 2026.",
+          "quote_in": "summary",
+          "published": "2026-11-23T16:00:00+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Lenovo Canada dévoile ses offres Black Friday 2026 à partir du 26 novembre",
+          "url": "https://www.abcbourse.com/marches/lenovo-canada-devoile-ses-offres-black-friday-2026-a-partir-du-26-novembre_706626",
+          "domain": "abcbourse.com",
+          "name": "ABC Bourse",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lenovo Canada a annoncé le lancement de sa vente du Black Friday 2026 avec des offres à durée limitée sur des portables, ordinateurs de bureau, tablettes et accessoires. La campagne doit débuter le 26",
+          "quote_in": "excerpt",
+          "published": "2026-11-24T23:45:00+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
+    },
+    {
+      "id": "lenovo-CA-cyber_monday-2026",
+      "brand_id": "lenovo",
+      "region": "CA",
+      "event_type": "cyber_monday",
+      "year": 2026,
+      "event_name": "vente du Cyber Monday 2026",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Lenovo Canada dévoile ses offres du Cyber Monday, avec de nouvelles réductions sur les portables, les stations de travail et les accessoires",
+          "url": "https://www.lelezard.com/communique-lenovo-canada-devoile-ses-offres-du-cyber-monday-avec-de-nouvelles-reductions-sur-les-portables-22453176.html",
+          "domain": "lelezard.com",
+          "name": "Le Lézard",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lenovo Canada offre aux consommateurs plus d'occasions de trouver la bonne technologie grâce à sa vente du Cyber Monday 2026.",
+          "quote_in": "summary",
+          "published": "2026-11-23T16:00:00+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
+    },
+    {
+      "id": "lenovo-CA-other-2026-prixanticipedublackfriday",
+      "brand_id": "lenovo",
+      "region": "CA",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "prixanticipedublackfriday",
+      "sale_key_kind": "name",
+      "event_name": "prix anticipés du Black Friday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Lenovo Canada dévoile ses offres Black Friday 2026 à partir du 26 novembre",
+          "url": "https://www.abcbourse.com/marches/lenovo-canada-devoile-ses-offres-black-friday-2026-a-partir-du-26-novembre_706626",
+          "domain": "abcbourse.com",
+          "name": "ABC Bourse",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lenovo Canada annonce des « prix anticipés du Black Friday » disponibles dès maintenant et « jusqu’au 28 novembre »",
+          "quote_in": "excerpt",
+          "published": "2026-11-24T23:45:00+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
+    },
+    {
       "id": "lenovo-US-black_friday-2026",
       "brand_id": "lenovo",
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday sale",
-      "start": null,
+      "event_name": "2026 Black Friday Sale",
+      "start": "2026-11-26",
       "end": null,
       "discount": "up to 50% off",
       "status": "rumored",
@@ -10012,14 +10198,30 @@
           "quote_in": "summary",
           "published": "2026-11-23T22:37:02+00:00",
           "seen": "2026-11-23"
+        },
+        {
+          "title": "Lenovo Kicks Off Black Friday With Big Savings on Laptops, Tablets, Gaming PCs and More",
+          "url": "https://finance.yahoo.com/technology/articles/lenovo-kicks-off-black-friday-184400193.html",
+          "domain": "finance.yahoo.com",
+          "name": "Yahoo Finance",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-26",
+          "end": null,
+          "discount": null,
+          "quote": "The holiday shopping event features new doorbuster offers beginning November 27, along with select promotional pricing available starting November 26.",
+          "quote_in": "excerpt",
+          "published": "2026-11-24T10:45:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
         "event_name": 1,
-        "discount": 1
+        "discount": 1,
+        "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-23T23:50:52+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "lenovo-US-cyber_monday-2026",
@@ -10230,6 +10432,43 @@
       },
       "first_seen": "2026-11-03T14:08:43+00:00",
       "updated": "2026-11-24T22:23:51+00:00"
+    },
+    {
+      "id": "lenovo-US-other-2026-blackfridaypricing",
+      "brand_id": "lenovo",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "blackfridaypricing",
+      "sale_key_kind": "name",
+      "event_name": "Black Friday pricing",
+      "start": null,
+      "end": "2026-11-28",
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Lenovo Kicks Off Black Friday With Big Savings on Laptops, Tablets, Gaming PCs and More",
+          "url": "https://finance.yahoo.com/technology/articles/lenovo-kicks-off-black-friday-184400193.html",
+          "domain": "finance.yahoo.com",
+          "name": "Yahoo Finance",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": "2026-11-28",
+          "discount": null,
+          "quote": "Ahead of the main event, Lenovo is offering Black Friday pricing on select products through November 28",
+          "quote_in": "excerpt",
+          "published": "2026-11-24T10:45:00+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "end": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "lenovo-US-other-2026-holidayheadstart",
@@ -10886,27 +11125,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Lululemon Black Friday deals",
+      "event_name": "lululemon’s Black Friday Deals",
       "start": null,
       "end": null,
-      "discount": "up to 63% off",
+      "discount": "Up to 42%",
       "status": "rumored",
       "sources": [
-        {
-          "title": "The best Lululemon Black Friday finds include deep discounts on Align leggings, Scuba hoodies and belt bags - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ3lsRU5xUmlHOE5SaUdKcG9jNmhDdWZuV1JmZ0EwdzFUQVJMc1lIT0c1WUNBcXByQTF4Wm5yTkYwTU5KUUVUTDFVS0RydVdZd2dLcUhoT1dXWGVRYS1IZmtFaTNvdm4ybWRCeUFyTjFLbnhiUzJtdHE2Z0l5OE5UQkJMNzZzM3cxTkxqUzlnMGxXS1pVamVCZFB2Z1dub29Nd2FJVEJEZllEQU1ZX0lTZ0dnX2l0a2xpRUlDVjRXS1U0ckc3RTBmYzNlMXJLeGlPNDFGSHYxYmctN3YyckN0dnhYX0VjUUVMUTdvaWRWQW1MaHQyZ0wtbDFJNTR1eHhWRXk0ZG9kbw?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The best Lululemon Black Friday finds include deep discounts on Align leggings, Scuba hoodies and belt bags",
-          "quote_in": "title",
-          "published": "2026-11-21T13:14:05+00:00",
-          "seen": "2026-11-21"
-        },
         {
           "title": "Lululemon Black Friday Deals Include Align Leggings for Just $59 - SSBCrack",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1lJM20wdzI4M1NpWThCQTZITTlrN3VOQUdrSTlXdUFUbHg1eWdQTmUxMm9Za3FHVWFMb0lQRFJHdjhNZmo3Y3BOWTI0WEc2VTVIMTB6Q0cyS1M0S0hMVUIxclpkdUVVUWdfSVpQa2FUX3Y4MFI4Q1BWS0pGUE1jOW13XzNOTXdLUVRvYjg2UmJ4ZGt5?oc=5",
@@ -11011,6 +11235,21 @@
           "quote_in": "summary",
           "published": "2026-11-24T09:24:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "lululemon’s Black Friday Deals Are Already Selling Out—Save Up to 42% on Favorites - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9teE5xM1BHcl8tcktJQUppVEd3YXhkc3g4aWZBZi1kaGttT0tCNHJzU3AwVHFSc25iT0lWT25IR2VKZ3FSY2YxX1BYMThpUjhLN1VuSzRVZ3NsblpOcGdnUWFWXzZkTEZwbDZxa2phZjhyaE5GVW1qM0FTVE9MQQ?oc=5",
+          "domain": "aol.com",
+          "name": "AOL.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 42%",
+          "quote": "lululemon’s Black Friday Deals Are Already Selling Out—Save Up to 42% on Favorites",
+          "quote_in": "title",
+          "published": "2026-11-24T20:18:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -11018,7 +11257,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "lululemon-US-cyber_monday-2026",
@@ -11060,27 +11299,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday Deals on Activewear",
+      "event_name": "Early Black Friday Deals",
       "start": null,
       "end": null,
-      "discount": "Up To 60% off",
+      "discount": "up to 60% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Lululemon’s Black Friday Sale Started Early, and It’s Stacked - Esquire",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGtYTFVXUzZ5LWNhOUtsWFBYdW9uMnQ0cEFvOC1GTzlrc292bzZSU3BpcUtwWFVFQXgwTnBzUVZnZ2RHT0dqZDlXQmwzeWQ0bzlQUXNyMkJwQWVQRk9uTFk0X0dYLUJIdXFCeG9EOUNtak52cU1HN2pOMjZOWnd4akJyY2xRRkRBcmcwWGJWZw?oc=5",
-          "domain": "esquire.com",
-          "name": "Esquire",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Lululemon’s Black Friday Sale Started Early",
-          "quote_in": "title",
-          "published": "2026-11-19T16:30:00+00:00",
-          "seen": "2026-11-19"
-        },
         {
           "title": "I test workout gear for a living. These are the 21 best Lululemon early Black Friday deals - CNN",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2U3clRJNjNNZ3BCUGdGaWhiUXVlNjg3UzFPRHc1eFdRNVJ0aHZ5WlVod3lWMDVFZzg2QjdxekhoSXhuOWtJdnd0a050elZiQjljck1XalNYSFJpMVl2aExGc2Fmc1lIQloxQU4zQ0pLbFI1ZVRxR2RjbHI4UzZBRjVJYlZYWFk?oc=5",
@@ -11185,6 +11409,21 @@
           "quote_in": "title",
           "published": "2026-11-23T15:24:06+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Top Early Black Friday Deals on Activewear for Winter: Up To 60% off Alo Yoga, Lululemon, Vuori, Athleta - E! News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzJFRS0tUnNENTdFSlZnWDFONlhUczJHSzBpXzhRb0xhaElua1ZrTm1CcVdXeGxsWk8tZ2djcU5ZVFF2c2ljOUgwQm1ZWG9JSjgwQURVNkllX2cya0ZQdEhCZi1UMi1sMHRVQ1pxSE5ZQ3JHRW1vbGFISTJwSjd0c3ZtTk4zQmFObzFUa2FuLTNNSlA0Njh2alpPRW1FWVNBR3E4cEVvSWM?oc=5",
+          "domain": "de.eonline.com",
+          "name": "E! News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 60% off",
+          "quote": "Top Early Black Friday Deals on Activewear for Winter: Up To 60% off Alo Yoga, Lululemon, Vuori, Athleta",
+          "quote_in": "title",
+          "published": "2026-11-23T16:29:10+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -11192,7 +11431,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-06T19:22:34+00:00",
-      "updated": "2026-11-24T09:51:31+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "lululemon-US-other-2026-madetoomuch",
@@ -11376,10 +11615,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Xbox Black Friday 2026 Sale",
+      "event_name": "Xbox Black Friday Sale 2026",
       "start": "2026-11-19",
       "end": "2026-12-03",
-      "discount": "Up to 80% off",
+      "discount": "Up to 90% Off",
       "status": "rumored",
       "sources": [
         {
@@ -11398,21 +11637,6 @@
           "seen": "2026-11-03"
         },
         {
-          "title": "Microsoft’s cheapest Surface Pro is even more budget-friendly for Black Friday - Trusted Reviews",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjBqYkhEM1VMalhMRElvNjFkVktrLU1TcDZrV185dXRJZVl5RktUUS14VUxTRHhFVWQwaUliS3RkdDNqTHlqQnVYNnduVW5vd2Y3UC1fQWl6THdxYjEwa1BXQUtGSndFRGd2M3RiT29yZUp1UUF0Z09tcVU2ZzZWQU94eF83eWJteXFiMDk1bldEeENxNktIQzRLTGZFMlJWYTllLU5yQ1A5RGJJZjBNdk02NHJ2czBqZVpJak5R?oc=5",
-          "domain": "trustedreviews.com",
-          "name": "Trusted Reviews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Microsoft’s cheapest Surface Pro is even more budget-friendly for Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-16T11:34:31+00:00",
-          "seen": "2026-11-16"
-        },
-        {
           "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More! - XBOX Wire",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVjQzM1V4Z1RZMlptSVctQndUR05nVllfRnhhZjlYYzRTMjZ4RS0yeTVfOGRKU29mMDNBNzQxdlVIS1AzOFJqQTcxanVteDVaV3d0eTd0TnEya1pPN3JTRUxzNmdqUmV5RHpFVGFXaW5ZWHB6YnfSAXtBVV95cUxQVzhqMjJZNVNJZzlzaDQzSDVoeld0VFU1UDV1VjVraHBxaEgxaWZ2ZV9yMkNCVHRmakUtQWNtSkp0VFNlaWRYUHpiVF9jLWU1M1JXQUoxMUYwTElFQWFJMVhkdWNkN29TNmI0VDNoZ0YyOV9KcDViYWNhcUk?oc=5",
           "domain": "news.xbox.com",
@@ -11425,21 +11649,6 @@
           "quote": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
           "quote_in": "title",
           "published": "2026-11-17T00:01:29+00:00",
-          "seen": "2026-11-17"
-        },
-        {
-          "title": "Microsoft has announced a major Black Friday sale for Xbox and PC. - GameGPU",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTNBX0hDMzRzQkNXUG0yQ2tIbjZVUnctSXlCYk1mN0hsbmJ1dEUyaGtHQ2xCUXlLRE1sV1hUUF9RX1Vnc19UMUliWDBRTHYybDJwc0dsQzREcFdvemV5Qnpwek8zY0p3M0xEV29kZ2NZVk5ZZ255Y2FGV3lqMWdZWndDYmcteHdETjdtSF92VlFsS0twMW13ajRZLUN1ZjRBcEpYWmlwUzBOV0h6WnhJWDhXUzd6QjBCWXgzZg?oc=5",
-          "domain": "en.gamegpu.com",
-          "name": "GameGPU",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Microsoft has announced a major Black Friday sale for Xbox and PC.",
-          "quote_in": "title",
-          "published": "2026-11-17T18:53:33+00:00",
           "seen": "2026-11-17"
         },
         {
@@ -11501,6 +11710,36 @@
           "quote_in": "title",
           "published": "2026-11-21T17:47:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Xbox Black Friday Sale Is Live With Up to 90% Off Games, Here Are 100 Deals Worth Checking Out - TwistedVoxel",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40c3dQNlRoWGxfWEpBTkVNVWsxUlE0R2p2ZFZyY1E3SlNrS0ZDcjFvTzhGWUFhazNDeE9LNDk3UmFvc21xWjY5TUpYUFoyUnlfX1IwcUNkQ2ZmNlVmZ0xSVUdBNm1oeEpWT2tLUUExZ1lsbXQ0QURPUjYzdWVfZw?oc=5",
+          "domain": "twistedvoxel.com",
+          "name": "TwistedVoxel",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 90% off",
+          "quote": "Xbox Black Friday Sale Is Live With Up to 90% Off Games",
+          "quote_in": "title",
+          "published": "2026-11-20T17:12:28+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Xbox Black Friday Sale 2026 Is Live: Up to 90% Off Games - EGW.News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmhibGhmRFBjcTBXbnRRXzQxbmRGVHExSGtYUTQ3ZllpMll1NUs0WDJRSnFqU2FPdkhGUXliMVJJWUZkVjdSLWxacDhwZmhsTzRDX1VZSTBvUXFTRS04ZjQ5TTJuRXM2N29lVkpiYVlZSWd1Ykl2Z3h2bERLQVVGSHRlZVJmVldibVpxazhwWFRxU2NBdV9JOFRRSQ?oc=5",
+          "domain": "egw.news",
+          "name": "EGW.News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 90% Off",
+          "quote": "Xbox Black Friday Sale 2026 Is Live: Up to 90% Off Games",
+          "quote_in": "title",
+          "published": "2026-11-21T13:18:50+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -11510,7 +11749,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T09:51:31+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "microsoft-US-cyber_week-2026",
@@ -11822,7 +12061,7 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Nike early Black Friday",
+      "event_name": "early Black Friday sale",
       "start": null,
       "end": null,
       "discount": "up to 54% off",
@@ -11872,21 +12111,6 @@
           "quote_in": "summary",
           "published": "2026-11-18T01:04:35+00:00",
           "seen": "2026-11-18"
-        },
-        {
-          "title": "Nike’s Early Black Friday Sale Is On - Valet Mag",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlotQ1Z4cjNJUnlkTTZjcDRoSHRUcUVKUjZSQjQ2SzBiMDJ2VTVKWnhVblBHU3ExMlF5UG1PelZpQjhMQk8wTFZSYUktN0NJNlRFZl9TUjZ5QWFab1BGNTRrZXNjOWl2U1hnQS1qeFMxRWlCS0pwbkQwd3FsaEw2cUxJTXBhX0U?oc=5",
-          "domain": "valetmag.com",
-          "name": "Valet Mag",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Nike’s Early Black Friday Sale Is On",
-          "quote_in": "title",
-          "published": "2026-11-17T05:02:00+00:00",
-          "seen": "2026-11-19"
         },
         {
           "title": "I handpicked the best early Nike Black Friday deals from $18: Pegasus 42, Pullover Fleece Hoodie and more - Tom's Guide",
@@ -11947,6 +12171,21 @@
           "quote_in": "title",
           "published": "2026-11-21T13:15:00+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Nike kicks off early Black Friday sale with up to 54% off 154 Air Max styles - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXdkSTltZFZvelI1VVIzcVNTYnlOMzFPSGFDR0VQM3lYUkhkNFlleXpWbUxxSU9qeVBxQjNCNEV4N0ZNZF9jQnFqdk5PbW9pZk1IelJ0ZU1LaTNCYy1lRUNsV2todHFpaDBuYlVYQUVRWGp4X0pUR29rSWk0d1FacW5SMnR4U3R5bzJoUzBOVTVlbTQ?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 54% off",
+          "quote": "Nike kicks off early Black Friday sale with up to 54% off 154 Air Max styles",
+          "quote_in": "title",
+          "published": "2026-11-23T20:37:33+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -11954,7 +12193,43 @@
         "discount": 1
       },
       "first_seen": "2026-11-17T07:51:37+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
+    },
+    {
+      "id": "nike-US-other-2026-blackfridayactivewear",
+      "brand_id": "nike",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "blackfridayactivewear",
+      "sale_key_kind": "name",
+      "event_name": "Black 2026 Friday Activewear Deals",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "The Best Black 2026 Friday Activewear Deals: Alo, Vuori, Nike & More - Athletech News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Qzcxcnl1SEhxMlVnZ0RwZzAzNEZianhXVEFnMk85QzBMNUV6NlBudExkcjFsdlFFaVg0TlB0TmhtbGt0aFlteV9PVjU3bHg5Rmd1U1k3OVVueklYZnBJWmdkOFp6V1Q0dzRmWWlsNTNhN3RHOFJHV1RJaDFteWM?oc=5",
+          "domain": "athletechnews.com",
+          "name": "Athletech News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The Best Black 2026 Friday Activewear Deals: Alo, Vuori, Nike & More",
+          "quote_in": "title",
+          "published": "2026-11-24T20:09:14+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "nike-US-other-2026-earlybf",
@@ -12236,36 +12511,6 @@
           "seen": "2026-11-24"
         },
         {
-          "title": "Nunn Bush Men's Royce Plain Toe Oxford for $45 + free shipping w/ $89",
-          "url": "https://www.dealnews.com/Nunn-Bush-Mens-Royce-Plain-Toe-Oxford-for-45-free-shipping-w-89/22428599.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "47% off",
-          "quote": "As part of the Nordstrom Rack Black Friday deals, this Nunn Bush Royce oxford is $44.97. That's 47% off and the lowest price we found.",
-          "quote_in": "summary",
-          "published": "2026-11-24T21:22:42+00:00",
-          "seen": "2026-11-24"
-        },
-        {
-          "title": "Nordstrom Rack Black Friday Men's Clothing Sale: Up to 70% off + free shipping w/ $89",
-          "url": "https://www.dealnews.com/Nordstrom-Rack-Black-Friday-Mens-Clothing-Sale-Up-to-70-off-free-shipping-w-89/22428621.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 70% off",
-          "quote": "Nordstrom Rack Black Friday Men's Clothing Sale: Up to 70% off + free shipping w/ $89",
-          "quote_in": "title",
-          "published": "2026-11-24T21:38:01+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Calvin Klein Men's Mixed Media Hooded Puffer Jacket for $70 + free shipping w/ $89",
           "url": "https://www.dealnews.com/Calvin-Klein-Mens-Mixed-Media-Hooded-Puffer-Jacket-for-70-free-shipping-w-89/22428640.html?iref=rss",
           "domain": "dealnews.com",
@@ -12279,6 +12524,36 @@
           "quote_in": "summary",
           "published": "2026-11-24T21:49:59+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Nordstrom's Black Friday Sale Is a Power Play for Retail Supremacy",
+          "url": "https://www.gq.com/story/nordstrom-black-friday-sale-11-24-2026",
+          "domain": "gq.com",
+          "name": "GQ",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "This year in the US, Black Friday is on Friday, November 27, which is a day after Thanksgiving.",
+          "quote_in": "summary",
+          "published": "2026-11-24T15:00:00+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Nordstrom Boldly Makes Its Case for Black Friday Sale Supremacy - GQ",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40MXpzZFVtemlTS1QySmVBZFVLcDk0alRXUkxMSXJqTlI0RWRDYnlfUU5ibWdPdzZENWJ2NVowRFFTLVpYSkVBX1NrbkdpQzZFV2lzU3dlYmNYRXZYMkZHSFdnSXZUbGI4aVVGQVRFYTE?oc=5",
+          "domain": "gq.com",
+          "name": "GQ",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Nordstrom Boldly Makes Its Case for Black Friday Sale Supremacy",
+          "quote_in": "title",
+          "published": "2026-11-24T23:00:30+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -12288,7 +12563,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "nordstrom-US-cyber_week-2026",
@@ -13000,57 +13275,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "early Black Friday sale",
+      "event_name": "early Black Friday TV deals",
       "start": null,
       "end": null,
-      "discount": "up to $1,500",
+      "discount": "up to $4,000",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Samsung early Black Friday now live: Fold 8/Ultra $350 off, S26 Ultra $450 off, more - 9to5Toys",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFFtelY3RFBQVWdRZWpHSVU5anI4bUx6NXVURXhjRjdoWFh5aGZzTWwyVWZrSV90dGtnT3R1Q1o2Zy1jRkVRUjViaEhzaVZFbnk2cGxwaGFIMloxWUozQW0wdXJtc19KcHRVRVdOcTZoSXdzc0o4bHlxc3p0VmJ0VVg1MA?oc=5",
-          "domain": "9to5toys.com",
-          "name": "9to5Toys",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Samsung early Black Friday now live: Fold 8/Ultra $350 off, S26 Ultra $450 off, more",
-          "quote_in": "title",
-          "published": "2026-11-17T15:12:00+00:00",
-          "seen": "2026-11-17"
-        },
-        {
-          "title": "I sorted the early Black Friday Samsung phone deals so you don’t have to. Here are the best ones. - Digital Trends",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUN0b3M0TWtUdmFwVXVMYl9KQkIzTVlUdk85QmVwWEVFcGhtOTlPR3JrbWVWeGtqSGY4ZDVYSFFQakZuZEZRSlU4bFhUSlk0R1VyNktNRHM1R0NJaHZqSXRjY2l0Z090UWc5bUs1RUdNbjZrdnY5VlNiRVJkV1FJSUNjWkpjcUJOQnhIWjFJa294c0tSQW9ySGt4dXptMHkzT3VXa1FRX1FHckE2R013dXpQdG5xZjJ0MnY2c3gzcHFlZ2RlMlpRaHcxdEc?oc=5",
-          "domain": "digitaltrends.com",
-          "name": "Digital Trends",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "I sorted the early Black Friday Samsung phone deals so you don’t have to.",
-          "quote_in": "title",
-          "published": "2026-11-17T20:54:21+00:00",
-          "seen": "2026-11-18"
-        },
-        {
-          "title": "Samsung Galaxy Tab S10 FE now down to its lowest price in Early Black Friday deal - Neowin",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFNjVGJCV1lXTnpFQWQ5RC1KRk5JUUxkOVdvbVZpN1pJWUNmY2RLNUlNQUsxdzY4OUg4NDBBelFaMEp1Mk9OdkM4OEdwTUZlbUlMWTc5TDRuQno1TmdnLWRtVXpicDhnWGVMQmZ5RFRDT2hXd1N0aWVDajQyRkdEZTNlZHJJMHNhSjhTdDljZEZkY1pCaDNtakE5QXdId1BmR240R3FZdy1LZzJxN2hDVQ?oc=5",
-          "domain": "neowin.net",
-          "name": "Neowin",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Samsung Galaxy Tab S10 FE now down to its lowest price in Early Black Friday deal",
-          "quote_in": "title",
-          "published": "2026-11-17T21:19:32+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "These early Samsung Black Friday deals make upgrading your TV, tablet, or laptop a whole lot sweeter - Digital Trends",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNnBtVzBtWDdSQ3NXZ29wNzFNQlVHbUo2R1RqWFdUR1dzeXBSbWlnMGN0SlZjMkF4U1BaQ0RhaV9OMHBYeUpjekNjUWV1cm85TW1EZ2ozOWd4RG5mX1BPLXpXLU5wTFZiVU5vWkxTeko1dFYwOVFxcDRlN2tDRGJpRjh2MzBTemQ3eEJzN3pIWlRRQ0JfUHNLVHZSU01fb1prUWJPa3hXNkZJRXNocDdQVE5DM1UxMWRqY1Mtb1l5bVN6UVU5?oc=5",
@@ -13125,6 +13355,51 @@
           "quote_in": "summary",
           "published": "2026-11-24T12:00:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Best early Black Friday 2026 Samsung deals: TVs, phones, tablets, and more",
+          "url": "https://www.zdnet.com/tech/nov-24-best-early-black-friday-samsung-deals-2026/",
+          "domain": "zdnet.com",
+          "name": "ZDNET",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $400 off",
+          "quote": "Save up to $400 on early Black Friday 2026 Samsung deals",
+          "quote_in": "summary",
+          "published": "2026-11-24T07:02:00+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "Early Black Friday Smartphone Deals: Save Up to $350 on Top Samsung and Motorola Models - PCMag",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFJvR0hobU1yMHFMaVpmUTRJM1hQWFlRUGUtLWttYW5ScVNiNDNKbUpqVGNsaEtSNDhQeE05eGhkT19rMVM2RFpTMzNIaU9QR19kUlNtaEJpbkVrMFBGX1FXbDZjMzUwTkI2WUtmQXVyeG0ycU9lS3NnM0JwbVFjbW1DamtOX2R6eUJxa2FObnJiVnlhRkdOejV5WU9ORUU?oc=5",
+          "domain": "pcmag.com",
+          "name": "PCMag",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $350",
+          "quote": "Early Black Friday Smartphone Deals: Save Up to $350 on Top Samsung and Motorola Models",
+          "quote_in": "title",
+          "published": "2026-11-24T17:39:10+00:00",
+          "seen": "2026-11-25"
+        },
+        {
+          "title": "These early Black Friday TV deals can save you up to $4,000: Shop LG, Samsung, Hisense, and more - ZDNET",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU3Q4YTVSUVoyRThENEVJSEVmUnhmQlFYdGljZUdPeDJZWWJwYVltOFVodzNVT3F3SjZSZFU5bUhyZVRaNmcxVzZRZ2dRNXlaR09sdktjbWJxNzJVcnNCTFJGNzhPNTVSSjhnYVZGSkduWVBBSXJfU3laVzBySU80ZE1rUTVzRy1nU244?oc=5",
+          "domain": "zdnet.com",
+          "name": "ZDNET",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $4,000",
+          "quote": "These early Black Friday TV deals can save you up to $4,000: Shop LG, Samsung, Hisense, and more",
+          "quote_in": "title",
+          "published": "2026-11-25T01:00:06+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -13132,7 +13407,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "samsung-US-other-2026-blackfriday",
@@ -14271,7 +14546,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday savings",
       "start": null,
       "end": null,
       "discount": "up to 50%",
@@ -14336,6 +14611,21 @@
           "quote_in": "title",
           "published": "2026-11-20T22:03:00+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Ninja is cooking up some huge Black Friday savings — here are 5 kitchen appliance deals worth grabbing - TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaERLTkRfSnJTcUhVYjUzQ1JoT3JsSDdDZGJibjZzM2lxWXlyZ0xFcnJ4bWJCRWwxOUdiTmVHN19QSjRQYTQxYlU2d0hFcTlWc2dzYW5welZZZXo5UlVyZlBZMXlyckNSMmNZNjhwejA1VHpYTGFxUUdVRXhGNno0N3N1Rmc4X2ZfSldxTmJDQ3EtYlEyMkpSVXJoVEUwM1hxRjFiUFZJQVF4SkR5bHNKSkNvVnBmMUJJMXp1THhKQWRweFpTV2dfRVoxTG8tSjl1NHdTRElNa3ZmbHhpblVpX1FR?oc=5",
+          "domain": "techradar.com",
+          "name": "TechRadar",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Ninja is cooking up some huge Black Friday savings",
+          "quote_in": "title",
+          "published": "2026-11-25T06:13:21+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -14343,7 +14633,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-09T06:21:28+00:00",
-      "updated": "2026-11-21T07:02:09+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "sharkninja-US-early_bf-2026",
@@ -15831,7 +16121,7 @@
       "event_name": "REI Black Friday jacket deals",
       "start": null,
       "end": "2026-11-27",
-      "discount": "up to 39%",
+      "discount": "up to 52%",
       "status": "rumored",
       "sources": [
         {
@@ -15923,6 +16213,21 @@
           "quote_in": "title",
           "published": "2026-11-24T00:49:17+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "13 REI Black Friday jacket deals — save up to 52% on The North Face, Patagonia, Arc’teryx, Columbia, and more - Tom's Guide",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2NraGNTbl81YW1MUWJkNGZyMUJ5OU1PN2dJTWxLYUVpbGhrQXp3ZlVqb3h6WU41Tml6VWJFNzhvQ09YbHZhSWt0MkZTS0hjMW1Uc3VHRmNFYkh3My04VV9nR1d0Y3FOX3Bzd1R3dDV1c0FLS0luUEVnS0NJOWhBdVFhX0gzWjJQN0VlMjJ1N0pKS19LRkc0RXhabDFjbTZ3Z3VNSlo0aEYxemdHLUc1cnlCdmswUzBHSXd3QW80WWJNSjV6ME04SjE0b1BENjlGOVlGa0VDbHEwSm9LbkZFbk90bG9rTzQ?oc=5",
+          "domain": "tomsguide.com",
+          "name": "Tom's Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 52%",
+          "quote": "13 REI Black Friday jacket deals — save up to 52% on The North Face, Patagonia, Arc’teryx, Columbia, and more",
+          "quote_in": "title",
+          "published": "2026-11-25T01:14:09+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -15931,7 +16236,7 @@
         "end": 1
       },
       "first_seen": "2026-11-18T20:28:47+00:00",
-      "updated": "2026-11-24T09:51:31+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "thenorthface-US-early_bf-2026",
@@ -16100,6 +16405,44 @@
       },
       "first_seen": "2026-11-18T20:28:47+00:00",
       "updated": "2026-11-18T20:28:47+00:00"
+    },
+    {
+      "id": "thenorthface-US-other-2026-blackfridayeve",
+      "brand_id": "thenorthface",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "blackfridayeve",
+      "sale_key_kind": "name",
+      "event_name": "Black Friday Eve Deals",
+      "start": null,
+      "end": "2026-11-25",
+      "discount": "extra 20% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Steep & Cheap Black Friday Eve Deals: Up to 75% off + free shipping on many items",
+          "url": "https://www.dealnews.com/Steep-Cheap-Black-Friday-Eve-Deals-Up-to-75-off-free-shipping-on-many-items/22428725.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": "2026-11-25",
+          "discount": "extra 20% off",
+          "quote": "Select items also get an extra 20% off through November 25.",
+          "quote_in": "summary",
+          "published": "2026-11-25T01:28:11+00:00",
+          "seen": "2026-11-25"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1,
+        "end": 1
+      },
+      "first_seen": "2026-11-25T08:27:48+00:00",
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "thenorthface-US-other-2026-fleecejacketatebay",
@@ -18308,7 +18651,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday Deals",
+      "event_name": "Wayfair’s Black Friday Sale",
       "start": null,
       "end": null,
       "discount": "up to 80% off",
@@ -18328,21 +18671,6 @@
           "quote_in": "title",
           "published": "2026-11-20T11:10:00+00:00",
           "seen": "2026-11-20"
-        },
-        {
-          "title": "Wayfair Dropped Tons of Black Friday Home Deals — See Our Top 10 Picks - Apartment Therapy",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DM3poQUhBWG1QSlBXV1V1cXl4eUJQVlJMOHJ2NUV5dkVTVlU3M0FaS1FnNmNoMVVqY3lGaVVubWpfYkdLOGRBUERHNlBIMzJOOC0xVVltQUE3eHZXT0F6aDJJTEhVR3dJUG8tTzFrT25lMnRiTGhTMHFVS08?oc=5",
-          "domain": "apartmenttherapy.com",
-          "name": "Apartment Therapy",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Wayfair Dropped Tons of Black Friday Home Deals",
-          "quote_in": "title",
-          "published": "2026-11-20T04:10:32+00:00",
-          "seen": "2026-11-21"
         },
         {
           "title": "Wayfair Dropped Tons of Black Friday Home Deals — See Our Top 10 Picks - Yahoo",
@@ -18433,6 +18761,21 @@
           "quote_in": "title",
           "published": "2026-11-24T18:11:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Deeply Discounted Wool Rugs at Wayfair’s Black Friday Sale - New York Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlUtcmYtaWNsSzZ3Umt4RXNKRDdyWWhvZC1YLXliWXdSWVRYeUZHUkR0eTA3US01b29aUEFzWktQT3c4blNGTXY1OFRsR2MxamNpTEhDM09wWFljVkZDY1E2R3hUZV83TXFvV2ZOWDczOUl3TVVCWmRzNTJ2RkxQeXZUMl9CU3FxZ3RQNGhDTzZ6SlpuZVE?oc=5",
+          "domain": "nymag.com",
+          "name": "New York Magazine",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Deeply Discounted Wool Rugs at Wayfair’s Black Friday Sale",
+          "quote_in": "title",
+          "published": "2026-11-25T05:00:00+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -18440,7 +18783,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "wayfair-US-cyber_week-2026",
@@ -18482,27 +18825,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Wayfair’s early Black Friday deals",
+      "event_name": "early Black Friday deals",
       "start": null,
       "end": null,
       "discount": "up to 60% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "The 40+ Best Early Black Friday Deals: Save At Alo, Wayfair And More - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2dJcmowNWhGUWYxX0JKUnJJaXpvdm1FT2RwSlVYSE14UzRXNFlyYVpMTDFvTHdQMEt1cVZXYWcyNHpQOEFaRlVwT2ljV0FoZDBMcUJRMUtBb0JBcFNUNDB3QUs3SjBLZmM3bW5YS1dXVzFUMEp1Q2FfS0VLdEFhQzRxOVpXLVlTNDg0?oc=5",
-          "domain": "forbes.com",
-          "name": "Forbes",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The 40+ Best Early Black Friday Deals: Save At Alo, Wayfair And More",
-          "quote_in": "title",
-          "published": "2026-10-27T01:08:00+00:00",
-          "seen": "2026-11-03"
-        },
         {
           "title": "14 Early Black Friday Deals Already Up to 50% Off, From Ulta to Wayfair - Popsugar",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52b3dZMmNYTnJnSW9wMEhpVkppYnhyMl9DMU8wWnh1LTEzSXUzeGtXNnAxRS16TmJITUlnY1N0ODRYaFhUZFJNNlZWX2g0R3JrZnZiOURhZTUwNm0xZU1ObEtLMDl2b3oyVzBqc29hX0JkdmRsVEE?oc=5",
@@ -18607,6 +18935,21 @@
           "quote_in": "title",
           "published": "2026-11-16T17:05:55+00:00",
           "seen": "2026-11-23"
+        },
+        {
+          "title": "Wayfair’s early Black Friday deals: Outdoor holiday decor up to 60% off - CW39 Houston",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaklfdWFpcjBfLVZjQmJna1NWUWlBREthcFRRUkN0WDRsLXNKZmVQRGdCSHNBbTR2bF9OYmpzZHhfT2YxUHg1YnVJb1hXRTlMbjJGbFRwYk1JakxfSTJiSTFsTDhDSmFJQjFyaUdJcDltVnJCdlFlWDZXUVBFNGtEWFZlbzFmX0hzUVhZXzZwbmtuNW5qcVHSAZsBQVVfeXFMTUxIbnlGOWt2X3JpUHl6TFFkQVhSS3M0NnQ4TGpBUzcwTmNqMEdxSVRlMHJaUVE0MlBod21Ha3ZlMXdPYlVNTzNXY2g3NFh2UTdSQk1XS3pYUlhWWW0xVUI2OHgwU3dWNjBMSkhLZU5fYmtPTkNDVGZfSFowdl9RM2YyaENDWm9yTXVocWZQdmhmSzlBcWktMlpCajQ?oc=5",
+          "domain": "cw39.com",
+          "name": "CW39 Houston",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 60% off",
+          "quote": "Wayfair’s early Black Friday deals: Outdoor holiday decor up to 60% off",
+          "quote_in": "title",
+          "published": "2026-11-16T17:05:55+00:00",
+          "seen": "2026-11-25"
         }
       ],
       "field_levels": {
@@ -18614,7 +18957,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-23T07:32:16+00:00"
+      "updated": "2026-11-25T08:27:48+00:00"
     },
     {
       "id": "wayfair-US-other-2026-biggest",
