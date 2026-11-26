@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T21:39:17+00:00",
+  "updated": "2026-11-26T08:12:36+00:00",
   "events": [
     {
       "id": "abercrombie-US-black_friday-2026",
@@ -7,27 +7,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday Sales",
       "start": null,
       "end": null,
       "discount": "up to 65% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Get up to 65% off during Abercrombie & Fitch’s Black Friday sale with this stackable promo code - NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDVtNVFxdmk2MDFzb29JSmNva2lwcFFwVTZpcW5yU1cwXzNXYk5FeXE0Q3pRT2tsZnI2STdXdjBQS3JjUEZqMlJScGZvUzJfemgwQjBRMWtGYlNZd2toMlZiYkRJNmJwTUF2SHFNU05LZXk4Q0VYRXBITlNUbmYtdFdxcFpxd1pDc1piME43RmZITlhUU2RQQ1djbUNOU2FsU0JBellMVnpQR3puNVBFMFMtM1RfUV84YlJidWttZHViMzFjWkNlUHdSMDJDOVV5bXRiS1l1aEtZMS1RZ3c?oc=5",
-          "domain": "newsbreak.com",
-          "name": "NewsBreak: Local News & Alerts",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 65% off",
-          "quote": "Get up to 65% off during Abercrombie & Fitch’s Black Friday sale with this stackable promo code",
-          "quote_in": "title",
-          "published": "2026-11-23T14:30:36+00:00",
-          "seen": "2026-11-23"
-        },
         {
           "title": "Get up to 65% off during Abercrombie & Fitch’s Black Friday sale with this stackable promo code - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFhxS2xyWFJvLVhieEhLTFl0ZnhCZmJFVE9JMUd1bmhGVFlnYlBVNG1Qb1NodXRSUFp5d3g4bDVJbkhjVlEzTzR4dnRXOG1BVDYyUU93ODlIUkxsaldsVVN0bVczWjRIMUJwaVpVTjVKM0Jic3NHRldnMTROQ2xMT0UtQkNocnU2Wk0tcDVESF85aXE5NE9KRGVGM2VxUQ?oc=5",
@@ -132,6 +117,21 @@
           "quote_in": "title",
           "published": "2026-11-25T16:30:49+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "From Abercrombie to Zappos, These Are the Best Black Friday Sales to Shop Right Now - Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzA2Q2VKYlJqUkhJR3BlSG1DSEUwcmpULVhKcEpLZERJUjFXODRWVUFWUFM0OGNtWjRydjA4OEhSSkMtS0kzRWZacjh5SndiWURVOVRUbXBRTmJySUp4d2lJUVhGRWZCZE9wWURPaXd1bkg2VDg3RFNIa2RPcmxqRTdYbEk0TjNFdXdYdzlBaXJyNjN2dDJCRno3cmxnMm5NV3ZRdVc1SkNmRjlSZWRJSXR3NUZRYU1rQkcxZjg2OFhtTTU1U0tj?oc=5",
+          "domain": "rollingstone.com",
+          "name": "Rolling Stone",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "From Abercrombie to Zappos, These Are the Best Black Friday Sales to Shop Right Now",
+          "quote_in": "title",
+          "published": "2026-11-26T00:42:54+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -139,7 +139,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "abercrombie-US-early_bf-2026",
@@ -869,21 +869,6 @@
           "seen": "2026-11-24"
         },
         {
-          "title": "Amazon Canada Highlights 85 Black Friday Deals for 2026 - SuaraGarut.ID",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUNtVVBHMkVxYmtESnpodmQ5NWhYanBPUnJsN1ZyUElHV01ObFVrdXhoUjI4WnBFNkNsdS1fWW9tQWhxT0t0ckdzSkhsS1F4NGFyajB0NHRvMng4dlFiWU9TU0xUdnBVOFRRcENCa0o1MTQ1bDNUdEZNV1BtVVhyZTdYSTNWejQ?oc=5",
-          "domain": "suaragarut.id",
-          "name": "SuaraGarut.ID",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Amazon Canada Highlights 85 Black Friday Deals for 2026",
-          "quote_in": "title",
-          "published": "2026-11-25T11:37:22+00:00",
-          "seen": "2026-11-25"
-        },
-        {
           "title": "Liquid I.V. Black Friday Deals: 30% Off at Amazon Canada - iPhone in Canada",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWENsNHJncDVra2RUdnZnRVdTc1Y1OTZWeWFlWHA1djdja2k5WHFGQnFTU0hnSWo2ZDVWQ2Q3MEo4VjR6NVFFVVcxSEgwZ0JmOEd5MGp6cXFzLW0tTXM0VGFaSHFlYkkyTGZHOUZUWDZnUkZuNmxYdTU4U0ZpbWwxaHZyQVJncU1lZWFhaXZ3QkhPWGNNOHk4aS16TQ?oc=5",
           "domain": "iphoneincanada.ca",
@@ -897,6 +882,21 @@
           "quote_in": "title",
           "published": "2026-11-25T16:50:53+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Amazon Canada Black Friday 2026: Here are New Deals Added Today - iPhone in Canada",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmNRdFFNX25zc1dYdkpscVFxZkpyS0ZxME5NckhLVGNDcV9DdERYeExFRTZwOUp1U01nYlIxNnhsSktZbmJGMUJhZ0lic2htVjlsY3VPUTRnSDhRel9vTG1DZ0MxSUhnazVPZFlvX0dYb2NtbmhYcm5ZSks0dkw4MmRzaS1Kenh2VFRNN1BRWHNRRk5IdlNBWU1pdw?oc=5",
+          "domain": "iphoneincanada.ca",
+          "name": "iPhone in Canada",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Amazon Canada Black Friday 2026: Here are New Deals Added Today",
+          "quote_in": "title",
+          "published": "2026-11-26T00:06:02+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -906,7 +906,7 @@
         "end": 3
       },
       "first_seen": "2026-11-10T19:41:50+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "amazon-CA-cyber_monday-2026",
@@ -1730,21 +1730,6 @@
           "seen": "2026-11-21"
         },
         {
-          "title": "The Only Early Black Friday Deals Worth Buying At Amazon’s Secret Outlet—Shop Home, Fashion, And Gifts From $5 - Southern Living",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3JpTlNtejA5bmpPX1ZFM0dIQUN2WkxGc3l6OFhmd0ZjRUdzTzBGRVZZanM3NXJCeS10eWtoMGRSalgzVmFvLXdCZHozc1h5SkpHUWkwNFdVejFkRmxDQU9FLW5lalpDN250SFZIdFRGU3M1TDFyWi1YQzBYSC1rNy1WZll0UmJlU0dJ?oc=5",
-          "domain": "southernliving.com",
-          "name": "Southern Living",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Only Early Black Friday Deals Worth Buying At Amazon’s Secret Outlet—Shop Home, Fashion, And Gifts From $5",
-          "quote_in": "title",
-          "published": "2026-11-23T23:30:00+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Amazon is heavily discounting Kindle e-readers ahead of Black Friday — these are the 5 deals I'd recommend - MakeUseOf",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlQ2xFemE0cXgzanVRNU5YUDQ2bkR1TUpQaWhIWmF3UW1wQzhhMXN4UWJPQXhsR3FYYTBVM1N2NE9pVlcyQVFBSUEwTWZNNW85cVM0VUhxU2lpeENkMlVGT0dwWmczX1FGdzEta3ZqQWtaQQ?oc=5",
           "domain": "makeuseof.com",
@@ -1788,6 +1773,21 @@
           "quote_in": "title",
           "published": "2026-11-24T18:39:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "41 Of The Best Beauty Products To Buy From Amazon’s Early Black Friday Sale - BuzzFeed",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVB5T1VRQm8yRllDSmp3SFdqejlaN1dXZE5GeXNpVWppMnhHLU0zTldCSzJua3hZZ2hWejM2WV8tUDZXMkJTNWVEanVLRmNRM1Y1Y2FRSU5fT1JhTzh3OENnSVZFWUV5MWtHelZUSzc5ZVZDcEtMY3BBOExsQTRUWXN5X2I3V2MtR1JMR1VvZmRBOTA?oc=5",
+          "domain": "buzzfeed.com",
+          "name": "BuzzFeed",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "41 Of The Best Beauty Products To Buy From Amazon’s Early Black Friday Sale",
+          "quote_in": "title",
+          "published": "2026-11-25T14:37:12+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -1796,7 +1796,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "amazon-US-other-2026-blackfriday",
@@ -3515,24 +3515,9 @@
       "event_name": "Black Friday",
       "start": null,
       "end": null,
-      "discount": "$65 off",
+      "discount": "up to 40% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "I Shopped Hundreds of Black Friday Clothing Deals—15 Best Sales From Aritzia, Lululemon, Quince That Are Live Now - Good Housekeeping",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUllGVlJ2SndjRzdLM0ljeUZnaDl0eUdNSGhyMURIRzN6Skd6bFNoWU5FYVFaM0RDVHY0bUFGOWxuMmN5LXBsTkd0VVl5Y3c0dWxDTWpJUFNoRnJ3Si1SbDU5UC0zSzZzTGxtOHZTaFJIYmRDcEdjcWtUMzNtYWJjVW92QzNmbUF5ZVl4S1o0VXBEeXZmSHJYbHFlVkxqZw?oc=5",
-          "domain": "goodhousekeeping.com",
-          "name": "Good Housekeeping",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "15 Best Sales From Aritzia, Lululemon, Quince That Are Live Now",
-          "quote_in": "title",
-          "published": "2026-11-20T20:48:00+00:00",
-          "seen": "2026-11-21"
-        },
         {
           "title": "I Shopped Hundreds of Black Friday Clothing Deals—15 Best Sales From Aritzia, Lululemon, Quince That Are Live Now - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0NQWmZGaTRaR1pIOFFDRVBSSXNwQkNNQ2ZxSm9kenowSmZkS2RvRXo0YVZFc1p4N3ZoWTk3SmMyVEUwNjZ0b3dsSWZCR193OU03VHctVms4NE9QcjRpeTVhNDFzRXZQeTFLc2haVU1BWUVORkFPa25EaHhZdWZROEdiVk5FTTlyMDdYRkZlZzNZc01CS0hHa0RuOFdvd0NHTGczQ1h6OA?oc=5",
@@ -3622,6 +3607,36 @@
           "quote_in": "title",
           "published": "2026-11-25T16:32:06+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "The Black Friday Winter Coat Deals We’re Shopping Before the Next Snowstorm - E! News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3d6UDB1a2FBaFlCMmplWktvTUZ6RmR3clpDUnNxRi1wTFB0bGZtMVpkUUhUNVg0TjlRalNsWmV4clllTWlySkRNamp1M2hidmt5WHh3cUtqZW9laEVLclB1VlZkcmZRRVpYOGowZmtHakZLYm12TjhFODVWWDNGWkVXZllCeEQ0cWh2MktFcW1xOC1jVXdZeQ?oc=5",
+          "domain": "eonline.com",
+          "name": "E! News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The Black Friday Winter Coat Deals We’re Shopping Before the Next Snowstorm",
+          "quote_in": "title",
+          "published": "2026-11-26T01:00:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Aritzia's Super Puff jackets are up to 40% off for Black Friday - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0lXTVpxQUdDNTAxa3MwSnpMMTl3c3pnaXN5ZjFhNF9FS0thT1NYdnQxV19YblBhZFVCcFRmMG5FbG1nWFJSMEE1Q01wRmRtWmtldm1OblVlaVFsbWVvejd2dklWLTM2QjZsdGVpSF91R1ZzSnJzR3NobFVoSmIzbGVxN3c?oc=5",
+          "domain": "businessinsider.com",
+          "name": "Business Insider",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 40% off",
+          "quote": "Aritzia's Super Puff jackets are up to 40% off for Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-26T05:00:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -3629,7 +3644,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-21T07:02:09+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "aritzia-US-early_bf-2026",
@@ -4057,42 +4072,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday sale",
+      "event_name": "Best Buy's 2026 Black Friday Sale",
       "start": "2026-11-19",
       "end": "2026-11-28",
       "discount": "$200 off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Best Buy’s Black Friday Sale 2026 Is Live",
-          "url": "https://www.ign.com/articles/best-buy-black-friday-sale-2026",
-          "domain": "ign.com",
-          "name": "IGN",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-19",
-          "end": "2026-11-30",
-          "discount": null,
-          "quote": "Best Buy’s Black Friday 2026 sale is now live, running November 19 - 30.",
-          "quote_in": "summary",
-          "published": "2026-11-19T10:51:00+00:00",
-          "seen": "2026-11-19"
-        },
-        {
-          "title": "Best Black Friday Deals at Best Buy on 3D Printers, Drones, Gaming Gear, and Toys",
-          "url": "https://www.vice.com/en/via/best-black-friday-deals-best-buy-2026/",
-          "domain": "vice.com",
-          "name": "VICE",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": "2026-11-28",
-          "discount": null,
-          "quote": "Best Buy’s Black Friday sale is on now through November 28",
-          "quote_in": "excerpt",
-          "published": "2026-11-20T05:41:00+00:00",
-          "seen": "2026-11-20"
-        },
         {
           "title": "Best Buy, Target, and Kohl’s try to change holiday shopping",
           "url": "https://finance.yahoo.com/media-advertising/articles/best-buy-target-kohl-try-003700876.html",
@@ -4182,6 +4167,36 @@
           "quote_in": "excerpt",
           "published": "2026-11-25T02:24:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Black Friday 2026: Opening times for Walmart, Target, Best Buy, and more",
+          "url": "https://www.msn.com/en-us/lifestyle/other/black-friday-2026-opening-times-for-walmart-target-best-buy-and-more/ar-AA2ievBt",
+          "domain": "msn.com",
+          "name": "Mashable on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "Most major stores stay closed on Thanksgiving Day, Nov. 26, before opening bright and early on Black Friday.",
+          "quote_in": "summary",
+          "published": "2026-11-25T05:44:11+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "When does Best Buy’s 2026 Black Friday Sale end? Date, store timings, and more explored",
+          "url": "https://www.primetimer.com/news/when-does-best-buy-s-2026-black-friday-sale-end-date-store-timings-and-more-explored",
+          "domain": "primetimer.com",
+          "name": "PRIMETIMER",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-19",
+          "end": "2026-11-28",
+          "discount": null,
+          "quote": "Best Buy’s 2026 Black Friday sale runs from November 19 to 28, with discounts on popular tech, special gift card offers and additional Cyber Week deals through December 6.",
+          "quote_in": "summary",
+          "published": "2026-11-25T14:22:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -4191,7 +4206,11 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00",
+      "date_conflict": [
+        "2026-11-19",
+        "2026-11-27"
+      ]
     },
     {
       "id": "bestbuy-US-cyber_monday-2026",
@@ -4547,6 +4566,80 @@
         "~2026-11-17",
         "~2026-11-19"
       ]
+    },
+    {
+      "id": "bestbuy-US-other-2026-24hourthanksgivingauto",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "24hourthanksgivingauto",
+      "sale_key_kind": "name",
+      "event_name": "Best Buy 24-Hour Thanksgiving Auto Sale",
+      "start": null,
+      "end": null,
+      "discount": "up to 50% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Best Buy 24-Hour Thanksgiving Auto Sale: Up to 50% off + free shipping",
+          "url": "https://www.dealnews.com/Best-Buy-24-Hour-Thanksgiving-Auto-Sale-Up-to-50-off-free-shipping/22433469.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 50% off",
+          "quote": "Best Buy 24-Hour Thanksgiving Auto Sale: Up to 50% off + free shipping",
+          "quote_in": "title",
+          "published": "2026-11-26T08:08:16+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
+    },
+    {
+      "id": "bestbuy-US-other-2026-24hourthanksgivingflash",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "24hourthanksgivingflash",
+      "sale_key_kind": "name",
+      "event_name": "Best Buy 24-Hour Thanksgiving Flash Sale",
+      "start": null,
+      "end": null,
+      "discount": "Up to 65% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Best Buy 24-Hour Thanksgiving Flash Sale: Up to 65% off + free shipping",
+          "url": "https://www.dealnews.com/Best-Buy-24-Hour-Thanksgiving-Flash-Sale-Up-to-65-off-free-shipping/22433449.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Up to 65% off",
+          "quote": "Best Buy 24-Hour Thanksgiving Flash Sale: Up to 65% off + free shipping",
+          "quote_in": "title",
+          "published": "2026-11-26T07:58:55+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "bestbuy-US-other-2026-blackfriday",
@@ -5186,6 +5279,72 @@
       "updated": "2026-11-07T21:47:11+00:00"
     },
     {
+      "id": "bestbuy-US-other-2026-thanksgivingflash",
+      "brand_id": "bestbuy",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "thanksgivingflash",
+      "sale_key_kind": "name",
+      "event_name": "Best Buy's Thanksgiving Flash Sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Insignia F50 43\" 4K LED UHD Smart Fire TV for $90 + free shipping",
+          "url": "https://www.dealnews.com/products/Insignia/Insignia-F50-43-4-K-LED-UHD-Smart-Fire-TV/498711.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "As part of Best Buy's Thanksgiving Flash Deals, this Insignia 43\" 4K Fire TV has fallen to just $90.",
+          "quote_in": "summary",
+          "published": "2026-11-26T08:00:28+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Sony DualSense Wireless Controller w/ God of War Ragnarök for PS5 for $72 + free shipping",
+          "url": "https://www.dealnews.com/Sony-Dual-Sense-Wireless-Controller-w-God-of-War-Ragnar-k-for-PS5-for-72-free-shipping/22433466.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "As one of its Thanksgiving flash deals, Best Buy bundles a copy of God of War Ragnarök with a DualSense controller for just $72.",
+          "quote_in": "summary",
+          "published": "2026-11-26T08:03:53+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Unlocked Apple iPhone Air 256GB Smartphone for $750 + free shipping",
+          "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "As part of Best Buy's Thanksgiving Flash Sale, the 256GB version of the Apple iPhone Air is now $750.",
+          "quote_in": "summary",
+          "published": "2026-11-26T08:06:35+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
+    },
+    {
       "id": "bestbuy-unknown-black_friday-2026",
       "brand_id": "bestbuy",
       "region": "unknown",
@@ -5259,7 +5418,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Sam’s Club Black Friday Sale",
+      "event_name": "Black Friday sale",
       "start": null,
       "end": null,
       "discount": "up to 50% off",
@@ -5369,6 +5528,21 @@
           "quote_in": "title",
           "published": "2026-11-25T14:00:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Bose’s Sonos-rivalling Lifestyle Ultra Speaker is finally on Black Friday sale - Trusted Reviews",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGQ0VGhRZXpJeGxZUjhMb3hPb2ZjRTRpVTMzSllnQWtuWWhuZDI2UzB3QjE1VkJDNUNIUWZHNnBjNWJTa09yeDVIdHZ3TWphQ09HUVN1OFdSUTQ5bm10TlJXNkFtdVBQVEtBOHlWV0VxamdvRVdmTE93X1hTWmNIOGVBbVBkalNEWkpBRXp3RFJKakUxZVVwbnhNeDZ3WFI1a2ZLaG5kUUstbWN6bXlLZjdXMGM?oc=5",
+          "domain": "trustedreviews.com",
+          "name": "Trusted Reviews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Bose’s Sonos-rivalling Lifestyle Ultra Speaker is finally on Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-25T09:39:43+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -5376,7 +5550,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "bose-US-cyber_week-2026",
@@ -6004,42 +6178,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Macy's Black Friday sale",
+      "event_name": "Black Friday",
       "start": null,
       "end": null,
       "discount": "Up to 73% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Coach Black Friday deals are live, with extra 25% off select Coach Outlet styles. - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREx0VGNmZ0JIb2hYZWt5d3RtaWp5LTZ5dnFMRDNjZ1M1U1U5WHg3bkdCLWlVSUFobkotNDlPN1FSMGVVdTU3WkVhM0p5aFEyNmdBZXRTdEQ0SnFJSTN5YUc1dHpNOVFvREVaQmZfUFNzR1hrM2ZkMGc3a000a1ZIQ29OcWk4WXM?oc=5",
-          "domain": "businessinsider.com",
-          "name": "Business Insider",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "extra 25% off select Coach Outlet styles",
-          "quote": "Coach Black Friday deals are live, with extra 25% off select Coach Outlet styles.",
-          "quote_in": "title",
-          "published": "2026-11-20T17:54:00+00:00",
-          "seen": "2026-11-20"
-        },
-        {
-          "title": "The Coach Outlet Black Friday sale is on! Get totes, wristlets and more for very merry prices - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSWp1dVFfMXpuUkYxMUhJVEtpRWV2SVRzY1VlZV80OWFYNUZoWXJtSUJ2NndxT2xFaFNiZzZ1ejNtQUZRR3FZZmozLWFXcTZwaDRzRVRfd1gzWVRSYnRnSUVsSmRnSzdNUllxLVI4OUJtU0diQ292SDNjeWZfT0lnaXRXYll1Vy1VVDJXZGlFbk1XQkZZdmVtNWJnSHcwSXVwbUpZeldKUXhmaDd5WkNIQnNrQ1BJTXQxNS1xOF9iSHFwZ0dVc1pFWkVNTTdSWEhwa0RYR09qT1ZaSW9jdjVCT2xVcEVuLUs5STlEaWJzblJNSGM?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Coach Outlet Black Friday sale is on!",
-          "quote_in": "title",
-          "published": "2026-11-20T21:14:23+00:00",
-          "seen": "2026-11-21"
-        },
         {
           "title": "The Coach Outlet Black Friday sale is here! Get totes, wristlets and more for very merry prices - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNHF6V0E5bWxpV1k2QVdmSjc5REdORjU3V0FlY1p3T20xVS1KcHZSOGVFaW1kU040OHl3Tmp2WWh2Uk5QNXBPY3N5bXVoMzYyMy1NLW9PejRXZ0ZTSHJ1bzNZNi12Rm1fUTl4X3RQaE5IQm1UQTVfWWN2aGFNdUdLbUJtTEJmWi1GMEJ1VTZsbWZVYVo5QUJ6R0pBVTJWNWQ0RUFBblhVUnFjN3NnYlhscnRwbGtMZnFMd1JqeUl2MXlBc0RZZjd0T3ozMnJwcncwY2drTGhWbnBnQTZaQlh6cFZMUUVBS1FJNUdBd2ZtVXprOHlKY1E?oc=5",
@@ -6069,21 +6213,6 @@
           "quote_in": "title",
           "published": "2026-11-24T14:16:13+00:00",
           "seen": "2026-11-24"
-        },
-        {
-          "title": "Coach Black Friday deals include bags up to 40% off and extra Outlet savings",
-          "url": "https://www.businessinsider.com/guides/deals/coach-black-friday-deals-2026-11-20",
-          "domain": "businessinsider.com",
-          "name": "Business Insider",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 40% off",
-          "quote": "Coach Black Friday deals include bags up to 40% off and extra Outlet savings",
-          "quote_in": "title",
-          "published": "2026-11-20T09:54:00+00:00",
-          "seen": "2026-11-25"
         },
         {
           "title": "Coach Outlet Black Friday 2026: What shoppers need to know before sales begin",
@@ -6129,6 +6258,51 @@
           "quote_in": "title",
           "published": "2026-11-25T20:50:29+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Does Coach have Black Friday sales? What to expect from Coach and Coach Outlet - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWMwZnZvQnBNMjBmSHROQnV6Z2t1Zk45c2ZicUExTDVNRVJTeW1PQVBZd1hpcUhXdUVtRTE0OF9fZDVkc3JEeGN2R1dOd0ZaYjdKTHpHeUxQd1J2NlQ5eUVId0UwVWVySkRiVU56YUpYU3VCaVIyVExlUjdBNlNnZFRRTno3Xy1VcUV1M2E1RnlHR1JMNC1TWEJDVDdZOUlv?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Does Coach have Black Friday sales? What to expect from Coach and Coach Outlet",
+          "quote_in": "title",
+          "published": "2026-11-23T15:25:33+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13 - People.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmRMWnpuQi1CeTRNUGNxYmNSVlVUaGN3WjRsc00ydEdWWUFxZXNVZ3ZvZEdwRWtsbGdsTWVydUdqQk5HZ1hlSUIweUU3S19GX1Btb1JtcFNxdlRtN1JRQkkxdUVGbm1acVJpaHhRb29wV3dPaDROa1dEOEZkc3lfanlfVnNpZw?oc=5",
+          "domain": "people.com",
+          "name": "People.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13",
+          "quote_in": "title",
+          "published": "2026-11-26T01:00:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13 - شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RYy1IZ0xFNkwyWEp3bkl1V0hvZ0NmbzR2TlYyZF85TW1hQnlWOFRuelAtNU0wU2doN0RUYlFQMXB3YUl0UXcxbGdnQWU3UnZKRjJ3?oc=5",
+          "domain": "twaslnews1.twaslnews.com",
+          "name": "شبكة تواصل الإخبارية",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13",
+          "quote_in": "title",
+          "published": "2026-11-26T01:05:15+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -6136,7 +6310,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "coach-US-early_bf-2026",
@@ -7194,42 +7368,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday PC deals",
       "start": "2026-11-23",
       "end": null,
       "discount": "$450 off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Everything You Need To Know About Black Friday 2026: The Biggest Sales, the Best Deals, and More - PCMag",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlhENTR0ckIxeDdRSzJGVUU1S2ZjWXo5RWVCV1FwRENuZjJYNm9HYm9BdGZlYVA5Z2dYUzFRc253MHFYS0M0MTVQYm5nTVNXTmd2a1M2UGRzTjBaT3c0akh2UTljb2p2dnptVHU2Wld0dFduY05qT1FzUXU5WGMwWjR0VnJySmowT2VVM3lsOVFSWGhpd24zTi1CRnI?oc=5",
-          "domain": "pcmag.com",
-          "name": "PCMag",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Everything You Need To Know About Black Friday 2026: The Biggest Sales, the Best Deals, and More",
-          "quote_in": "title",
-          "published": "2026-10-29T07:00:00+00:00",
-          "seen": "2026-11-02"
-        },
-        {
-          "title": "PC Liquidations B2B Black Friday Deals: Up to 60% off + shipping varies",
-          "url": "https://www.dealnews.com/PC-Liquidations-B2-B-Black-Friday-Deals-Up-to-60-off-shipping-varies/22384379.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "Up to 60% off",
-          "quote": "PC Liquidations B2B Black Friday Deals: Up to 60% off",
-          "quote_in": "title",
-          "published": "2026-11-12T13:25:40+00:00",
-          "seen": "2026-11-12"
-        },
         {
           "title": "Dell Goes Into Black Friday Mode, Dropping Its 15.6-Inch Laptop to Nearly Used Model Prices on Amazon - Kotaku",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFpZR3FWVHFoUFNKMlhXdU9mMU5UUXAtaFpFbGlMV25nN1RxdHg3N2M2azlMWDBkbzVjdTZzbU5XTnAtekNzUjhsSEdBSW1nbDJNYnhyVGVIRlJKUTk2VHl2TzJjZjhIeDBBYWRoNEViRmdlS25qNXVhVHFxT0NTRmpnMjNKb3hZcTNsdWM0RHg4akxMTEJ4YXAwSEptNGhxNkd4ZGdQdk9Fem5ldTROaVgyM2Q1SFBZU2ZIckVGWDRQMVBzRnlySkpB?oc=5",
@@ -7319,6 +7463,36 @@
           "quote_in": "excerpt",
           "published": "2026-11-24T14:07:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Best Black Friday Alienware and Dell deals 2026 — hot deals on gaming PCs and gaming laptops - Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRREVmaWU4cXRqUXdBODdLYVVGUGY5VlA3TmNoR2VISGJhbllRTXpWUl91Nm9JX0g2T0txSUR1cW5fM2w4RDd4eXFCejdHMUlRNlRPekEwRnNRVEVHRW95b1loblU?oc=5",
+          "domain": "tomshardware.com",
+          "name": "Tom's Hardware",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Best Black Friday Alienware and Dell deals 2026 — hot deals on gaming PCs and gaming laptops",
+          "quote_in": "title",
+          "published": "2026-11-24T16:20:29+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Black Friday PC deals: save on Acer, Dell, HP, and more — including gaming PCs with Nvidia 5060Ti and 5070 GPU options - TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWdqRFBTaWVnQlI5d0FVU1BmNTVIVWdvMGExODhaYnphbVBoZ2JNN1d1Sy1SUE11ZGo3bE5OR0l4V2xIajBfakxpdFlobUVwUWotX1VEdlJBbGxmaUp2bzV4Ql9oMmg5WjRtQmFsWV9aWG1RN0JmNGYyeW1XV3ktWWd1XzA2YlAyYnpta3ZtWGJVaHF0Y0VvVGNRdFRsakdmU2Y0NzJoZ0tOMkhva1FsXzZ3N3VXa2pOcTh3SEk4RGV5MG00RFBWWUNRbW9GUzBaV2o1WkhvTHIwRmpRbURaVk9sc2Ryd0JoOFU3aUs4a2loUQ?oc=5",
+          "domain": "techradar.com",
+          "name": "TechRadar",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Black Friday PC deals: save on Acer, Dell, HP, and more",
+          "quote_in": "title",
+          "published": "2026-11-25T09:24:21+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -7327,7 +7501,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "dell-US-early_bf-2026",
@@ -7690,10 +7864,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Dyson Black Friday deals 2026",
+      "event_name": "Black Friday",
       "start": "2026-11-27",
       "end": "2026-11-30",
-      "discount": "$100-Off",
+      "discount": "up to a Massive $330 Off",
       "status": "rumored",
       "sources": [
         {
@@ -7710,36 +7884,6 @@
           "quote_in": "excerpt",
           "published": "2026-11-09T12:27:00+00:00",
           "seen": "2026-11-09"
-        },
-        {
-          "title": "Dyson’s Black Friday sale has the biggest deals on Airwraps & popular hair styling tools this week - NJ.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXU1eVpGcnVNRG45NTFJVTl3dWp0MGNMdzZ3N09TNEp6RS1IeXJ1d3p3TmhLc2dQVTVYa3VwbDVsWks1UTdyODBZc0tqOU4zYzNIcllad3dGbzJkS2xMdnh1cTRpc25ybU82SXNUeUVpNXhkWGVvZGhfQlRxUGdPX0gzLWpfSHpFZE5nSU9Uc0ptVVo4NG5YalFxQS1MZDdHRDRKZmdjU2tnTm5IdWU1eS1Fc0NYUGpfbkE0cDRzZXZTaXdveFpNSURUQlZkdnFIV2Q1UE9B0gHqAUFVX3lxTE9tM1RVQnRUQndMSnlzaU9odWZLMXllX2MxcDNVcHpHeWJMdFFmaFRmakt6eV9qVmpieEtlVlgtb0ZhWUJDTnhLV0drY3FicUV5dzJzc2xJdFFwSUJGUG1HNEJhZ2pBVjB5cldaUDBnTzJONGd3NnZFYjlOa1FzLWxKeDlHemNWc1pwVlJ6ZE1CM1FvdmxCcDRsYmdxTW1HaW9wWHd4YUw1UV9Yal9iTXFISWxpSF8wUHFjeXYzTGh6OThkTXVQQW1weEVCWWduRkVtU3ZiejZUNHU3N3NaWUdad01sMjUtVDVaUQ?oc=5",
-          "domain": "nj.com",
-          "name": "NJ.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Dyson’s Black Friday sale has the biggest deals on Airwraps & popular hair styling tools this week",
-          "quote_in": "title",
-          "published": "2026-11-23T20:00:00+00:00",
-          "seen": "2026-11-23"
-        },
-        {
-          "title": "Home Depot Black Friday Floor Care Sale: Up to 40% off + free shipping",
-          "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Floor-Care-Sale-Up-to-40-off-free-shipping/22427446.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 40% off",
-          "quote": "Home Depot's Black Friday Floor Care Sale takes up to 40% off select vacuums from Bissell, Dyson, Ryobi, Shark, and iRobot.",
-          "quote_in": "summary",
-          "published": "2026-11-24T08:24:39+00:00",
-          "seen": "2026-11-24"
         },
         {
           "title": "Dyson's lightweight cordless vacuum is a whopping 55% off for Black Friday - Fox News",
@@ -7815,6 +7959,36 @@
           "quote_in": "title",
           "published": "2026-11-25T20:15:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Dyson Black Friday deals 2026: Shop the best discounts - ABC7 Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm9JdFNZMExBOGtVdEhkR3VFaWc2ajBSOG8xU3ZMRUZKNTRQcUtOMVFhTkNQS3AybS1rVzVfU0RsNG5YeDRncWxlWUxiWjhJVHRCc2I4TThPTFlDS1JFMlJDZ2JxT0U2bDJhbmJQTGhqS21RZGNiNlhwUjlPMHJ0NkZOX2FWZ2Jx0gGOAUFVX3lxTE1yNGVWcHZnbEFfaFpfLWtROXZEZko3WWRFU3ktWmpBMFhFZ3Nic1hKRnJTZmJWM09oUlpLaWZERU9FV2JGLTlFMjB6bnQ4LU1MZkdvaTNhYjhzdk9rZjUzZnRQWUl1OVFEMm5UbkhmQl90WmxyR2QxMXJPS1JwR3dQREgwVlVoVUtlcDFrVGc?oc=5",
+          "domain": "abc7.com",
+          "name": "ABC7 Los Angeles",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Dyson Black Friday deals 2026: Shop the best discounts",
+          "quote_in": "title",
+          "published": "2026-11-25T20:05:59+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Black Friday Is Here, and You Can Grab a New Dyson Vacuum for Up to a Massive $330 Off - CNET",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1lqWjZTVzRmVGZRLTdpOEtjRXJRTzBudk53MFk1UUpLUjVreUpNcTVCNVRpTmE4WEMzNWJjcW9Lekd4NEtrNG9LS1pSalAxYjlXQ3dqVGIyQ09mY0ppUkRoVThiR2lnc1R2WG1PLXVBY3pDYWp1Y3JKU3pIeG5NbDljVUY?oc=5",
+          "domain": "cnet.com",
+          "name": "CNET",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to a Massive $330 Off",
+          "quote": "Black Friday Is Here, and You Can Grab a New Dyson Vacuum for Up to a Massive $330 Off",
+          "quote_in": "title",
+          "published": "2026-11-25T22:45:19+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -7824,7 +7998,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "dyson-US-early_bf-2026",
@@ -7832,27 +8006,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Dyson’s early Black Friday sale",
+      "event_name": "early Black Friday sale",
       "start": null,
       "end": null,
       "discount": "up to $150 off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Early Black Friday deals live now: Ugg, Kate Spade, Dyson, Ring and more are on major sale for the 2026 holiday season - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWlpkaGF6bG5iSHpfdElMbDZwRlVyV2RKLWdia2lIVXdFMVZYclpCSUJ6b1FLcmVtaFZxeGhaQ2VkSXBaSGxLZ0NHa0VtMUxHYmY3MUlGQVFJSUVhbHAyOWxraEJBMlJPWVB1ZUZjcm9PaGlfQlBZUjFzSy0zcldMdUluckVrbWlpbUt1VGxNc3ZxTk12bDBHYzdPVGxrLWRKaG5EaktoY2FncG50amJCNHZ6dHIzQjktZEk4djV0c20wVHZtcjRKVmY1TmFRRWdueVNBbUJnTFhfNTc5VkNIOGtXYURzNFY5STFXb2s0eXJMaThmSmFJd0FUNnJHRWJUQmNwUTM5SXBsTllFdGpwdGh3?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Early Black Friday deals live now: Ugg, Kate Spade, Dyson, Ring and more are on major sale for the 2026 holiday season",
-          "quote_in": "title",
-          "published": "2026-11-18T15:50:17+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "Dyson early Black Friday sale: Save up to $150 on the Airwrap, Supersonic and more - Tom's Guide",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEFPNzM1TXpqazE5LTd0azdkajFnendhbnAwVlNCYkxkWWl5bzlTNGc5ZS1pelJVWnRFZTYzemdzR0lEc2RPVFQ2dzVzUWZjbmwtMWRtNG5hTGl1WEdaZGF5OEhYNUZoUVdRb1JNRlpocVRJdGF0S2dCMzcxRjFSU3g3RmJYaVhUTzAxSnFOY2pZNGtzdXo4M0R1S3NNVjhWSEFIaUF5VUR5a2ZUcThqckY0dFJfbEdC?oc=5",
@@ -7914,21 +8073,6 @@
           "seen": "2026-11-24"
         },
         {
-          "title": "The Best Early Dyson Black Friday Deals",
-          "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
-          "domain": "wired.com",
-          "name": "Wired",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Dyson’s early Black Friday deals start today, and these are the vacuum deals you don’t want to skip.",
-          "quote_in": "excerpt",
-          "published": "2026-11-18T21:59:00+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Give the gift of great hair: Dyson’s early Black Friday sale has up to $150 off their bestselling hair tools - PennLive.com",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLWZYN21qcVR4TmpnNkdTU09wcFZVZmhmRmVDeUQ1b1I5Qjk5VkVyMTVxVUpva05rblotM1JmalpkM3V0eE5tcXBuRl9hNWY5cE1BRGVoTC1fU3dqMGxWTHFuSmIxdEpVR241eTVHNi1JMVVnU2xha1M4U05uUHo3REZEOXhfSUlUT2N2SWNIWWhWS2ZPNnVNdU9rRFh3bGhNejg5dTRyenJjYWtrZFRwR3diSDJMT2tFaERFS29IYmI3alJHcVBhUnZ5a3VUM2JvOElhZF9wdUx3RUdrc2lQdmtpZjd6QzlTVHpMbG44QQ?oc=5",
           "domain": "pennlive.com",
@@ -7957,6 +8101,36 @@
           "quote_in": "title",
           "published": "2026-11-24T21:18:51+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "30 Percent Off Dyson, Ilia, and M.A.C: The Best Early Black Friday Beauty Deals - Head Topics",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbE1rOFNFYUdXbGd2aU5zVWdHYXcyUHdSaFpiZVVySXFPVFpaRDIzeXkzRDlDQW1WT0h2aHFnWW00eFpoNVp4bFlMVlh1elphNXREY3MxazY1anRfV3FPT2pQVXVIbUVvWWJLQzNtUVNXU1lqQmtabWhFOEZTdnA1alRxdmRIYjhpaHJzeDRZU1hWSFI3WkFza0dnR2w?oc=5",
+          "domain": "ng.headtopics.com",
+          "name": "Head Topics",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "30 Percent Off",
+          "quote": "30 Percent Off Dyson, Ilia, and M.A.C: The Best Early Black Friday Beauty Deals",
+          "quote_in": "title",
+          "published": "2026-11-23T18:48:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Give the gift of great hair: Dyson’s early Black Friday sale has up to $150 off their bestselling hair tools - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFZZcXNTY28tbGozcmluajhnNTRPVVFFRjFod19sMDZlZnAyZnhvTTNOeldoZ0ZPQTJ2UDJFOWNqN29oYi0wbWI1VXk4MzR6Z2wxRUNvYTJVaXB0XzNib3hnQ3lybzJhWXdJSkJqZGU2VWZWSnludkVDckx5T3FxMFlzdk11bnlwV2RNR0gtMTFJQkll?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $150 off",
+          "quote": "Dyson’s early Black Friday sale has up to $150 off their bestselling hair tools",
+          "quote_in": "title",
+          "published": "2026-11-24T21:19:48+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -7964,7 +8138,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "dyson-US-other-2026-blackfriday",
@@ -8192,7 +8366,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Gap Black Friday",
       "start": "2026-11-19",
       "end": "2026-11-30",
       "discount": "up to 70%",
@@ -8326,7 +8500,7 @@
         "end": 1
       },
       "first_seen": "2026-11-15T18:49:03+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "gap-US-early_bf-2026",
@@ -9122,36 +9296,6 @@
           "seen": "2026-11-21"
         },
         {
-          "title": "Holiday Decor Is Up to 75% Off for Black Friday at Wayfair, Home Depot, Tractor Supply, and More - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2tIcU0xY05XeWpRWTY1RGRQNndhZTlSOWRLVnEydDZ4RC1WVC1FUUZmZHZydGRSOUpYRktXYkZ0aFFNRGJRODhnMnhKa1ZNQlBfQ0lZQ3dNeVNMVHRQNTc1SlFqcG5Gel81TEhlVURqV3BqclBmLWlLYWlkMXl1LWoyeU9VTzBFUGlLRnlOWE9kQW82Q0k0OFM1ZlV4ejdCV0E?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 75% off",
-          "quote": "Holiday Decor Is Up to 75% Off for Black Friday at Wayfair, Home Depot, Tractor Supply, and More",
-          "quote_in": "title",
-          "published": "2026-11-25T17:00:00+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "The Home Depot Is Giving Away Free Milwaukee, DeWalt, and Makita Cordless Power Tools for Black Friday - Lifehacker",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYZHFSYnQtODlqUUcxUzdCelZxYXJaRm84TjNHV0ZscmtVS3pUUXNWcmM1bFZ4TDNGeWQwOVMwcXo2cWFrWUxycV9HaG9OMm1lTWlCQV9vRlVnTjlaMmdFOEM1TURJRmUwU1lYc25NWmp2djZMUkU0NkNIQQ?oc=5",
-          "domain": "lifehacker.com",
-          "name": "Lifehacker",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "The Home Depot Is Giving Away Free Milwaukee, DeWalt, and Makita Cordless Power Tools for Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-25T20:45:56+00:00",
-          "seen": "2026-11-25"
-        },
-        {
           "title": "The 21+ best Home Depot Black Friday deals on holiday decor, tools and more - NBC News",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckR5a0NCQ2tYYks2ZFBNQjlONXM2NENxZ19wczB0TUduNVlOeFBKWUczZEpyUHEtNjBaQlltYk9OMF9CWDVqaUNaSlprX0JNVWVRU3hoODAxei11eWxFNHBFQnlkN1dNZHQzME50Q0xCeXNEdFdKbTVwUGdjdGZxaVNkWGVjMGJPVTNoXw?oc=5",
           "domain": "nbcnews.com",
@@ -9180,6 +9324,36 @@
           "quote_in": "title",
           "published": "2026-11-25T21:06:09+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "How To Get Free Tools and Batteries at the Home Depot This Black Friday - The Drive",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3pZYkxMc2l1TmhCQ0hsUTVCc0FLcXE2RFo2VGQtR1VCVDRSRlJrQ3NDNm1MV19Zby14M2xaVVlhRVhOdTNvdElJNWgtemY1dHZkZFlKUURoYllEb0dHenl1NnFWV19JWHI2dDVuWHFibEY1bUJaNElNSnN5bUZiVW9xUVgzeEVpYWpFbVVVYVpuc2pvcEhBdVpEVWdmQUFYVG4w?oc=5",
+          "domain": "thedrive.com",
+          "name": "The Drive",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "How To Get Free Tools and Batteries at the Home Depot This Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-25T21:40:51+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Home Depot Black Friday Appliance Doorbusters In-Store & Online: Up to 50% off + free shipping on eligible items",
+          "url": "https://www.dealnews.com/Home-Depot-Black-Friday-Appliance-Doorbusters-In-Store-Online-Up-to-50-off-free-shipping-on-eligible-items/22424470.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 50% off",
+          "quote": "Home Depot's Black Friday Appliance Doorbusters featured around 140 appliances discounted by up to 50% off",
+          "quote_in": "summary",
+          "published": "2026-11-26T05:01:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -9188,7 +9362,7 @@
         "start": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "homedepot-US-early_bf-2026",
@@ -9196,27 +9370,12 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "The Home Depot early Black Friday deals",
+      "event_name": "Black Friday sale",
       "start": null,
       "end": null,
-      "discount": "up to 60% off",
+      "discount": "up to 65% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "The Home Depot Drops Tools Up to 62% for Early Black Friday - BobVila.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3BfcWN3UHpOZDJKTFpNZ1Zna2ctM3p1Y3hfOVExaXQ5WjhRRmQwcnhGYy1ON3VlU0xfYXRJY2hzM0VnM0x6X0k2Y0ZRQzN0MkpJeDFLQ2N1N1dNQkxzd1hVZEZMenlaU0VWNlVwMnNPYmdfM3RiUDFwYW91NUMwN3ZqOXZxdl9UdVk0QQ?oc=5",
-          "domain": "bobvila.com",
-          "name": "BobVila.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 62%",
-          "quote": "The Home Depot Drops Tools Up to 62% for Early Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-18T11:00:00+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "The Home Depot early Black Friday deals are live now — save up to 50% on Ryobi, DeWalt, Milwaukee and more - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWXZreEFHYTJWMDNuc29yVFkwOXluOXdGOTV5aXdkWjRGekdyYlA5YVZpTXQ0Yk0wSEFuNjlCUVcyczdmaFBrMUxiaUJCLVRST1hlVWtBQURsdjQ2N1Rha2wzYjBOVW5YTVJ1R3F6U2hSRXdXV1Z3QTRmVnp3ajBrUXRKV2ZjNWZOd2lCZVRsV2UzeEFXRkhjMXJBdFU2SWpENzdrbVVTdEs1QkU3UHJCNkVRck1xcDRKUm1JbHQ4Q0otUVJON1lYcnRHblFReHVNMVhmbmYtMkQtbTJKcG5XaGV4OE9TSHVsRzdscFJ4a2JPZ1NPTkItdzZPazhQeG9YeUE?oc=5",
@@ -9321,6 +9480,21 @@
           "quote_in": "title",
           "published": "2026-11-21T13:19:01+00:00",
           "seen": "2026-11-21"
+        },
+        {
+          "title": "Home Depot’s Black Friday sale has started early — get up to 65% off holiday decor, power tools and more - NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0dDU18yTFFFUVYxZE1YSlNjR0Vaa0U4dnJpXzlma2E5QURUUXRfaVpZcGMwb2xTb1NlVDNJS2xPVWE4cktEM0x6Y3ZGdlg4OHl2VkprV253cGVTQXJJbGN6bEUxa0RsYTJtanM3bGYtNUMwUlVKRF9uSHVBXy1iWUx3SHIwMENzVmRxbUUwdndzQWQ3dko5ajR0V25RQ3M5a0M5QjlTSzdZU3FBbkVuaTJsVGtILW5DVTEtWU5KSGFWRk5weGNMWjlabGFsZS0xcU5vMjNoVXBxTjVOMTctVVg5a29GQzQ4YjdGcg?oc=5",
+          "domain": "newsbreak.com",
+          "name": "NewsBreak: Local News & Alerts",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 65% off",
+          "quote": "Home Depot’s Black Friday sale has started early — get up to 65% off holiday decor, power tools and more",
+          "quote_in": "title",
+          "published": "2026-11-25T21:37:57+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -9328,7 +9502,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-21T19:12:07+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "homedepot-US-other-2026-blackfriday",
@@ -9569,10 +9743,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "IKEA’s Black Friday Sale",
+      "event_name": "IKEA Black Friday Savings",
       "start": null,
       "end": null,
-      "discount": "50% extra",
+      "discount": "Extra $10 Off Every $100+ Spent",
       "status": "rumored",
       "sources": [
         {
@@ -9619,6 +9793,36 @@
           "quote_in": "title",
           "published": "2026-11-25T19:16:23+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "IKEA’s Black Friday Sale Is Live — Here’s What to Shop - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEpwOFlFU01rWUlNN3lfcUUzX1l1a0RUaC1HOVBzOHFleURNbHI2UnowYjVDQmtLUE9oczlId242OC1wX0R5NktXSmtzakw0S3dNRG9iVUg4VTUtcWlqQjgzTlRGcWlfWXVwNkhNOWF4TG90U0FWczhnVTBfZlpZZGtteHYweGJGbFJEN1piOHRfbXdnODJTbXBTN2YwMENTN3pmSU9ZUUJBWUE?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "IKEA’s Black Friday Sale Is Live — Here’s What to Shop",
+          "quote_in": "title",
+          "published": "2026-11-25T22:53:46+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "IKEA Black Friday Offer: Family/Business Members: Savings on Qualified Purchases Extra $10 Off $100+ (Up to $100 Off thru 11/30)",
+          "url": "https://slickdeals.net/f/20395779-ikea-family-business-network-members-save-10-for-every-100-spent-up-to-100-off-thru-11-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+          "domain": "slickdeals.net",
+          "name": "Slickdeals",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Extra $10 Off Every $100+ Spent",
+          "quote": "IKEA is offering their *IKEA Black Friday Savings* and offering *IKEA Family or Business Network Members* [Free to Join: IKEA Family or IKEA Business Network]: *Extra $10 Off Every $100+ Spent* (Max..",
+          "quote_in": "summary",
+          "published": "2026-11-26T08:11:21+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -9626,7 +9830,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-08T22:00:37+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "ikea-US-early_bf-2026",
@@ -10348,6 +10552,40 @@
       "updated": "2026-11-20T20:12:06+00:00"
     },
     {
+      "id": "lancome-US-early_bf-2026",
+      "brand_id": "lancome",
+      "region": "US",
+      "event_type": "early_bf",
+      "year": 2026,
+      "event_name": "Early Black Friday",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "These Cult-Favorite Beauty Products Are On Sale For Early Black Friday — The Hype Is Real - HuffPost",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM193dC1QN18zTGhFYWlaVGVxM1Q5MWZIWElWcmhhSTY1Q012ZHJBaURhbVo2bTdTMmh1eWVzOTl2ZW1zZkdVaHdoYXA0aUNxNTVCdFh3UzFvSDAzSEh1aVJBR1Q0ZkE1UXkyZG82b050UVIwak52M0RLU3F4eHpxMGV6TjJZYWhNd1lZUTN5R2dnelRiellJaWRxSGJ0d9IBowFBVV95cUxNakstRGdYSDFVbTlCckxEQmhmM0RibkVoRmZPV25sUEVpUzNtNVZyQWh0QjJwTnNLRUYwTGhQVndvLUdLWUJvZG1uUWt6ZkUtMDJWZ0VteHBXTGY4YVZfdXBEQ0lGbDhQR1BSeU5pRzRNLUw1Vzh3aEZTR092aVNsTVJqem5WQ3hubHdFa1c1NDBFQmY2TllJTEo5cFZ4WjVwS2Zn?oc=5",
+          "domain": "huffpost.com",
+          "name": "HuffPost",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "These Cult-Favorite Beauty Products Are On Sale For Early Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-19T11:00:18+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
+    },
+    {
       "id": "lenovo-CA-black_friday-2026",
       "brand_id": "lenovo",
       "region": "CA",
@@ -10613,7 +10851,7 @@
       "region": "US",
       "event_type": "cyber_monday",
       "year": 2026,
-      "event_name": "2026 Cyber Monday Sale",
+      "event_name": "Cyber Monday Deals",
       "start": "2026-11-29",
       "end": null,
       "discount": null,
@@ -10633,6 +10871,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-24T10:53:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Lenovo Keeps the Holiday Savings Going with Cyber Monday Deals on PCs, Tablets and Accessories - The Joplin Globe",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObXFKalpPbEtoUDlPUk14bWZWTHNYVF9CcE9iQUhZc3ZxTlNrVE1BZGIxZlZINHRMTmhzS3RtVENiY3BlZHU0WmUzRWVPaWwyVEh2bWtKSTVDanRBLWs2bnBPLXNCeTBXNmJRQ2pTTHpfcTh5Sl9qZkRqb3FYR3RjYTZfZHBiN3hGUlhKMWlSX2w3STFuQXoxdXJiZWNuNUNndktiNk9KcHN1RVphNGJHb0kzaTRkSFBmWFl3QlFSanp0a0FpNUNvcmNrQzVZdkVqRTFIcTlYU1dyNHFYNVl6cW1pYzVidV9VcndsazZXeEZueWhxV2M4TERweDBWVkNPU1JzN0xOOEotQmkxbkVNRE1HTG02N0NGNVVQZlNRei1mUQ?oc=5",
+          "domain": "joplinglobe.com",
+          "name": "The Joplin Globe",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lenovo Keeps the Holiday Savings Going with Cyber Monday Deals on PCs, Tablets and Accessories",
+          "quote_in": "title",
+          "published": "2026-11-24T18:53:46+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -10640,7 +10893,7 @@
         "start": 1
       },
       "first_seen": "2026-11-24T22:23:51+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "lenovo-US-cyber_week-2026",
@@ -11041,21 +11294,6 @@
       "status": "rumored",
       "sources": [
         {
-          "title": "Levi's Black Friday Sale: 40% to 60% off + free shipping",
-          "url": "https://www.dealnews.com/Levis-Black-Friday-Sale-40-to-60-off-free-shipping/22421049.html?iref=rss",
-          "domain": "dealnews.com",
-          "name": "Dealnews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "40% off most items",
-          "quote": "The Levi's Black Friday Sale is live with 40% off most items across the store.",
-          "quote_in": "summary",
-          "published": "2026-11-22T16:38:36+00:00",
-          "seen": "2026-11-22"
-        },
-        {
           "title": "All Our Favorite Levi’s Are on Sale for Black Friday 2026 | The Strategist - New York Magazine",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3d6cDQ1WVJXNGJNZ291UGJtRTMxS3lBVEZKNHBJYlNPbVY4d1RsaFFJS3QwRHgyLUY2ckt3YmhmdHpadFFKZ296bURad2dqM2xoVDFUemVLUDhqS2xJZVB5SWFrdkZYTTlYajhWSXMyYi15SlowZjc1UWRhbGNxRUFB?oc=5",
           "domain": "nymag.com",
@@ -11159,6 +11397,21 @@
           "quote_in": "title",
           "published": "2026-11-25T20:51:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Levi’s Denim Is up to 75% off for Black Friday—And I Just Scored Bella Hadid’s Shorts for $16 - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUhwNll4NVowNmEwVktQazNxalU4bXd5ODZrTXJIZHNzT2JTUnl2b3JHWjY4R0M4WlZOY3QwT0VrQTNyb3BCU05STFA2SG53ckNMSkpEX0MtdERvdHI1MzFuY0lYRk1yTFZrajNERGdNZUU4clcwbVV4Nm5VYnJxSm1jdEEzNTZjanBsTnY1dDlLUDg?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 75% off",
+          "quote": "Levi’s Denim Is up to 75% off for Black Friday—And I Just Scored Bella Hadid’s Shorts for $16",
+          "quote_in": "title",
+          "published": "2026-11-25T20:51:56+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -11166,7 +11419,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-19T20:32:09+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "levis-US-early_bf-2026",
@@ -11314,27 +11567,12 @@
       "region": "CA",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Black Friday sale",
       "start": null,
       "end": null,
       "discount": "up to 40%",
       "status": "rumored",
       "sources": [
-        {
-          "title": "lululemon's Black Friday sale is finally here — 20 best deals on belt bags, leggings, winter jackets and more",
-          "url": "https://ca.style.yahoo.com/lululemons-black-friday-sale-is-finally-here--20-best-deals-on-belt-bags-leggings-winter-jackets-and-more-033221358.html",
-          "domain": "ca.style.yahoo.com",
-          "name": "Yahoo Lifestyle Canada",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 40 per cent off",
-          "quote": "The lululemon Black Friday deals are up to 40 per cent off.",
-          "quote_in": "excerpt",
-          "published": "2026-11-18T19:32:00+00:00",
-          "seen": "2026-11-19"
-        },
         {
           "title": "Lululemon's rare Black Friday sale includes an 'amazing' $88 crossbody for $49, a 'spacious' tote for 45% off, plus 17 more deals on bags & accessories - Yahoo Lifestyle Canada",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSDg1TFZTTDZVLTJUdWZwQW9qVkJEeFdFRlp3VGNqT0NhU003Z1NlQXBCdU1ITjVBb0V5X3pLZWh0OVhJTms3cFBIakp0QWhRZWlJbUcxclJza1NEVzh3TkFLWjV4VGxjeTZIQnd4ZUxIS3JKYmh6TmtZeHNBX2dIcENteWxuVW94YW9obUM5YkVYdTktQTZadTZsbXd1U3RYZ1dJU2xKOTM5RS1sZDBNYjZVanVJb2cybWVMTzNqaWtHQ3ZpUjRxWS1sZlBKSlJCbHFzaGtXWG9OYkZkUVY1ZGpFVjhoMUZnUncwZjlqT0tmTkJIem1KZUk1SUwxUlRMdGFQZFBjblFfd3E1MWNv?oc=5",
@@ -11439,6 +11677,21 @@
           "quote_in": "title",
           "published": "2026-11-25T14:33:44+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "lululemon just added 500+ items to their rare Black Friday sale: Score the 'best bag ever' for $34, $118 leggings $64, plus 19 more scores for men and women - Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORVQtQ0RiTnY0SW1QMnBPYXVuZ3VVVUN5T21pMHQ4QWphRkVXZFVwMHAwanFaLThBUGU0MlF3Q0M2bElqV2pyU2NUNzhCQmx0dGVfMGxfM282QVlGcjJvUzRfVEhsTTJKNnRacnhDbkdhcUpaYjczNHhER1lvbmpFb3RoLWxqaHgtdGRJVFgzVFNZOUZoUWltNkdjYnk0U0MyZzY5TE9UWGNuRXlfZ1Z3Qy03WjhDTlFTNTRVN2IyZnpselpocEZYeV9qTVc0RWZudkc0cVktRzJPOWUxSURCTDZOWlFadDY5aHFPT09xRTdWV3JLTWdtSy1uUmhqS2RCTzBHYmJ1RThBbE9pYjZUb0Jwak9SRTlM?oc=5",
+          "domain": "ca.style.yahoo.com",
+          "name": "Yahoo Lifestyle Canada",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "lululemon just added 500+ items to their rare Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-26T03:09:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -11446,7 +11699,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-19T07:20:44+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "lululemon-CA-early_bf-2026",
@@ -11524,7 +11777,7 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday apparel sales",
+      "event_name": "Lululemon's Black Friday sale",
       "start": "2026-11-19",
       "end": "2026-11-30",
       "discount": "over 60%",
@@ -11543,81 +11796,6 @@
           "quote": "Starting November 19, through Cyber Monday on November 30, Lululemon is offering up to half off editor-approved styles",
           "quote_in": "summary",
           "published": "2026-11-19T08:31:00+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "Not a Drill! lululemon’s Black Friday Sale Is *Finally* Here — Shop Leggings, Jackets and More From $9 - Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBWlF4b1lIazJ6YmtaVmxLc2pHTDdHRkxDaHNNTVlKbUx4RWVmR3BiT0dmOTFFVkJjVWFrMFB4Mnc0ekthelBOT3M0VlRBYjNoYzhJTlFud1hyc09UY1laeDl4cnFWRVpMc0dGTW1IckVTbFFrMkJYTlRCNFFUWFU?oc=5",
-          "domain": "usmagazine.com",
-          "name": "Us Weekly",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "From $9",
-          "quote": "lululemon’s Black Friday Sale Is *Finally* Here — Shop Leggings, Jackets and More From $9",
-          "quote_in": "title",
-          "published": "2026-11-25T10:15:48+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "Lululemon's Black Friday Sale Has Landed – and There's Up to 50% Off Top Gym Gear - Men's Health",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGpoUVEzOUNXRE5iclYzc2liZ3FSY3cxZ2hGR0RjQ2NrYkc1WEFJTjVRSDQxa3ZwNlphcTg0NDBtX0twOExrcTlTZzA4MVdvZFhWWVQ2MDMwZWlXWXgta21sRnMxYzEzYUdITlUydFE5ZFhZblJ5THQ1T19ZWTZIVzd3aTJGeVYyN1FJcW9rdFVJQQ?oc=5",
-          "domain": "menshealth.com",
-          "name": "Men's Health",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 50% off",
-          "quote": "Lululemon's Black Friday Sale Has Landed – and There's Up to 50% Off Top Gym Gear",
-          "quote_in": "title",
-          "published": "2026-11-25T10:58:40+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "New stores, Black Friday 2026 hours at NH's Mall at Rockingham Park - Seacoastonline.com",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUtXbkRDRUEwWXhya3R4Ti11MlNkYmZXMm45RUtmTWlvRkdCb2tVbW9pQWVGWU9YazdMWTFsaW81MEFMbmNwU0FqOGxaQ2FnLUJKZS05dGNRQ3QyejRjVklpbGk5MEdjV05qeVRkbC15eGtrb3YzZlkxZFFaT0Y0ekNnVGk2MVpzRGYwanE2TzQ3MjdWdlJOMVBSeVFKbklCSnk3YjJZQ05kSnFTQWltWkh3N3BCQ1o0OVh6V3VxN1gzVGd2MnNOODIwTGFIUFp6aE9NYXp6Xy12clF0Yk42UUgzb0xTbXUweDNiVHBYNA?oc=5",
-          "domain": "seacoastonline.com",
-          "name": "Seacoastonline.com",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "New stores, Black Friday 2026 hours at NH's Mall at Rockingham Park",
-          "quote_in": "title",
-          "published": "2026-11-25T12:12:00+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "Lululemon’s Black Friday Sale Is Here—I Found The 24 Best Deals So Far - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWpqV25CYXMyUE4xQVNpNzEyWVQ2OVJZY0l1YVNENDlKUnNCa3poZmlpWUk3Tm5Hb2xQNTB3NlFmV0dDQTczaTBrVmItX3F6TDc4amgtMmp2TElPellCTUVUU25uNnhZOXR1QnQwamNGb3N3ZTBlYW1USzg0LVY0TGk2dHRHUlgzMGU1Tm1ReFNxNXRnR2lQNVE5aG5rdw?oc=5",
-          "domain": "forbes.com",
-          "name": "Forbes",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Lululemon’s Black Friday Sale Is Here",
-          "quote_in": "title",
-          "published": "2026-11-25T14:20:35+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "The Lululemon Black Friday deals are here with up to 50% off our top-rated leggings and more - Good Housekeeping",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXlCeTdreS1fQmN2TEhFVVVFaTNwNHVtMmxQOXFmTmk4Q190NWZ6dGs1VEQxd0hEeVRzbmVFZmliWU9HX0tBU0tUTGJ4Z0VTbXlrckZlcno5TXViY1FncXU4bHduZUZhU0k0Mm0tazB5Tlo0bUJNT0FnOVF1VFRSVzJhaXRTMzFBenZFZ3NGand5QjhBQzdmQ1lWZWZqanViR25Qd2dUZEVCUQ?oc=5",
-          "domain": "goodhousekeeping.com",
-          "name": "Good Housekeeping",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 50% off",
-          "quote": "The Lululemon Black Friday deals are here with up to 50% off our top-rated leggings and more",
-          "quote_in": "title",
-          "published": "2026-11-25T14:59:54+00:00",
           "seen": "2026-11-25"
         },
         {
@@ -11649,6 +11827,81 @@
           "quote_in": "title",
           "published": "2026-11-25T17:35:02+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "When Does the Lululemon Black Friday 2026 Sale Start? Dates, Times, and More",
+          "url": "https://www.primetimer.com/features/when-does-the-lululemon-black-friday-2026-sale-start-dates-times-and-more",
+          "domain": "primetimer.com",
+          "name": "PRIMETIMER",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": "2026-11-30",
+          "discount": null,
+          "quote": "Lululemon’s general Black Friday sale began three days after the members-only promotion and runs until November 30, 2026, at 11:59 p.m. Pacific Time.",
+          "quote_in": "summary",
+          "published": "2026-11-25T15:23:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13 - People.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmRMWnpuQi1CeTRNUGNxYmNSVlVUaGN3WjRsc00ydEdWWUFxZXNVZ3ZvZEdwRWtsbGdsTWVydUdqQk5HZ1hlSUIweUU3S19GX1Btb1JtcFNxdlRtN1JRQkkxdUVGbm1acVJpaHhRb29wV3dPaDROa1dEOEZkc3lfanlfVnNpZw?oc=5",
+          "domain": "people.com",
+          "name": "People.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13",
+          "quote_in": "title",
+          "published": "2026-11-26T01:00:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13 - شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RYy1IZ0xFNkwyWEp3bkl1V0hvZ0NmbzR2TlYyZF85TW1hQnlWOFRuelAtNU0wU2doN0RUYlFQMXB3YUl0UXcxbGdnQWU3UnZKRjJ3?oc=5",
+          "domain": "twaslnews1.twaslnews.com",
+          "name": "شبكة تواصل الإخبارية",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "I Won’t Risk Waiting for Black Friday to Shop These Deals on Coach Bags, Lululemon Jackets, and More — from $13",
+          "quote_in": "title",
+          "published": "2026-11-26T01:05:15+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Hurry! Lululemon’s Black Friday Sale Is Unreal—Shop Leggings, Jackets, Belt Bags and More from $14 - EatingWell",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aS0tYTjFITnlpSTc3bldqRXpPQVJ5SS10M1FEM1BpcTZzbUxXaGRTRU5zUTJEQ2lzTnNPLUx4TDZFazJmLWdxc281OWoyd2MweE95MThnZm5HTVNuT3NDa3hPeGJjNTNSaUg3RHNPb3dKQmVJWDhyaw?oc=5",
+          "domain": "eatingwell.com",
+          "name": "EatingWell",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Hurry! Lululemon’s Black Friday Sale Is Unreal—Shop Leggings, Jackets, Belt Bags and More from $14 - EatingWell",
+          "quote_in": "title",
+          "published": "2026-11-26T07:30:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Here's the best under $50 deal I recommend in Lululemon's Black Friday sale - Tom's Guide",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblI5bVBkZlZmenl4WWtQNzhjZDNIel84UXlnQXRNSFZpaTVENTYxNlRLQ0xjTnpvbk5JNDVwWGpiVVJJTW1UNDA1R0ZKTUZrMVFXbmtVeFN4ZzQycGFpcHpVOHB0bDdCakZ4ckN0T0hRTVpDZDFBVEJ1eldfMUh5YTlUQzVPQ192RTlfa3ptWFgxNElraTBEVF9NelRNdjVVOC10YXdDU1htbjF3WTZLNDJGd3lRT3I5MHc?oc=5",
+          "domain": "tomsguide.com",
+          "name": "Tom's Guide",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Here's the best under $50 deal I recommend in Lululemon's Black Friday sale - Tom's Guide",
+          "quote_in": "title",
+          "published": "2026-11-26T07:52:30+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -11658,7 +11911,7 @@
         "end": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "lululemon-US-cyber_monday-2026",
@@ -11835,6 +12088,42 @@
       "updated": "2026-11-25T08:27:48+00:00"
     },
     {
+      "id": "lululemon-US-other-2026-biggestoftheyear",
+      "brand_id": "lululemon",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "biggestoftheyear",
+      "sale_key_kind": "name",
+      "event_name": "Lululemon’s Biggest Sale of the Year",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Lululemon’s Biggest Sale of the Year Just Started—These 20 Picks Made Our Wish List - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkZMWkNTcFZrVE92di13MUdsMDB2cWQ2UjQ3dlBBYnZDb1ByQTFQVTFNVmVQY0Y1Q2p3Q1ZOeDZjYjVTeTVvOXY0NkZyWVVSMURXYkdIVU1Ic0VfYTlWSXo5dFl3a3UzamNUdUJTa2VTZ0ZiOGo2bXlTTW5fSDB5bkpSRDIyZw?oc=5",
+          "domain": "aol.com",
+          "name": "AOL.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Lululemon’s Biggest Sale of the Year Just Started",
+          "quote_in": "title",
+          "published": "2026-11-19T14:54:46+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
+    },
+    {
       "id": "lululemon-US-other-2026-madetoomuch",
       "brand_id": "lululemon",
       "region": "US",
@@ -11933,6 +12222,21 @@
           "quote_in": "title",
           "published": "2026-11-23T17:35:45+00:00",
           "seen": "2026-11-23"
+        },
+        {
+          "title": "30 Percent Off Dyson, Ilia, and M.A.C: The Best Early Black Friday Beauty Deals - Head Topics",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbE1rOFNFYUdXbGd2aU5zVWdHYXcyUHdSaFpiZVVySXFPVFpaRDIzeXkzRDlDQW1WT0h2aHFnWW00eFpoNVp4bFlMVlh1elphNXREY3MxazY1anRfV3FPT2pQVXVIbUVvWWJLQzNtUVNXU1lqQmtabWhFOEZTdnA1alRxdmRIYjhpaHJzeDRZU1hWSFI3WkFza0dnR2w?oc=5",
+          "domain": "ng.headtopics.com",
+          "name": "Head Topics",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "30 Percent Off",
+          "quote": "30 Percent Off Dyson, Ilia, and M.A.C: The Best Early Black Friday Beauty Deals",
+          "quote_in": "title",
+          "published": "2026-11-23T18:48:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -11940,7 +12244,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-23T23:50:52+00:00",
-      "updated": "2026-11-23T23:50:52+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "mac-unknown-black_friday-2026",
@@ -12068,21 +12372,6 @@
           "seen": "2026-11-19"
         },
         {
-          "title": "Microsoft has launched a massive sale on Xbox games and accessories for Black Friday. - GameGPU",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW9uaU9lb2ZOT3RWb3gwdDFfcmppTWU3a0tOaUlTRk5ZdFhmQUJJX1JtUWNRV0lVSVlLckZ2VUxLYkV2TldxbXZsYU5QeEJiYWp3TTlxMC1jUW5yZlg1NkZ6VTZXaVZLejBwMGNTN2ZDYWhpRm93WmJxMnp6SXZ4TXVMd2JtaVdrTFAxS1BRcjc2eEJpaDNVS3hFS0RtRGFSOFd1X004QWwwck1Wd3pBck05d05mVVl4YzRsemFoS1c3UDJqZEFIU1R3?oc=5",
-          "domain": "en.gamegpu.com",
-          "name": "GameGPU",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Microsoft has launched a massive sale on Xbox games and accessories for Black Friday.",
-          "quote_in": "title",
-          "published": "2026-11-20T14:33:15+00:00",
-          "seen": "2026-11-20"
-        },
-        {
           "title": "Xbox Black Friday Sale 2026 Starts November 19 With Up to 80% Off Games - Windows Report",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU1ljVzVUcTJkbGgySWljbzFVaUcyZGlJNVZ1X2c1M19qZWtQZ1h2S0lSNUFKNnJaeU5uUEVWTy1JS19Rakh0Qm96ZVVYSjVHTGNwRkRfN01WdlFpNm14dzZDS0h4elJhWVlfam83bFVFWmQ0VEx6bmtRMVo1MUYzU2JHRk5IZldRSFNyLTV3S3NFMWpQN1BvWmdPQ3BrUQ?oc=5",
           "domain": "windowsreport.com",
@@ -12141,6 +12430,21 @@
           "quote_in": "title",
           "published": "2026-11-21T13:18:50+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Xbox Black Friday Sale 2026: Bundles at their lowest-ever price - TrueAchievements",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHpUemh0M2RDY05ETklPSkROSlBhN1NVMXNVdmljaHozRXdXUlo5MGZJU1R4eVh6TnY2OGR4LVdSSmpKVERxVmhSR2htbUE1WUxOdDdLMlRSQi1TRkFZOW9lUEpNZE1tWlpZRmVTdFc3Q3RReDczcWUxRWExV3p4RkJ0RGV3RGtoVzJsd293dFVMRm96MWN6RnBuTWpldi1pZWc?oc=5",
+          "domain": "trueachievements.com",
+          "name": "TrueAchievements",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Xbox Black Friday Sale 2026: Bundles at their lowest-ever price",
+          "quote_in": "title",
+          "published": "2026-11-25T16:25:33+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -12150,7 +12454,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T08:27:48+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "microsoft-US-cyber_week-2026",
@@ -12322,27 +12626,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Black Friday",
+      "event_name": "Nike Black Friday Sale 2026",
       "start": null,
       "end": null,
-      "discount": "extra 25% off",
+      "discount": "Extra 25% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "Black Friday deals — Costco Roborock & Nike Discounts Start Now - The Korea Daily",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWU9CQ05MbXBHbVRSU1k3LXFrX2JKam03aHdia0ZGQThFaTNXbXlidzA4SUc3NV9LejNVc3pORXlKeUd1MUpBeDBIQ3ZNdEJGaVFwai11V0d6bjBySGlfMldfZTAzMWhqakIyek5WdF84ZmgxdXFQdTFVTDEtTzYyd0dn?oc=5",
-          "domain": "en.koreadaily.com",
-          "name": "The Korea Daily",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Black Friday deals — Costco Roborock & Nike Discounts Start Now",
-          "quote_in": "title",
-          "published": "2026-11-17T17:41:28+00:00",
-          "seen": "2026-11-17"
-        },
         {
           "title": "When do Black Friday sales start? See dates for Nike, Target and more - The Providence Journal",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmRFYTh1N04wdUVOdElYd3JURTZfb1h0Q2pwZEJIQWRkTmY3SlRSRmUyVS10UlZ3TzVmaVdablVzdDhoOEUxcnZTWlVTcHpoUm1hY3FQeGNFRnZnYmI3dFFjZG1PcHltM19NY0c2MF9RbjJnTVFGSVNVbEppYlBabzNkajI5YjRRLXlvZjVCQ3pmSnVSYnBQdmJWQzhpeXUxaXR1cGNEZ0R5OEJPdEhwT1o1d3FLcVRqa1llazlOMEx1czlUV25J?oc=5",
@@ -12447,6 +12736,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-25T03:05:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Nike Black Friday Sale 2026: Extra 25% off + free shipping w/ $50",
+          "url": "https://www.dealnews.com/Nike-Black-Friday-Sale-2026-Extra-25-off-free-shipping-w-50/22420541.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "Extra 25% off",
+          "quote": "Nike Black Friday Sale 2026: Extra 25% off + free shipping w/ $50",
+          "quote_in": "title",
+          "published": "2026-11-26T07:41:31+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -12454,7 +12758,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-07T21:47:11+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "nike-US-early_bf-2026",
@@ -12927,34 +13231,34 @@
           "seen": "2026-11-25"
         },
         {
-          "title": "The 43 Best Black Friday Fashion Deals, From Nordstrom & Ssense to Net-a-Porter - W Magazine",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XM0hNbEE4bEluZjJuVkhkMTdTdUt2NUFsc1E1a0FOUjBCNGFYNmFjODVNNFRkRGxTWng3c01BeVRpLWwxUFF6VmpkZXRmZnNvdTlzRmthejg3SEkycHJCeVhNTUZpcHJKTTlLYl8tNWxjRzM1V3BZ?oc=5",
-          "domain": "wmagazine.com",
-          "name": "W Magazine",
+          "title": "Nordstrom Rack Coupon Codes for November 2026 — Black Friday Deals Up to 75% Off & An Extra 40% Off Clearance - SheKnows",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1hwYlAzamxMZEVZdFZvMjJoSFFJTlVWWlpYVE1jQ3JITXdPdjNtWWtIWkpiLTdiWkxHcUdJbWJudlFSQjRNTFcyUEE2bV85V2dqM25SMXBWNHJPVTE2WURiRzFuSlo3YU9tZl82d1kycEZYbFZ3TVM1eUYwU2FWSy0zOGllYjV4OXNPMDMzVm05VjMxZ2g2dWZ6YmNQTzFhNWhxTXZ0NzFrNnc?oc=5",
+          "domain": "sheknows.com",
+          "name": "SheKnows",
           "level": "other",
           "status": "rumored",
           "start": null,
           "end": null,
-          "discount": null,
-          "quote": "The 43 Best Black Friday Fashion Deals, From Nordstrom & Ssense to Net-a-Porter",
+          "discount": "Up to 75% Off & An Extra 40% Off Clearance",
+          "quote": "Nordstrom Rack Coupon Codes for November 2026 — Black Friday Deals Up to 75% Off & An Extra 40% Off Clearance",
           "quote_in": "title",
-          "published": "2026-11-25T13:00:24+00:00",
-          "seen": "2026-11-25"
+          "published": "2026-11-25T22:35:00+00:00",
+          "seen": "2026-11-26"
         },
         {
-          "title": "Nordstrom Rack's Black Friday sale has major deals on sweaters, boots, jeans and more from Kate Spade, Levi's and Nautica - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOLUR4cVNpUFlaRnRaQ3ZUMHNrNUdjdEtmZ1hFOG9nM3VLUDlNdU9PNkUxaEIycGdBSnpzS2U4S2RSYlNpRl95WEJua21veDNyUHhSRzJyNDROZU1SUUhrY0s5QjMtREZuemlLV05jVm5hcmx0MzF3MEo5SWlFSldiU0U2enNnNGpLZ2NDYnA5aDRXbFpZa201Qm4xU0FoZlUxQTNpSE9wUndiS0ZEX2FWWktPb1V0OWE5d3lFVHg2T2h2RlgtZFQtell4bFJjLUtLUERFa2U5c2VPeTJvckxnRWNhcFpUYVI1dldDY1ZjWVZUQWE2NTN3VkZkOG5wTVh0cDZzLVZOM21kLUVlYl9Ga0VIelI?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
+          "title": "The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything - The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2ZCSHhnNk42azVzeXNRaFNrN1J5MjZnY0dSa3JkMW1EQzRoQ0pEbEhYZUdadkQ4eEEyQVZSVmdTbENtVWM3aUZIMGQzaVdDa2dsSk4zcFVyZmFMTXNGT0lEY0loNWp4S2JaYTFjdU5WalZlaFFTZUxSVFN4RmxlRFdwamlUNml6Q0dCR3FiM04zRWl5UjVaOFJpMTBWdXFQQlFaYVFQODEtbGx5XzJta0hVWjNJUGpFaVlz?oc=5",
+          "domain": "hollywoodreporter.com",
+          "name": "The Hollywood Reporter",
           "level": "other",
           "status": "rumored",
           "start": null,
           "end": null,
           "discount": null,
-          "quote": "Nordstrom Rack's Black Friday sale has major deals on sweaters, boots, jeans and more",
+          "quote": "The 20 Best Nordstrom Black Friday Deals",
           "quote_in": "title",
-          "published": "2026-11-25T17:05:55+00:00",
-          "seen": "2026-11-25"
+          "published": "2026-11-26T04:53:33+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -12964,7 +13268,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "nordstrom-US-cyber_week-2026",
@@ -12972,7 +13276,7 @@
       "region": "US",
       "event_type": "cyber_week",
       "year": 2026,
-      "event_name": "Nordstrom's Cyber Week Sale",
+      "event_name": "Nordstrom Cyber Week Deals",
       "start": null,
       "end": null,
       "discount": null,
@@ -12992,13 +13296,28 @@
           "quote_in": "title",
           "published": "2026-11-23T08:00:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "My Aunt Is Shopping for Jeans, Coats, and Sweaters—Here Are the Nordstrom Cyber Week Deals I Sent Her - Who What Wear",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmQ2UlRFLUs5dUttbi0xcmlkNEd1b3htSjU2WFEzT2x1QldrUU85NktlYTROeVRCYW53VDJGUmUzUFZrdzJ2aG15ak1sRnREUTIzbTdGOTA3eFpfR2Y5RVVtdjRrSHZ6Z0ZuNmw1Qnd5X2l1TmdFZEdQOXl4TXdKWGFPMDNJWlZWVWZRbkxBYTYxS3Nva3c?oc=5",
+          "domain": "whowhatwear.com",
+          "name": "Who What Wear",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Here Are the Nordstrom Cyber Week Deals I Sent Her",
+          "quote_in": "title",
+          "published": "2026-11-25T21:00:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
         "event_name": 1
       },
       "first_seen": "2026-11-24T09:51:31+00:00",
-      "updated": "2026-11-24T09:51:31+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "nordstrom-US-early_bf-2026",
@@ -13006,10 +13325,10 @@
       "region": "US",
       "event_type": "early_bf",
       "year": 2026,
-      "event_name": "Early Black Friday",
+      "event_name": "Early Black Friday sale",
       "start": null,
       "end": "2026-11-11",
-      "discount": "up to 87% off",
+      "discount": "up to 75% off",
       "status": "rumored",
       "sources": [
         {
@@ -13073,21 +13392,6 @@
           "seen": "2026-11-20"
         },
         {
-          "title": "Nordstrom's Early Black Friday Beauty Deals Include Major Discounts on Dyson, Medicube, and More - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTZ4TldhQ24zZ0pYWWFRRWExYnlFOEcyTzZjcFVLdHY2MWJka2JvS19rNFJuVkVtVmg2ME1oNlNIaG5kbndUQmFwcm96MmI1cVVKV1owU2ZkYXBmOEtkUlFSVkVrZ0hXNjVzVUFqQ0drWmgyOTUtVmpPdEdFaWZKamRDNE5qM3ZJWTZiUWpFVm10Nkg0azd6Qw?oc=5",
-          "domain": "shopping.yahoo.com",
-          "name": "Yahoo",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Nordstrom's Early Black Friday Beauty Deals Include Major Discounts on Dyson, Medicube, and More",
-          "quote_in": "title",
-          "published": "2026-11-20T19:29:00+00:00",
-          "seen": "2026-11-21"
-        },
-        {
           "title": "UGG, Zwilling, and NuFace: The Best Deals From Nordstrom’s Early Black Friday Sale - New York Magazine",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczlodWh3dTJOc0NYeXRxSlMtX25PeFRMVy1XMWwxdUNDeUV4Q2RkbXVsSmhjbXV2Wm1GWTNzOF9TV3hrLXc4WVlTdnhVUXF6RTYzRXp2ektQMjRtMGIxZC1MbmZzTEluTFluMmVjRnFvbWpNNDBxd3pIWVRZWF85ZjhnWEdhTE00bnFjYlQ5QQ?oc=5",
           "domain": "nymag.com",
@@ -13131,6 +13435,21 @@
           "quote_in": "title",
           "published": "2026-11-24T12:00:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "Nordstrom Rack has viral beauty picks for up to 75% off during its Early Black Friday sale - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEJfS3FaU0JUNnV2a0ZEVFhQYm1IZ1lyUm1ybGYza2xSR3JVTW5ybFAwWUpYbXhPYW4xbUZFV3Jta25rVUQydnRyNU1HR2ItVnVVNlhZU2FvZnJ2bEVONnJadUxkYlNiSHBTclVpZGhQRXpqOE5IYm9BZW1Fc3hUMWxyUnhfN2gtN3pLLVNsX2xSS0NP?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 75% off",
+          "quote": "Nordstrom Rack has viral beauty picks for up to 75% off during its Early Black Friday sale",
+          "quote_in": "title",
+          "published": "2026-11-23T20:40:08+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -13139,7 +13458,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-05T19:55:03+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "nordstrom-US-other-2026-blackfriday",
@@ -13536,10 +13855,10 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Samsung Black Friday Deals 2026",
+      "event_name": "Samsung Black Friday 2026",
       "start": null,
-      "end": null,
-      "discount": "$750 off",
+      "end": "2026-11-30",
+      "discount": "up to $500 off",
       "status": "rumored",
       "sources": [
         {
@@ -13603,51 +13922,6 @@
           "seen": "2026-11-18"
         },
         {
-          "title": "If You Want a New Soundbar System, This Samsung Black Friday Sale Might Be the Best Time - Lifehacker",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrQWpSQWVRVzVjTHJvejVZb3RSQTZVWmk1S0VpRUZMVmFjU3FFV0NRSTRkMXRzZXhOV0p6WGQ2Y0ZGYlFhNVZoVmtFam1lVXRKaXVZRVlaMU00RXZSUHh6dXZiUUtETFpBZjdySTdWdTk2NjhjdFA4Y0dwcU80Zw?oc=5",
-          "domain": "lifehacker.com",
-          "name": "Lifehacker",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "This Samsung Black Friday Sale Might Be the Best Time",
-          "quote_in": "title",
-          "published": "2026-11-25T14:28:20+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "Galaxy Buds 4 Pro Review: Samsung's Best Wireless Earbuds Fall to $170 for Black Friday - Dawan Africa",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlpiTHYxRmszejhaemhuWVpnZVRScGdWVjNsU0U1TENpdWszODhwOWc2WnhQSlVpbXdLMUwwVk91bGZJN0d0TFdIc3BIVUY3RElySGozN19QRzdaaUxvb3VrWEs4aWZ1RXl2UkpWQzFfZGJmZjNZbVM3M2ZlMGh5SGdYOW10LWZwb0h3NnBYYVlqclE0cGkxd3ZTcmJQSDllM1N3TVV5bk9QZXhlVXJMczFJeUZleERtejFfXw?oc=5",
-          "domain": "dawan.africa",
-          "name": "Dawan Africa",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": null,
-          "quote": "Samsung's Best Wireless Earbuds Fall to $170 for Black Friday",
-          "quote_in": "title",
-          "published": "2026-11-25T17:41:47+00:00",
-          "seen": "2026-11-25"
-        },
-        {
-          "title": "Galaxy Book 6 Ultra is $750 off for Black Friday 2026 in the US - SamMobile",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmFQdVV0bkMxdE5nY0lEUE55SlFlQmlQclhFSkRCSm9ldlhQaXBFLVJua0xtQ3RSOUp5ZzFMX0daNWdKek4zWjlEZ1kyNmQ5aTVEcmxIcWNWWkV2SE5lNWdXbHpUQ3A5dTVrcGt3SmxjanJoVlVXeUhyRkVfZF9fLW94Zk5CeGRMZkIweXpLOTFjZDBzNlhRQkdB?oc=5",
-          "domain": "sammobile.com",
-          "name": "SamMobile",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "$750 off",
-          "quote": "Galaxy Book 6 Ultra is $750 off for Black Friday 2026 in the US",
-          "quote_in": "title",
-          "published": "2026-11-25T17:44:00+00:00",
-          "seen": "2026-11-25"
-        },
-        {
           "title": "Black Friday TV deals are here in all sizes from Samsung, Hisense, LG and more - Yahoo Tech",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3VFcFZaTWt3dWY2ZENtZ0dvZ0U0MlFkTlUtWEVyandLeXpJOXA5MlpObVNLZldxY0V1Z3p2dkVvWFZhbV9walZVMk4wTmd0VGs3YnZRbkN5R3RjMFRXRWZBWUFXR1dBUDNoaTBic3kyTU52b0Q3RE9iNG9Ib1ZXQ0FHRnNfdmpvM1dSbXh1MVFFX3NURmcxbWdoN2RFUFJRX1oyRUIya25YMFBqa05qYkpQTnF2UlRzajNRZG9KM19zVVUwMUtTaFpabEItdTFqNmticFFvZmw1QQ?oc=5",
           "domain": "tech.yahoo.com",
@@ -13661,14 +13935,60 @@
           "quote_in": "title",
           "published": "2026-11-25T17:52:15+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Samsung Black Friday sale 2026: Samsung Galaxy S25 to Z Fold 8 Ultra, check best deals on flagship phones",
+          "url": "https://www.msn.com/en-in/news/other/samsung-black-friday-sale-2026-samsung-galaxy-s25-to-z-fold-8-ultra-check-best-deals-on-flagship-phones/ar-AA2icn5P",
+          "domain": "msn.com",
+          "name": "Digit on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": "2026-11-30",
+          "discount": null,
+          "quote": "Samsung's Black Friday sale 2026 offers discounts on Galaxy S26 Ultra, S26, S25 and Z Fold 8 series phones until November 30.",
+          "quote_in": "summary",
+          "published": "2026-11-25T03:05:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Samsung Black Friday 2026: Find the Perfect SMART Match for Your Home This Black Friday - samsung.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVW1KUjYtbTlacUJkYVc5ZExkNTMtbU9hak5fbDVpTTZVV291ckFFcEVtSXRicnFYaUtLeGZTWHFzbmQ0bjFqeEdSUkVOeHl4NzRxaGtjTVEyNVZCOER3SnZ3MGExMnhaR3pLNnpyN0xiYkxwU2VlTGhCdGM0UjNYaGpIU3RmeWtzR0N3TUJTQzJENnhFai13M0NmT19paF9kUGxJbTBlM1ljcW9pZ2xhTFBoSDk?oc=5",
+          "domain": "news.samsung.com",
+          "name": "samsung.com",
+          "level": "official",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Samsung Black Friday 2026: Find the Perfect SMART Match for Your Home This Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-25T09:24:14+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Samsung's Black Friday Galaxy Deals Are Already Here With Savings Up to $500 Off - PCMag",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFZFTHppRVVndXM4UjZ1Y2NTQUxoV3YwaDFXQWtfbmVJc3pJbzMzdUJEM2tmTnV6aXBBaHpUVkVaRU9uQUE1UUZ0ME5JdXVpa1JhaElOWEpQejRBMjlsNzYwaWlCWWpCaFh0SXRpdkxORGZjci16U3dIR0hxLVgwc2JabWpIVXYxYlZ0ZnlvZXRRZ2VJ?oc=5",
+          "domain": "pcmag.com",
+          "name": "PCMag",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to $500 off",
+          "quote": "Samsung's Black Friday Galaxy Deals Are Already Here With Savings Up to $500 Off",
+          "quote_in": "title",
+          "published": "2026-11-25T20:09:21+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
         "event_name": 3,
-        "discount": 1
+        "discount": 1,
+        "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "samsung-US-early_bf-2026",
@@ -14440,10 +14760,10 @@
       "region": "US",
       "event_type": "cyber_week",
       "year": 2026,
-      "event_name": "Cyber Week sale",
+      "event_name": "Sephora Black Friday Sale 2026",
       "start": "2026-11-21",
       "end": null,
-      "discount": "30% off",
+      "discount": "50% off selected gifts",
       "status": "rumored",
       "sources": [
         {
@@ -14490,6 +14810,21 @@
           "quote_in": "title",
           "published": "2026-11-24T21:30:00+00:00",
           "seen": "2026-11-24"
+        },
+        {
+          "title": "How long will Sephora Black Friday Sale 2026 last? Details explored",
+          "url": "https://www.primetimer.com/news/how-long-will-sephora-black-friday-sale-2026-last-details-explored",
+          "domain": "primetimer.com",
+          "name": "PRIMETIMER",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "50% off selected gifts",
+          "quote": "Explore Sephora’s Cyber Week offers, including early app access, free sample bags, 50% off selected gifts, and daily brand discounts.",
+          "quote_in": "summary",
+          "published": "2026-11-25T08:07:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -14498,7 +14833,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-22T19:34:09+00:00",
-      "updated": "2026-11-24T22:23:51+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "sephora-US-other-2026-calendarfor",
@@ -15846,41 +16181,11 @@
       "event_type": "black_friday",
       "year": 2026,
       "event_name": "Target's Black Friday sale",
-      "start": "2026-11-22",
+      "start": "2026-11-27",
       "end": "2026-11-29",
       "discount": "up to 50% off",
       "status": "confirmed",
       "sources": [
-        {
-          "title": "Black Friday 2026 at Target: See the ad and early deals",
-          "url": "https://mashable.com/tech/target-black-friday-ad-scans-early-deals-2026",
-          "domain": "mashable.com",
-          "name": "Mashable",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-22",
-          "end": "2026-11-29",
-          "discount": "up to 50% off",
-          "quote": "Running from Nov. 22-29, the weeklong sale knocks up to 50% off across major categories like toys, tech, small appliances, and floor care",
-          "quote_in": "excerpt",
-          "published": "2026-11-19T19:00:00+00:00",
-          "seen": "2026-11-20"
-        },
-        {
-          "title": "Best Buy, Target, and Kohl’s try to change holiday shopping",
-          "url": "https://finance.yahoo.com/media-advertising/articles/best-buy-target-kohl-try-003700876.html",
-          "domain": "finance.yahoo.com",
-          "name": "Yahoo Finance",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-27",
-          "end": "2026-11-27",
-          "discount": null,
-          "quote": "The first 100 eligible shoppers at every store on Black Friday, Nov. 27, get a gift card worth $25, $50, or $100, and one per store gets $1,000.",
-          "quote_in": "excerpt",
-          "published": "2026-11-20T16:00:00+00:00",
-          "seen": "2026-11-21"
-        },
         {
           "title": "Target’s Black Friday Toy Deals Start November 22. Here’s What Waits Until the Second Drop. - Totally The Bomb",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TV054ZFpkWHlPU2VhRTJBMnNiWFRQTmVuWUVfWk1pLTFvd282TEg5Tm1FcTVDVkhZNDRYQkdXaktzV1lJSVprdGFlVFEyWFpMRTFEcGJDbXFfMW1mTlpkekN5amY4anlzUGM3NXl0Yw?oc=5",
@@ -15970,6 +16275,36 @@
           "quote_in": "summary",
           "published": "2026-11-25T12:46:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Black Friday 2026: Opening times for Walmart, Target, Best Buy, and more",
+          "url": "https://www.msn.com/en-us/lifestyle/other/black-friday-2026-opening-times-for-walmart-target-best-buy-and-more/ar-AA2ievBt",
+          "domain": "msn.com",
+          "name": "Mashable on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "Most major stores stay closed on Thanksgiving Day, Nov. 26, before opening bright and early on Black Friday.",
+          "quote_in": "summary",
+          "published": "2026-11-25T05:44:11+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Topps Brings Back Exclusive Basketball Release to Target Stores on Black Friday - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2hCeVQ2ZlZjTDJZMHlmd2xUemdwZXQwal9DRVd3TnB3OC1SZXV4dFNhN19qUWdsajNVZFpyOGd1WmhtS1N1MGY2eFVkRjNXMUgxSGRoY0VrM2pTcDhhejYwbEpldWR4bzBaOW0yelF2T25BTDRHaThCekNGVmYxVWhnYUp4a0ZISFdnNFhOR2w5TFpQbEI5bU1rdG5vNDB5T0VzQkNaMWlLQlg1eFRsSw?oc=5",
+          "domain": "si.com",
+          "name": "Sports Illustrated",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "Topps Brings Back Exclusive Basketball Release to Target Stores on Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-26T01:23:29+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -15979,7 +16314,7 @@
         "end": 1
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "target-US-cyber_monday-2026",
@@ -16411,6 +16746,43 @@
       "updated": "2026-11-10T07:13:52+00:00"
     },
     {
+      "id": "target-US-other-2026-christmastringlight",
+      "brand_id": "target",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "christmastringlight",
+      "sale_key_kind": "name",
+      "event_name": "Target Christmas String Lights Sale",
+      "start": null,
+      "end": null,
+      "discount": "BOGO 50% off",
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "Target Christmas String Lights Sale: BOGO 50% off + free shipping w/ $35",
+          "url": "https://www.dealnews.com/Target-Christmas-String-Lights-Sale-BOGO-50-off-free-shipping-w-35/22432012.html?iref=rss",
+          "domain": "dealnews.com",
+          "name": "Dealnews",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "BOGO 50% off",
+          "quote": "Target Christmas String Lights Sale: BOGO 50% off + free shipping w/ $35",
+          "quote_in": "title",
+          "published": "2026-11-26T01:58:42+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1,
+        "discount": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
+    },
+    {
       "id": "target-US-other-2026-circleday",
       "brand_id": "target",
       "region": "US",
@@ -16610,27 +16982,12 @@
       "region": "US",
       "event_type": "black_friday",
       "year": 2026,
-      "event_name": "Macy's Black Friday sale",
+      "event_name": "Black Friday Winter Coat Deals",
       "start": null,
       "end": "2026-11-27",
       "discount": "Up to 73% off",
       "status": "rumored",
       "sources": [
-        {
-          "title": "The North Face Black Friday sale is almost here – save up to 40% on the brand’s best outdoors kit - Runner's World",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGsxb1lLOHppVzJ1azR2YVdGM3c2RzRneFFNdXdrV2NPT1lQcjBNNjg4dTRKOWE1UGNEYzRsU1JoaFRtZFhDVWxtWjFldlpSMGFjSDhpWGd4N2pRVkNFbEx3cnFxSGxzWm9EVU5PenhQRDZMZTZsSFRQSWdSX0piSUNn?oc=5",
-          "domain": "runnersworld.com",
-          "name": "Runner's World",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 40%",
-          "quote": "The North Face Black Friday sale is almost here – save up to 40% on the brand’s best outdoors kit",
-          "quote_in": "title",
-          "published": "2026-11-18T13:12:45+00:00",
-          "seen": "2026-11-18"
-        },
         {
           "title": "I test outdoor apparel for a living — save up to 60% during REI Black Friday sales with deals on Patagonia, The North Face, Keen and more - Tom's Guide",
           "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMDVCQWEwZUJkVWR5b0RFamNGTWF2UVo3NkNESHBjUXJDNFFVY3ZQREFWQnhMSWUzSkNVb3FxZ3pha0hJTzNPTldhRHhVdnRQNjVSZlJkdHB3YjFCTUhFMFM0MXV0T1dXUVU5aDNOU3EwVERyTFoxZE9wZjdFQVRacHNQUWREYmpWZzJreHlKM3I3Zml3blZHdXpqdDFlN2FWU3YwbEFrNlNIWllsdDNtdlo4bFlqaDMtY2E1Z0JvajVqa01VdThHeVJFaW1VR0JYaEVITEthQkduNl9tSjFpM2I1SXQ3UTQwb0FRMjBwMjJhd1hWcFJrTG1yRVNDX2laY0ZhR3ZtWDJyamNVY1VGbUtYSm94aVYx?oc=5",
@@ -16735,6 +17092,21 @@
           "quote_in": "title",
           "published": "2026-11-25T20:50:29+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "The Black Friday Winter Coat Deals We’re Shopping Before the Next Snowstorm - E! News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3d6UDB1a2FBaFlCMmplWktvTUZ6RmR3clpDUnNxRi1wTFB0bGZtMVpkUUhUNVg0TjlRalNsWmV4clllTWlySkRNamp1M2hidmt5WHh3cUtqZW9laEVLclB1VlZkcmZRRVpYOGowZmtHakZLYm12TjhFODVWWDNGWkVXZllCeEQ0cWh2MktFcW1xOC1jVXdZeQ?oc=5",
+          "domain": "eonline.com",
+          "name": "E! News",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The Black Friday Winter Coat Deals We’re Shopping Before the Next Snowstorm",
+          "quote_in": "title",
+          "published": "2026-11-26T01:00:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -16743,7 +17115,7 @@
         "end": 1
       },
       "first_seen": "2026-11-18T20:28:47+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "thenorthface-US-early_bf-2026",
@@ -16950,6 +17322,42 @@
       },
       "first_seen": "2026-11-25T08:27:48+00:00",
       "updated": "2026-11-25T08:27:48+00:00"
+    },
+    {
+      "id": "thenorthface-US-other-2026-endofsummer",
+      "brand_id": "thenorthface",
+      "region": "US",
+      "event_type": "other",
+      "year": 2026,
+      "sale_key": "endofsummer",
+      "sale_key_kind": "name",
+      "event_name": "The North Face End-of-Summer Sale",
+      "start": null,
+      "end": null,
+      "discount": null,
+      "status": "rumored",
+      "sources": [
+        {
+          "title": "The North Face End-of-Summer Sale has Everything You Need to Get Ready for Fall - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORE9kQ0pqa3Fmd09yTjdPVERqTEI0MVlkNnJwczhtWkwtd3hMNFBuWXhMcXg1RTVBd05sZkgtSGt0OV9saDVFSjlQR3Nrc01iOVoyLUh3d3M1NDRHenpPU045ZmN5T2dIcVM2SldvVHdkMnlnVXVUdW54dFhXTVpadGlvNWFDNDdWc082alJiWWxGb0N4Wmww?oc=5",
+          "domain": "shopping.yahoo.com",
+          "name": "Yahoo",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "The North Face End-of-Summer Sale has Everything You Need to Get Ready for Fall",
+          "quote_in": "title",
+          "published": "2026-11-24T16:00:10+00:00",
+          "seen": "2026-11-26"
+        }
+      ],
+      "field_levels": {
+        "event_name": 1
+      },
+      "first_seen": "2026-11-26T08:12:36+00:00",
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "thenorthface-US-other-2026-fleecejacketatebay",
@@ -18086,36 +18494,6 @@
           "seen": "2026-11-03"
         },
         {
-          "title": "Live: Walmart’s 60+ Top Black Friday 2026 Deals – Shop Apple, Shark, TCL and More Starting at $20",
-          "url": "https://www.cnet.com/news-live/best-black-friday-walmart-deals-2026/",
-          "domain": "cnet.com",
-          "name": "CNET",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-23",
-          "end": "2026-11-29",
-          "discount": null,
-          "quote": "The second wave of the sale runs from today, Nov. 23, through Nov. 29.",
-          "quote_in": "excerpt",
-          "published": "2026-11-23T12:27:00+00:00",
-          "seen": "2026-11-23"
-        },
-        {
-          "title": "Zelda Switch 2 restock tracker: where to find the console in stock Black Friday week",
-          "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-tracker",
-          "domain": "theshortcut.com",
-          "name": "The Shortcut",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-24",
-          "end": null,
-          "discount": null,
-          "quote": "Walmart opens its Black Friday deals to everyone at 12:01am ET Tuesday, November 24",
-          "quote_in": "excerpt",
-          "published": "2026-11-23T21:21:00+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Walmart is closed on Thanksgiving 2026. Here's when stores open on Black Friday",
           "url": "https://www.msn.com/en-us/news/other/walmart-is-closed-on-thanksgiving-2026-here-s-when-stores-open-on-black-friday/ar-AA2i9sNQ",
           "domain": "msn.com",
@@ -18189,6 +18567,36 @@
           "quote_in": "summary",
           "published": "2026-11-25T09:00:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Black Friday 2026: Opening times for Walmart, Target, Best Buy, and more",
+          "url": "https://www.msn.com/en-us/lifestyle/other/black-friday-2026-opening-times-for-walmart-target-best-buy-and-more/ar-AA2ievBt",
+          "domain": "msn.com",
+          "name": "Mashable on MSN",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-27",
+          "end": null,
+          "discount": null,
+          "quote": "Most major stores stay closed on Thanksgiving Day, Nov. 26, before opening bright and early on Black Friday.",
+          "quote_in": "summary",
+          "published": "2026-11-25T05:44:11+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Walmart’s 2026 Black Friday and Cyber Monday Sales Are Live",
+          "url": "https://lifehacker.com/tech/what-to-know-about-walmart-black-friday-cyber-monday-2026-sales",
+          "domain": "lifehacker.com",
+          "name": "Lifehacker",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-12",
+          "end": "2026-11-15",
+          "discount": null,
+          "quote": "Walmart's Black Friday Deals Event 1: Nov. 12–15",
+          "quote_in": "excerpt",
+          "published": "2026-11-25T08:07:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -18197,7 +18605,7 @@
         "end": 2
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "walmart-US-cyber_monday-2026",
@@ -18225,21 +18633,6 @@
           "quote_in": "excerpt",
           "published": "2026-10-26T04:43:00+00:00",
           "seen": "2026-11-03"
-        },
-        {
-          "title": "Black Friday 2026 at Walmart: See the ad and early deals",
-          "url": "https://mashable.com/tech/walmart-black-friday-ad-scan-early-deals-2026",
-          "domain": "mashable.com",
-          "name": "Mashable",
-          "level": "other",
-          "status": "rumored",
-          "start": "2026-11-30",
-          "end": "2026-12-02",
-          "discount": null,
-          "quote": "plus a Cyber Monday sale running from Nov. 30 to Dec. 2",
-          "quote_in": "excerpt",
-          "published": "2026-11-13T02:00:00+00:00",
-          "seen": "2026-11-13"
         },
         {
           "title": "Black Friday 2026 at Walmart: See the ad and shop the best deals live now",
@@ -18330,6 +18723,21 @@
           "quote_in": "excerpt",
           "published": "2026-11-25T07:22:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Walmart’s 2026 Black Friday and Cyber Monday Sales Are Live",
+          "url": "https://lifehacker.com/tech/what-to-know-about-walmart-black-friday-cyber-monday-2026-sales",
+          "domain": "lifehacker.com",
+          "name": "Lifehacker",
+          "level": "other",
+          "status": "rumored",
+          "start": "2026-11-30",
+          "end": "2026-12-02",
+          "discount": null,
+          "quote": "Walmart's Cyber Monday Deals Event: Nov. 30-Dec. 2",
+          "quote_in": "excerpt",
+          "published": "2026-11-25T08:07:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -18338,7 +18746,7 @@
         "end": 2
       },
       "first_seen": "2026-11-02T03:42:28+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "walmart-US-cyber_week-2026",
@@ -19165,36 +19573,6 @@
       "status": "rumored",
       "sources": [
         {
-          "title": "Wayfair’s Black Friday deals: Outdoor holiday decor up to 60% off - BestReviews",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHBTb2VVMjl0VkJOaGc4TW95MmFMSTJ5VC1pMldtYnVZaDdKSF9XVm1NWFVEcWl4OVNQaXEzWllMOFlMeWJ2cTBReTRWcHhkaWZTaHBlSFVFRk44VnJkS3U2anBrT1lFNzYwUEV5RF9lODN2Z21BOFFMMTF0Sk11NVUzRQ?oc=5",
-          "domain": "bestreviews.com",
-          "name": "BestReviews",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 60% off",
-          "quote": "Wayfair’s Black Friday deals: Outdoor holiday decor up to 60% off",
-          "quote_in": "title",
-          "published": "2026-11-24T00:56:10+00:00",
-          "seen": "2026-11-24"
-        },
-        {
-          "title": "Wayfair is taking up to 80% off everything for Black Friday: Lowest furniture prices of 2026",
-          "url": "https://www.msn.com/en-us/lifestyle/other/wayfair-is-taking-up-to-80-off-everything-for-black-friday-lowest-furniture-prices-of-2026/ar-AA2i8yCZ",
-          "domain": "msn.com",
-          "name": "New York Post on MSN",
-          "level": "other",
-          "status": "rumored",
-          "start": null,
-          "end": null,
-          "discount": "up to 80% off",
-          "quote": "For Black Friday, Wayfair is taking up to 80% off bestselling furniture, rugs and more kitchen tools.",
-          "quote_in": "summary",
-          "published": "2026-11-24T10:41:53+00:00",
-          "seen": "2026-11-24"
-        },
-        {
           "title": "Wayfair's Black Friday sale is here, and these home deals are too good to keep to myself - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUt5Q2NQN0s4TFRxOGtrQkxSSmY2Y2pmdTZ1ZW5Dc29DYTVjVGhNcG16blM1VU9nTUQ4SVpOTzhIc3lOaUdIUG5lNXNqSmdKSkwtSzdabUxMZkFuYUhpS2xRV3VTMVhzaGIzMzIta3BxOTZ0S1Voc1MzZ2dpS2tkMGliam1Qd2lvYVMyWnEyRXB2Tkw2akJHVVhKdlpsV2tRdXZzVEstRDAtTUJ0UU1WNUM4cUM2dENPT3M1T045dXF6MHEyUFROZkJyLXBzM29CVnFaWk1VY25ISC1TSVQxUU5ZMXNJTzhmR3J6Wg?oc=5",
           "domain": "shopping.yahoo.com",
@@ -19283,6 +19661,36 @@
           "quote_in": "title",
           "published": "2026-11-25T17:00:00+00:00",
           "seen": "2026-11-25"
+        },
+        {
+          "title": "Holiday Decor Is Up to 75% Off for Black Friday at Wayfair, Home Depot, Tractor Supply, and More - BobVila.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFU1dXcTAtVWg0RWhvZ3JNQUxpM1RGY3RpVTN2RVphSUxPVEFzLTFCNkJVckxuVGFNWEw1ZGs3S2MySk9NZWJMOFowQ2R3YlB6SnhIY2VEN3dNeHpMSkw2aFpXQktIbHBoZ1J0QW5CSW9hRHJkOU8yNld3?oc=5",
+          "domain": "bobvila.com",
+          "name": "BobVila.com",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": "up to 75% off",
+          "quote": "Holiday Decor Is Up to 75% Off for Black Friday at Wayfair, Home Depot, Tractor Supply, and More",
+          "quote_in": "title",
+          "published": "2026-11-25T17:00:00+00:00",
+          "seen": "2026-11-26"
+        },
+        {
+          "title": "Multi-Dog Households Will Want to Stock Up on Wayfair's 10-Piece Chew Toy Set for Black Friday - ParadePets",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41Mjl3SHRFNkRQaHBreGFIU2V4ODV6eG5GQWJCeWh3d0d5NFRxWU95VGlkeVVMUGg3RjlPbFBXNzltMTBZSGJ6UTk1dFVVNFlweWUxR3hiX2VCVkh0aE43Nl80T0lqY3lmVDZPQVQwb01UZk10X3BseEVTa2s?oc=5",
+          "domain": "paradepets.com",
+          "name": "ParadePets",
+          "level": "other",
+          "status": "rumored",
+          "start": null,
+          "end": null,
+          "discount": null,
+          "quote": "Multi-Dog Households Will Want to Stock Up on Wayfair's 10-Piece Chew Toy Set for Black Friday",
+          "quote_in": "title",
+          "published": "2026-11-26T00:55:00+00:00",
+          "seen": "2026-11-26"
         }
       ],
       "field_levels": {
@@ -19290,7 +19698,7 @@
         "discount": 1
       },
       "first_seen": "2026-11-03T05:37:14+00:00",
-      "updated": "2026-11-25T21:39:17+00:00"
+      "updated": "2026-11-26T08:12:36+00:00"
     },
     {
       "id": "wayfair-US-cyber_week-2026",
